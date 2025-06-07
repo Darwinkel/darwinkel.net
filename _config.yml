@@ -1,0 +1,37 @@
+title: Mythopoetic Stoic Absurdism
+tagline: A philosophy of life for those who don virtuous Stoic armor against the Absurd and smile with Dante's fire in their hearts—best served static, emoji-laced, and blissfully JavaScript-free.
+description: A philosophy of life for those who don virtuous Stoic armor against the Absurd and smile with Dante's fire in their hearts—best served static, emoji-laced, and blissfully JavaScript-free.
+locale: en_US
+
+author:
+  name: Patrick Darwinkel MSc
+  email: spam@darwinkel.net
+
+show_excerpts: false # set to true to show excerpts on the homepage
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+theme: minima
+
+feed:
+  posts_limit: 25
+
+minima:
+  skin: auto
+  date_format: "%B %-d, %Y"
+
+  social_links:
+    - title: GitHub
+      icon: github
+      url: "https://github.com/Darwinkel"
+    - title: Google Scholar
+      icon: google-scholar
+      url: "https://scholar.google.com/citations?user=xdlxRMoAAAAJ"
+    - title: Mastodon
+      icon: mastodon
+      url: "https://mastodon.social/@darwinkel"
+    - title: LinkedIn
+      icon: linkedin
+      url: "https://www.linkedin.com/in/patrick-darwinkel"
