@@ -8,30 +8,31 @@ jobs:
 
     steps:
       # Check out repository
-      # - name: Checkout repository
-      #   uses: actions/checkout@v4
+      - name: Checkout repository
+        uses: actions/checkout@v4
 
-      # # Set up Ruby with Bundler cache
-      # - name: Set up Ruby
-      #   uses: ruby/setup-ruby@v1
-      #   with:
-      #     ruby-version: "3.3"
-      #     bundler-cache: true
+      # Set up Ruby with Bundler cache
+      - name: Set up Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: "3.3"
+          bundler-cache: true
 
-      # # Build the site with Jekyll
-      # - name: Build Jekyll site
-      #   run: bundle exec jekyll build
-
-      # # Upload the _site directory as an artifact
-      # - name: Upload built site
-      #   uses: actions/upload-artifact@v4
-      #   with:
-      #     name: jekyll-site
-      #     path: _site
+      # Build the site with Jekyll
+      - name: Build Jekyll site
+        run: bundle exec jekyll build
 
       - name: Deploy to server
+        shell: bash
         run: |
           mkdir -p ~/.ssh
           echo "${{ secrets.KEY }}" > ~/.ssh/id_ed25519
           chmod 600 ~/.ssh/id_ed25519
           scp -P ${{ secrets.PORT }} -i ~/.ssh/id_ed25519 -r -o StrictHostKeyChecking=no -o UserKnownHostsFile=/dev/null _site/* ${{ secrets.USERNAME }}@${{ secrets.HOST }}:${{ secrets.PATH }}
+
+      # Upload the _site directory as an artifact
+      - name: Upload built site
+        uses: actions/upload-artifact@v4
+        with:
+          name: jekyll-site
+          path: _site
