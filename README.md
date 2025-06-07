@@ -1,6 +1,6 @@
 # darwinkel.net
 
-Jekyll source files for <https://darwinkel.net>.
+Jekyll source files for <https://darwinkel.net> and <https://laroccidentis.nl>.
 
 ## Dependencies
 
