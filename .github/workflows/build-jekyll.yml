@@ -11,19 +11,23 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      # Set up Ruby with Bundler cache
-      - name: Set up Ruby
+      - name: Generate build metadata
+        run: |
+          VERSION=$(git describe --tags --always --dirty)
+          DATE=$(date -u +"%Y-%m-%dT%H:%M:%SZ")
+          echo "version: \"$VERSION\"" > _build.yml
+          echo "date: \"$DATE\"" >> _build.yml
+
+      - name: Set up Ruby with Bundler cache
         uses: ruby/setup-ruby@v1
         with:
           ruby-version: "3.3"
           bundler-cache: true
 
-      # Build the site with Jekyll
       - name: Build Jekyll site
         run: bundle exec jekyll build
 
-      # Upload the _site directory as an artifact
-      - name: Upload built site
+      - name: Upload the _site directory as an artifact
         uses: actions/upload-artifact@v4
         with:
           name: jekyll-site
