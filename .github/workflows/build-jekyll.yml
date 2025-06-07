@@ -22,6 +22,13 @@ jobs:
       - name: Build Jekyll site
         run: bundle exec jekyll build
 
+      # Upload the _site directory as an artifact
+      - name: Upload built site
+        uses: actions/upload-artifact@v4
+        with:
+          name: jekyll-site
+          path: _site
+
       - name: Deploy to server
         shell: bash
         run: |
@@ -29,10 +36,3 @@ jobs:
           /usr/bin/echo "${{ secrets.KEY }}" > ~/.ssh/id_ed25519
           /usr/bin/chmod 600 ~/.ssh/id_ed25519
           /usr/bin/scp -P ${{ secrets.PORT }} -i ~/.ssh/id_ed25519 -r -o StrictHostKeyChecking=no -o UserKnownHostsFile=/dev/null _site/* ${{ secrets.USERNAME }}@${{ secrets.HOST }}:${{ secrets.PATH }}
-
-      # Upload the _site directory as an artifact
-      - name: Upload built site
-        uses: actions/upload-artifact@v4
-        with:
-          name: jekyll-site
-          path: _site
