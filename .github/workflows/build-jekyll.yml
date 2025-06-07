@@ -30,21 +30,8 @@ jobs:
           path: _site
 
       - name: Deploy to server
-        # uses: Dylan700/sftp-upload-action@latest
-        # with:
-        #   server: ${{ secrets.HOST }}
-        #   username: ${{ secrets.USERNAME }}
-        #   key: ${{ secrets.KEY }}
-        #   port: ${{ secrets.PORT }}
-        #   uploads: |
-        #     ./_site/ => ${{ secrets.PATH }}
-        uses: appleboy/scp-action@v1
-        with:
-          host: ${{ secrets.HOST }}
-          port: ${{ secrets.PORT }}
-          username: ${{ secrets.USERNAME }}
-          key: ${{ secrets.KEY }}
-
-          source: "_site/*"
-          target: ${{ secrets.PATH }}
-          # rm: true
+        run: |
+          mkdir -p ~/.ssh
+          echo "${{ secrets.KEY }}" > ~/.ssh/id_ed25519
+          chmod 600 ~/.ssh/id_ed25519
+          scp -P ${{ secrets.PORT }} -i ~/.ssh/id_ed25519 -r -o StrictHostKeyChecking=no -o UserKnownHostsFile=/dev/null _site/* ${{ secrets.USERNAME }}@${{ secrets.HOST }}:${{ secrets.PATH }}
