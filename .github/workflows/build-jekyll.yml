@@ -1,0 +1,30 @@
+name: Build Jekyll HTML
+
+on: [push, pull_request]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      # Check out repository
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      # Set up Ruby with Bundler cache
+      - name: Set up Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: '3.3'
+          bundler-cache: true
+
+      # Build the site with Jekyll
+      - name: Build Jekyll site
+        run: bundle exec jekyll build
+
+      # Upload the _site directory as an artifact
+      - name: Upload built site
+        uses: actions/upload-artifact@v4
+        with:
+          name: jekyll-site
+          path: _site
