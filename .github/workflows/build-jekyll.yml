@@ -30,21 +30,21 @@ jobs:
           path: _site
 
       - name: Deploy to server
-        uses: Dylan700/sftp-upload-action@latest
-        with:
-          server: ${{ secrets.HOST }}
-          username: ${{ secrets.USERNAME }}
-          key: ${{ secrets.KEY }}
-          port: ${{ secrets.PORT }}
-          uploads: |
-            ./_site/ => ${{ secrets.PATH }}
-        # uses: appleboy/scp-action@v1
+        # uses: Dylan700/sftp-upload-action@latest
         # with:
-        #   host: ${{ secrets.HOST }}
-        #   port: ${{ secrets.PORT }}
+        #   server: ${{ secrets.HOST }}
         #   username: ${{ secrets.USERNAME }}
         #   key: ${{ secrets.KEY }}
+        #   port: ${{ secrets.PORT }}
+        #   uploads: |
+        #     ./_site/ => ${{ secrets.PATH }}
+        uses: appleboy/scp-action@v1
+        with:
+          host: ${{ secrets.HOST }}
+          port: ${{ secrets.PORT }}
+          username: ${{ secrets.USERNAME }}
+          key: ${{ secrets.KEY }}
 
-        #   source: "_site/*"
-        #   target: ${{ secrets.PATH }}
-        #   # rm: true
+          source: "_site/*"
+          target: ${{ secrets.PATH }}
+          # rm: true
