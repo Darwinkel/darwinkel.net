@@ -38,3 +38,7 @@ minima:
 
 exclude:
   - README.md
+
+# Below are replaced in the build pipeline
+version: "0.0.0-git"
+date: "UNKNOWN_BUILD_DATE"

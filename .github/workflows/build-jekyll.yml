@@ -15,8 +15,10 @@ jobs:
         run: |
           VERSION=$(git describe --tags --always --dirty)
           DATE=$(date -u +"%Y-%m-%dT%H:%M:%SZ")
-          echo "version: \"$VERSION\"" > _build.yml
-          echo "date: \"$DATE\"" >> _build.yml
+          sed -i \
+            -e "s/0.0.0-git/${VERSION}/g" \
+            -e "s/UNKNOWN_BUILD_DATE/${DATE}/g" \
+            _config.yml
 
       - name: Set up Ruby with Bundler cache
         uses: ruby/setup-ruby@v1
