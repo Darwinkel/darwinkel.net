@@ -7,8 +7,6 @@ author:
   name: Patrick Darwinkel MSc
   email: spam@darwinkel.net
 
-show_excerpts: false # set to true to show excerpts on the homepage
-
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
@@ -21,6 +19,13 @@ feed:
 minima:
   skin: auto
   date_format: "%B %-d, %Y"
+  show_excerpts: true
+
+  nav_pages:
+    - vineyard.md
+    - art.md
+    - stories.md
+    - about.md
 
   social_links:
     - title: Source code

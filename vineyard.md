@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: home
 title: Vineyard
 permalink: /vineyard/
 ---
@@ -17,3 +17,11 @@ The name _Lar Occidentis_ refers to the name of the area, [Westlaren](https://nl
 Why Latin? It reflects the quality and authenticity of the nondescript fermented substances concocted on the premises by the Venerable Archfermenter, the Supreme Hoocher.
 
 The _Lar Occidentis_ estate is approved and recognized by no known wine authority or chamber of commerce.
+
+## Hooch batches
+
+Lot number is the date of fermentation start unless otherwise noted. It includes an index number for each fermentation vessel, if multiple.
+
+In principle, all produced wine and hooch contains negligible amounts of fats, proteins, and salt. The wine and hooch generally contains between 75 and 95 kcal of energy per 100 ml from alcohol and unfermented sugars.
+
+---
