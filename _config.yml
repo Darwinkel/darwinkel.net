@@ -35,3 +35,6 @@ minima:
     - title: LinkedIn
       icon: linkedin
       url: "https://www.linkedin.com/in/patrick-darwinkel"
+
+exclude:
+  - README.md
