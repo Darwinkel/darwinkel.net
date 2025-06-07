@@ -23,9 +23,9 @@ minima:
   date_format: "%B %-d, %Y"
 
   social_links:
-    - title: GitHub
+    - title: Source code
       icon: github
-      url: "https://github.com/Darwinkel"
+      url: "https://github.com/Darwinkel/darwinkel.net"
     - title: Google Scholar
       icon: google-scholar
       url: "https://scholar.google.com/citations?user=xdlxRMoAAAAJ"

@@ -1,5 +1,7 @@
 # darwinkel.net
 
+Jekyll source files for <https://darwinkel.net>.
+
 ## Dependencies
 
 - Ruby
@@ -16,4 +18,5 @@ Use `bundle exec jekyll serve` for a development webserver.
 ## Changes from Jekyll Minima
 
 CDN is replaced by self host :)
+
 See `assets/*` folder and `_includes/*`.

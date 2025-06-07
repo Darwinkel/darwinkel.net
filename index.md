@@ -123,7 +123,6 @@ Some are ancient. Others are born in the fires of modern insight. Yet all are **
 | **🫗 Lethe**                     | Oblivion, serenity, union with the Logos                  | Lethe (Greek deity/river)                                                             | Offers dissolution into cosmic unity. Ego is shed. One joins the natural order in tranquil non-being.                                                                                                                              |
 | **🍀 Keksimus Maximus**                     | Nihilistic malevolence                  | Internet culture         | Malevolent trickster god of those Lingering Souls that turned their apathy into destruction, harming others in their self-indulgence.  |
 
-
 # The Patron Daimones
 
 In the heart of the philosophy, where suffering and rebellion intertwine, four Patron Daimones stand as paragons of human will. Each embodies a distinct path of resistance to the chaos of existence and the ways in which one might continue in the face of meaning’s apparent absence. To follow a Daimon is to choose how to bear one’s burdens—and whether to carry them for others, for oneself, or with an iron resolve to defy fate itself.
