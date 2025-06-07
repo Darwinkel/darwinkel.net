@@ -25,10 +25,10 @@ jobs:
       - name: Deploy to server
         shell: bash
         run: |
-          mkdir -p ~/.ssh
-          echo "${{ secrets.KEY }}" > ~/.ssh/id_ed25519
-          chmod 600 ~/.ssh/id_ed25519
-          scp -P ${{ secrets.PORT }} -i ~/.ssh/id_ed25519 -r -o StrictHostKeyChecking=no -o UserKnownHostsFile=/dev/null _site/* ${{ secrets.USERNAME }}@${{ secrets.HOST }}:${{ secrets.PATH }}
+          /usr/bin/mkdir -p ~/.ssh
+          /usr/bin/echo "${{ secrets.KEY }}" > ~/.ssh/id_ed25519
+          /usr/bin/chmod 600 ~/.ssh/id_ed25519
+          /usr/bin/scp -P ${{ secrets.PORT }} -i ~/.ssh/id_ed25519 -r -o StrictHostKeyChecking=no -o UserKnownHostsFile=/dev/null _site/* ${{ secrets.USERNAME }}@${{ secrets.HOST }}:${{ secrets.PATH }}
 
       # Upload the _site directory as an artifact
       - name: Upload built site
