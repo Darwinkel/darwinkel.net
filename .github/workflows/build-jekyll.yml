@@ -28,3 +28,15 @@ jobs:
         with:
           name: jekyll-site
           path: _site
+
+    - name: Deploy to server
+      uses: appleboy/scp-action@v1
+        with:
+          host: ${{ secrets.HOST }}
+          port: ${{ secrets.PORT }}
+          username: ${{ secrets.USERNAME }}
+          key: ${{ secrets.KEY }}
+
+          source: "_site/*"
+          target: ${{ secrets.PATH }}
+          rm: true
