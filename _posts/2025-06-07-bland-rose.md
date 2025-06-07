@@ -13,6 +13,7 @@ This first experimental batch of hooch from Lar Occidentis turned out surprising
 - Batch size: 4L plastic bucket
 - Yeast: [Vinoferm Red](https://brouwland.com/en/yeast-and-bacteria/20441-dried-wine-yeast-vinoferm-red-7-g.html)
 - Alcohol by volume: ~11.5%
+- Approximate production cost: ~€13,06 for 5 bottles (~2,61 per bottle)
 
 ### Ingredients and allergens
 

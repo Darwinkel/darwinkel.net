@@ -13,6 +13,7 @@ Currently in production...
 - Batch size: 4L plastic bucket
 - Yeast: [Vinoferm Red](https://brouwland.com/en/yeast-and-bacteria/20441-dried-wine-yeast-vinoferm-red-7-g.html)
 - Alcohol by volume: TODO
+- Approximate production cost: ~€14,41 for 5 bottles (~2,88 per bottle)
 
 ### Ingredients and allergens
 
