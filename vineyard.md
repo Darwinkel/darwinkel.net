@@ -9,7 +9,7 @@ permalink: /vineyard/
 </p>
 
 Welcome to **Lar Occidentis MMXXV**, a modest vineyard located at exactly [53.0847557° N, 6.6521161° E](https://www.openstreetmap.org/#map=19/53.0847557/6.6521161).
-The vineyard is located on a piece of sloped _fijnzandig zwak lemig veldpodzolgrond_ in Drenthe.
+The vineyard is located on a piece of sloped _fijnzandig zwak lemig veldpodzolgrond_ right next to the [Drentsche Aa river](https://en.wikipedia.org/wiki/Drentsche_Aa) and [National Park](https://www.drentscheaa.nl/kaart/).
 Twenty-five cuttings of Cabernet Cantor on an SO 4 rootstock were planted on [April 25th, 2025](/art).
 Until those are ripe for harvest, the estate produces the finest hooches, which are listed below.
 
