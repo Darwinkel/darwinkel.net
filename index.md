@@ -40,7 +40,7 @@ To follow these tenets is to live without illusion, to love without condition, t
 
 ## **I. COSMOS & CONDITION**
 
-1. **The cosmos is neutral, determined, and devoid of moral or teleological meaning[^teleological-meaning].**  
+1. **The cosmos is neutral and devoid of moral or teleological meaning[^teleological-meaning].**  
    It operates by cause and effect, not justice. Higher powers, if they exist, are unknowable and irrelevant to how we must live.
 2. **Humans are not neutral.**  
    Though born of an indifferent world, we possess consciousness, care, and the capacity to reflect, suffer, and choose.
@@ -76,6 +76,9 @@ To follow these tenets is to live without illusion, to love without condition, t
 - **Justice** is Good—not because it creates order, but for the mutual acknowledgment that all who reason are worthy of recognition.
 - **Temperance** is Good—not to deny or encourage pleasure, but to master it with grace and indifference.
 - **Wisdom** is Good—not because it controls events, but because it reveals how to live freely within necessity.
+
+And remember:
+> Waste no more time arguing what a good man should be. Be one.[^stoic-virtues]
 
 ## **V. REBELLION & CONNECTION**
 
@@ -210,7 +213,7 @@ The doors to the Hall of Judgement are guarded by ⚖️ Nemesis. She guards the
 | ------------------ | ------------------------------------- | --------------------------------------------------------------------- | ---------------------------------------------------------------- | -------------------------------------- |
 | **🪞 Aeacus**      | _Authenticity & Intellectual Honesty_ | "Did you live an examined, meaningful, and rebellious life in truth?" | Existentialism, Cynicism                                         | Socrates, Diogenes, Camus, Sartre      |
 | **🫱 Rhadamanthus** | _Civic Virtue & Ethical Integrity_    | "Did you act with duty, dignity, and service to others?"              | Stoicism, Humanism, Virtue Ethics                                | The Stoics, Frankl, Cicero, Aristotle  |
-| **🌵 Minos**       | _Response to Suffering & Fate_        | "How did you respond to the pain and absurdity of existence?"         | Stoic determinism meets Existential freedom (_amor fati_[^amor-fati] + Revolt) | Prometheus, Sisyphus, Icarus, Odysseus |
+| **🌵 Minos**       | _Response to Suffering & Fate_        | "How did you respond to the pain and absurdity of existence?"         | Stoic determinism meets existential freedom (_amor fati_[^amor-fati] + revolt) | Prometheus, Sisyphus, Icarus, Odysseus |
 
 # The Eschatology
 
