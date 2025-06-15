@@ -11,7 +11,7 @@ layout: base
 
 **Mythopoetic Stoic Absurdism** is a philosophical and narrative framework that:
 
-- Uses _memento mori_[^mementomori] not merely as a reminder of death, but as a mirror to interrogate how we _ought_ to live—through the paradox of meaning and the poetry of cosmic indifference.
+- Uses _memento mori_[^memento-mori] not merely as a reminder of death, but as a mirror to interrogate how we _ought_ to live—through the paradox of meaning and the poetry of cosmic indifference.
 - Constructs mythic and symbolic visions of the afterlife not to escape death, but to _dialogue with it_—as one would a wise specter by a bonfire.
 - Serves as **the Dantean Descent**[^dante-descent] for Stoics[^stoicism], Absurdists[^absurdism], and Humanists alike—guiding souls not to salvation, but to lucid and coherent authenticity[^existential-authenticity] amidst uncertainty.
 
@@ -106,7 +106,7 @@ Some are ancient. Others are born in the fires of modern insight. Yet all are in
 | **📏 Lachesis**                 | Life's unfolding, environment, choice context             | Moirai (Greek); Parcae (Roman)                                                        | Measures the thread. Defines mutable conditions, life's canvas.                                                                                                                                                                    |
 | **✂️ Atropos**                  | Death, finitude, inevitable ending                        | Moirai (Greek); Parcae (Roman)                                                        | Cuts the thread. Ends life but not meaning. Echoes of ⏳️ Chronos in her silence.                                                                                                                                                      |
 | **🎲 Fortuna**                  | Chaos, chance, intervention                               | Fortuna (Roman)                                                                       | Occasionally tugs the threads woven by the Fates—for amusement, mischief, or revelation.                                                                                                                                           |
-| **⏳️ Chronos**                 | Time, inevitability, cosmic duration                      | Chronos (Greek primordial deity); Kronos (Greek Titan) and Saturn (Roman) as devourer | Whispers to ✂️ Atropos and provides her with scissors. Represents time's indifferent flow and necessity. _Memento mori_ becomes _carpe diem_[^carpe-diem]. Devourer of moments.                                                                    |
+| **⏳️ Chronos**                 | Time, inevitability, cosmic duration                      | Chronos (Greek primordial deity); Kronos (Greek Titan) and Saturn (Roman) as devourer | Whispers to ✂️ Atropos and provides her with scissors. Represents time's indifferent flow and necessity. _Memento mori_[^memento-mori] becomes _carpe diem_[^carpe-diem]. Devourer of moments.                                                                    |
 | **🍷 Bacchus**                  | Ecstasy, embodied being, sacred madness                   | Dionysus (Greek); Bacchus (Roman)                                                     | Not merely a god of wine, but of existential presence and catharsis. Reminds the soul that the body mattered. The moment, the immediate, mattered.                                                                                 |
 | **🥀 Thanatos**                 | Peaceful death, soul extraction                           | Thanatos (Greek personification)                                                      | Gently removes the soul at death, under ✂️ Atropos' decree. Transhumanists attempt to chain him, as 🪨 Sisyphus did.                                                                                                                                      |
 | **🪽 Mercury**                   | Psychopomp, silent guide of souls                         | Hermes (Greek); Mercury (Roman)                                                       | Guides the soul across the liminal divide. Neither judges nor pities—he merely delivers.                                                                                                                                           |
@@ -277,7 +277,9 @@ Coming soon...
 
 [^deus-sive-natura]: Spinoza's phrase equating God with nature, a form of pantheism. See Spinoza, B. (1677). _Ethics_.
 
-[^carpe-diem]: A Latin phrase meaning "seize the day," popularized by Horace in his _Odes_.
+[^memento-mori]: A Latin phrase meaning "remember that you have to die". It suggest that we should be mindful of vanity and distractions.
+
+[^carpe-diem]: A Latin phrase meaning "seize the day", popularized by Horace in his _Odes_. It suggests that we should live intentionally in the moment.
 
 [^restaurant]: A fictional locale in Douglas Adams' _The Restaurant at the End of the Universe_, a humorous take on existential questions.
 
