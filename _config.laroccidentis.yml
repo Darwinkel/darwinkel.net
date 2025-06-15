@@ -1,0 +1,46 @@
+title: Lar Occidentis
+tagline: A modest vineyard located right next to the Drentsche Aa, nurturing both sacred grape vines as well as buckets with fermenting store-bought juices.
+description: A modest vineyard located right next to the Drentsche Aa, nurturing both sacred grape vines as well as buckets with fermenting store-bought juices.
+locale: en_US
+
+author:
+  name: Patrick Darwinkel MSc
+  email: spam@darwinkel.net
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+theme: minima
+
+feed:
+  posts_limit: 25
+
+minima:
+  skin: auto
+  date_format: "%B %-d, %Y"
+  show_excerpts: true
+
+  nav_pages:
+    - vineyard.md
+
+  social_links:
+    - title: Source code
+      icon: github
+      url: "https://github.com/Darwinkel/darwinkel.net"
+    - title: Google Scholar
+      icon: google-scholar
+      url: "https://scholar.google.com/citations?user=xdlxRMoAAAAJ"
+    - title: Mastodon
+      icon: mastodon
+      url: "https://mastodon.social/@darwinkel"
+    - title: LinkedIn
+      icon: linkedin
+      url: "https://www.linkedin.com/in/patrick-darwinkel"
+
+exclude:
+  - README.md
+
+# Below are replaced in the build pipeline
+version: "0.0.0-git"
+date: "UNKNOWN_BUILD_DATE"

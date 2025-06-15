@@ -20,7 +20,7 @@ jobs:
           sed -i \
             -e "s/0.0.0-git/${VERSION}/g" \
             -e "s/UNKNOWN_BUILD_DATE/${DATE}/g" \
-            _config.yml
+            _config.yml _config.laroccidentis.yml
 
       - name: Set up Ruby with Bundler cache
         uses: ruby/setup-ruby@v1
@@ -28,19 +28,37 @@ jobs:
           ruby-version: "3.3"
           bundler-cache: true
 
-      - name: Build Jekyll site
-        run: bundle exec jekyll build
+      - name: Build Jekyll site (darwinkel.net)
+        run: bundle exec jekyll build -d _darwinkelnet
 
-      - name: Upload the _site directory as an artifact
+      - name: Upload the _site directory as an artifact (darwinkel.net)
         uses: actions/upload-artifact@v4
         with:
           name: jekyll-site
-          path: _site
+          path: _darwinkelnet
 
-      - name: Deploy to server
+      - name: Setup SSH
         shell: bash
         run: |
           /usr/bin/mkdir -p ~/.ssh
           /usr/bin/echo "${{ secrets.KEY }}" > ~/.ssh/id_ed25519
           /usr/bin/chmod 600 ~/.ssh/id_ed25519
-          /usr/bin/scp -P ${{ secrets.PORT }} -i ~/.ssh/id_ed25519 -r -o StrictHostKeyChecking=no -o UserKnownHostsFile=/dev/null _site/* ${{ secrets.USERNAME }}@${{ secrets.HOST }}:${{ secrets.PATH }}
+
+      - name: Deploy to server (darwinkel.net)
+        shell: bash
+        run: |
+          /usr/bin/scp -P ${{ secrets.PORT }} -i ~/.ssh/id_ed25519 -r -o StrictHostKeyChecking=no -o UserKnownHostsFile=/dev/null _darwinkelnet/* ${{ secrets.USERNAME }}@${{ secrets.HOST }}:${{ secrets.PATH }}/html
+
+      - name: Build Jekyll site (laroccidentis.nl)
+        run: bundle exec jekyll build -d _laroccidentisnl --config _config.laroccidentis.yml
+
+      - name: Upload the _site directory as an artifact (laroccidentis.nl)
+        uses: actions/upload-artifact@v4
+        with:
+          name: jekyll-site
+          path: _laroccidentisnl
+
+      - name: Deploy to server (laroccidentis.nl)
+        shell: bash
+        run: |
+          /usr/bin/scp -P ${{ secrets.PORT }} -i ~/.ssh/id_ed25519 -r -o StrictHostKeyChecking=no -o UserKnownHostsFile=/dev/null _laroccidentisnl/* ${{ secrets.USERNAME }}@${{ secrets.HOST }}:${{ secrets.PATH }}/laroccidentis
