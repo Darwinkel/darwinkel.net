@@ -22,3 +22,11 @@ Use `bundle exec jekyll serve` for a development webserver.
 CDN is replaced by self host :)
 
 See `assets/*` folder and `_includes/*`.
+
+## Image compression
+
+Use `cwebp` to optimize images for web distribution. Below reduces a 5.5MB photo to 0.5MB.
+
+```sh
+cwebp -q 100 -m 6 -mt -metadata none -resize 1020 0 vines_mid_june.jpg -o vines_mid_june.webp
+```
