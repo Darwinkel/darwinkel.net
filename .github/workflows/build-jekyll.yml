@@ -47,7 +47,7 @@ jobs:
       - name: Deploy to server (darwinkel.net)
         shell: bash
         run: |
-          /usr/bin/scp -P ${{ secrets.PORT }} -i ~/.ssh/id_ed25519 -r -o StrictHostKeyChecking=no -o UserKnownHostsFile=/dev/null _darwinkelnet/* ${{ secrets.USERNAME }}@${{ secrets.HOST }}:${{ secrets.PATH }}/html
+          /usr/bin/scp -P ${{ secrets.PORT }} -i ~/.ssh/id_ed25519 -r -o StrictHostKeyChecking=no -o UserKnownHostsFile=/dev/null _darwinkelnet/* ${{ secrets.USERNAME }}@${{ secrets.HOST }}:${{ secrets.PATH }}html
 
       - name: Build Jekyll site (laroccidentis.nl)
         run: bundle exec jekyll build -d _laroccidentisnl --config _config.laroccidentis.yml
@@ -61,4 +61,4 @@ jobs:
       - name: Deploy to server (laroccidentis.nl)
         shell: bash
         run: |
-          /usr/bin/scp -P ${{ secrets.PORT }} -i ~/.ssh/id_ed25519 -r -o StrictHostKeyChecking=no -o UserKnownHostsFile=/dev/null _laroccidentisnl/* ${{ secrets.USERNAME }}@${{ secrets.HOST }}:${{ secrets.PATH }}/laroccidentis
+          /usr/bin/scp -P ${{ secrets.PORT }} -i ~/.ssh/id_ed25519 -r -o StrictHostKeyChecking=no -o UserKnownHostsFile=/dev/null _laroccidentisnl/* ${{ secrets.USERNAME }}@${{ secrets.HOST }}:${{ secrets.PATH }}laroccidentis
