@@ -34,7 +34,7 @@ jobs:
       - name: Upload the _site directory as an artifact (darwinkel.net)
         uses: actions/upload-artifact@v4
         with:
-          name: jekyll-site
+          name: jekyll-site-darwinkelnet
           path: _darwinkelnet
 
       - name: Setup SSH
@@ -55,7 +55,7 @@ jobs:
       - name: Upload the _site directory as an artifact (laroccidentis.nl)
         uses: actions/upload-artifact@v4
         with:
-          name: jekyll-site
+          name: jekyll-site-laroccidentisnl
           path: _laroccidentisnl
 
       - name: Deploy to server (laroccidentis.nl)
