@@ -239,10 +239,6 @@ This is the final rite of the soul: not a verdict, but a _verdict rendered by th
 
 This is the final freedom: to vanish like dew, or to burn like a memory.
 
-# Rituals and Practice
-
-Coming soon...
-
 ---
 
 # References

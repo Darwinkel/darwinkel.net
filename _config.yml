@@ -24,6 +24,7 @@ minima:
   nav_pages:
     - vineyard.md
     - art.md
+    - rituals.md
     - stories.md
     - about.md
 
