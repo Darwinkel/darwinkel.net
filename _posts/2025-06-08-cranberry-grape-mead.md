@@ -39,7 +39,7 @@ Should result in a flavorful and high-alcohol fruit mead. I am praying to Bacchu
 
 ### Production notes
 
-Using an already-opened pack of Vinoferm Red. According to the instructions, they should be expired. Let's hope that some of the yeasty bois are still viable. Otherwise I may have to (re)start fermentation with a new pack of yeast. (Update: fermentation started as usual.)
+Using an already-opened pack of Vinoferm Red. According to the instructions, they should be expired. Let's hope that some of the yeasty bois are still viable. Otherwise I may have to (re)start fermentation with a new pack of yeast[^1].
 
 ### Storage, aging, and serving
 
@@ -48,3 +48,7 @@ TODO
 ### Actual taste and suggested food pairings
 
 TODO
+
+### Notes
+
+[^1]: Update: fermentation started normally. Looks like the manufacturer makes very conservative estimates.
