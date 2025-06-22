@@ -44,6 +44,9 @@ Racked on 2025-06-21 and left for a night. As such, this batch has fewer lees, b
 ...I should get better 5L carboys and a better siphoning system[^2].
 
 Either way, the entire thing smells sour and foul, like the other batches of hooch so far. I am now fairly certain that you should, in fact, leave hooch to rest for a couple of months for natural mellowing.
+
+This was also my first attempt at using an acidometer. Supposedly the hooch has around 6g/l acidity.
+
 Bottled on 2025-06-22. I didn't dare to taste it yet.
 
 ### Storage, aging, and serving
