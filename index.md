@@ -51,7 +51,7 @@ To follow these tenets is to live without illusion, to love without condition, t
    Yet the struggle to create meaning—though absurd—is sufficient, even beautiful.
 4. **The self is relational.**  
    Meaning is a personal task, but can be nourished through authentic engagement with others.
-5. **People are ends, not means.**  
+5. **People are ends, not means[^principle-of-humanity].**  
    All action must respect the dignity of others as reasoning beings.
 6. **To live in bad faith[^bad-faith] is to betray one's freedom.**  
    Avoid self-deception, external roles, and unexamined conformity. Live deliberately.
@@ -299,6 +299,8 @@ This is the final freedom: to vanish like dew, or to burn like a memory.
 [^absurd-hero]: Camus' term for individuals who embrace life's absurdity without resignation. See Camus, A. (1942). _The Myth of Sisyphus_.
 
 [^existential-authenticity]: Living truthfully according to one's values despite external pressures, a concept central to existentialist philosophy.
+
+[^principle-of-humanity]: A maxim coined by Emmanuel Kant, which demands that one "act in such a way that you treat humanity, whether in your own person or in the person of another, always at the same time as an end and never merely as a means." This moral imperative insists on the inherent dignity and rational worth of all persons. See Kant, I. (1785). _Groundwork of the Metaphysics of Morals_.
 
 [^bad-faith]: Sartre's concept of self-deception, where one denies their freedom or responsibilities. See Sartre, J.-P. (1943). _Being and Nothingness_.
 
