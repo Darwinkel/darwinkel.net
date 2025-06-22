@@ -23,22 +23,22 @@ This first experimental batch of hooch from Lar Occidentis turned out surprising
 
 No sulfites.
 
-### Bottling date and notes
+### Production notes
 
-19-04-2025.
-Straight from bucket to bottles using a coffee filter. We'll see how bad the sediment becomes.
-
-### Fermentation time
-
-Bubbles stopped on 12-04-2025. So 14 days, including the slow start.
+Bubbling only started after 4 days. Temperature (~18-20 celsius) could be slightly too low for this yeast. I might also have accidentally killed some yeast through temperature shock (20c difference between activation water and hoochables).
 
 ### Prophecy
 
 Bacchus himself has blessed this first experimental batch of hooch at the Lar Occidentis estate. The holy Albert Heijn 85% red grape juice along with Vinoferm Red should produce a somewhat fruity rosé. Should yield a ~11.5% ABV of which 3% was chapitalized, making it technically a Zone A wine.
 
-### Production notes
+### Fermentation time
 
-Bubbling only started after 4 days. Temperature (~18-20 celsius) could be slightly too low for this yeast. I might also have accidentally killed some yeast through temperature shock (20c difference between activation water and hoochables).
+Bubbles stopped on 12-04-2025. So 14 days, including the slow start.
+
+### Bottling date and notes
+
+19-04-2025.
+Straight from bucket to bottles using a coffee filter. We'll see how bad the sediment becomes.
 
 ### Storage, aging, and serving
 
