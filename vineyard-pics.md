@@ -4,6 +4,10 @@ title: Pictures
 permalink: /vineyard-pics/
 ---
 
+#### Cabernet Cantor SO 4 - plant passport
+
+![Cabernet Cantor SO 4 plant passport](/images/cabernet_cantor_plant_passport.webp "Cabernet Cantor SO 4 plant passport")
+
 #### Cabernet Cantor SO 4 - right after planting in late April
 
 ![Vines right after planting](/images/vines_planted.webp "Vines right after planting")
