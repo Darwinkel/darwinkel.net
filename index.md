@@ -280,7 +280,7 @@ This is the final freedom: to vanish like dew, or to burn like a memory.
 
 [^carpe-diem]: A Latin phrase meaning "seize the day", popularized by Horace in his _Odes_. It suggests that we should live intentionally in the moment.
 
-[^restaurant]: A fictional locale in Douglas Adams' _The Restaurant at the End of the Universe_, a humorous take on existential questions.
+[^restaurant]: A reference to a fictional locale in Douglas Adams' _The Restaurant at the End of the Universe_, a humorous take on existential questions.
 
 [^42]: The answer to the ultimate question of life, the universe, and everything. See Adams, D. (1979). _The Hitchhiker's Guide to the Galaxy_.
 
