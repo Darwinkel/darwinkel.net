@@ -11,7 +11,7 @@ layout: base
 
 **Mythopoetic Stoic Absurdism** is a philosophical and narrative framework that:
 
-- Uses _memento mori_[^memento-mori] not merely as a reminder of death, but as a mirror to interrogate how we _ought_ to live - through the paradox of meaning and the poetry of cosmic indifference.
+- Uses _memento mori_[^memento-mori] not merely as a reminder of death, but as a mirror to interrogate how we _ought_ to live - through the paradox of meaning[^absurd-paradox] and the poetry of cosmic indifference.
 - Constructs mythic and symbolic visions of the afterlife not to escape death, but to _dialogue with it_ - as one would a wise specter by a bonfire.
 - Serves as **the Dantean Descent**[^dante-descent] for Stoics[^stoicism], Absurdists[^absurdism], and Humanists alike - guiding souls not to salvation, but to lucid and coherent authenticity[^existential-authenticity] amidst uncertainty.
 
@@ -298,7 +298,7 @@ This is the final freedom: to vanish like dew, or to burn like a memory.
 
 [^absurd-hero]: Camus' term for individuals who embrace life's absurdity without resignation. See Camus, A. (1942). _The Myth of Sisyphus_.
 
-[^existential-authenticity]: Living truthfully according to one's values despite external pressures, a concept central to existentialist philosophy.
+[^existential-authenticity]: A core existentialist concept describing the act of living in conscious alignment with one's freely chosen values, in full awareness of the absence of inherent meaning and the burden of radical freedom. It requires rejecting external roles, conventions, or excuses that obscure responsibility for one's existence. See Sartre, J.-P. (1943). _Being and Nothingness_; Heidegger, M. (1927). _Being and Time_.
 
 [^principle-of-humanity]: A maxim coined by Emmanuel Kant, which demands that one "act in such a way that you treat humanity, whether in your own person or in the person of another, always at the same time as an end and never merely as a means." This moral imperative insists on the inherent dignity and rational worth of all persons. See Kant, I. (1785). _Groundwork of the Metaphysics of Morals_.
 
@@ -312,7 +312,7 @@ This is the final freedom: to vanish like dew, or to burn like a memory.
 
 [^logotherapy]: Viktor Frankl's psychotherapeutic approach emphasizing finding meaning. See Frankl, V. E. (1946). _Man's Search for Meaning_.
 
-[^leap-of-faith]: Kierkegaard's concept of a subjective commitment to belief despite rational uncertainty. See Kierkegaard, S. (1843). _Fear and Trembling_.
+[^leap-of-faith]: Kierkegaard's concept of a subjective commitment to belief despite rational uncertainty, often framed in religious terms. See Kierkegaard, S. (1843). _Fear and Trembling_.
 
 [^absurd-rebellion]: Defiance against life's absurdity through personal freedom and creative action. See Camus, A. (1942). _The Myth of Sisyphus_.
 
@@ -331,3 +331,5 @@ This is the final freedom: to vanish like dew, or to burn like a memory.
 [^stoic-virtues]: The four cardinal Stoic virtues are wisdom, courage, justice, and temperance. Wisdom is the capacity to discern what is true and good, aligning thought with reason and nature. Courage is moral fortitude - acting rightly despite fear or hardship. Justice involves fairness, honesty, and concern for the common good, treating others with integrity and dignity. Temperance is self-mastery: the measured restraint of desires and impulses, much like Aristotle's "Golden Mean" between excess and deficiency. The essence of wisdom and courage is elegantly captured in the Serenity Prayer: <br><br>_Grant me the serenity to accept the things I cannot change;<br>courage to change the things I can;<br>and wisdom to know the difference._
 
 [^stoic-indifferents]: Things neither good nor bad but morally neutral, such as wealth or health. Prominent in the _Meditations_ by Marcus Aurelius and the works of Epictetus.
+
+[^absurd-paradox]: This refers to what Camus calls _the absurd_ - the confrontation between the human desire for meaning, unity, and clarity, and the indifferent, silent universe that offers none. It is not a logical contradiction, but an existential tension to be endured, not resolved. Camus notably critiqued Sartre's existentialism for attempting to overcome the absurd by positing self-made meaning, a move he viewed as a form of philosophical betrayal. See Camus, A. (1942). _The Myth of Sisyphus_.
