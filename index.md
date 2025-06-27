@@ -24,7 +24,7 @@ It constitutes a complete philosophical stance with:
 - **Ethics**[^ethics] (how to live): With freedom, virtue, and authenticity.
 - **Aesthetics of Living**: Poetic rebellion[^absurd-rebellion] over passive endurance.
 
-Mythopoetic Stoic Absurdism is a psychological strategy in the face of nihilism. It offers not hope, but posture. It offers psychological resilience and social moral clarity without appealing to unverifiable absolutes. It encourages methods of enduring and engaging the human condition with lucid defiance.
+Mythopoetic Stoic Absurdism is a psychological strategy in the face of nihilism[^death-of-god]. It offers not hope, but posture. It offers psychological resilience and social moral clarity without appealing to unverifiable absolutes. It encourages methods of enduring and engaging the human condition with lucid defiance.
 
 It is through _prohairesis_[^prohairesis]: - the rational act of posture and choice - that we cultivate _arete_[^arete], the excellence of the soul. Let us detach from the outcomes - _apatheia_[^apatheia] - for though the cosmos offers no reward, it is in this virtue[^stoic-virtues] that we may find a form of _eudaimonia_[^eudaimonia]: the composure of a coherent self in an incoherent world. The choice to live with coherence is not commanded by reason - it is born of a leap beyond it[^leap-of-faith]. We choose reason not because it is necessary, but because it dignifies our freedom.
 
@@ -41,7 +41,7 @@ To follow these tenets is to live without illusion, to love without condition, t
 ## **I. COSMOS & CONDITION**
 
 1. **The cosmos is neutral and devoid of moral or teleological meaning[^teleological-meaning].**  
-   It operates by cause and effect, not justice. Higher powers, if they exist, are unknowable and irrelevant to how we must live.
+   It operates by cause and effect, not justice. Higher powers, if they exist, are unknowable and irrelevant to how we must live. The _death of God_[^death-of-god] is the fundamental starting point of all other moral and philosophical considerations.
 2. **Humans are not neutral.**  
    Though born of an indifferent world, we possess consciousness, care, and the capacity to reflect, suffer, and choose.
 
@@ -149,7 +149,7 @@ These Saints are not distant figures of divine perfection, but embodiments of hu
 | **🎭 Camus**     | "How do I face this pain honestly?"             | Lucid defiance      | Moves between Tartarus and the Asphodel Meadows, calling out the shades' evasion of the Absurd with a grin both scornful and tender.                                          |
 | **🗣️ Socrates**  | "How do I question this pain wisely?"           | Dialectic irony     | Captured and put on trial by Tataric shades for asking too many questions, and calmly drinks hemlock in the underworld, unsettling judges even in death.                      |
 | **🐶 Diogenes**  | "Why should I care about this pain?"            | Disdain and satire  | Wanders in Elysium with his lantern, looking for an honest man. He reminds us that, even in enlightenment, we are still only humans and must strip all pretense.              |
-| **🦅 Nietzsche** | "How do I overcome this pain through becoming?" | Creative becoming   | Stands at the Acheron's edge, accusing the Lingering Souls of cowardice, warning them that Eternal Recurrence requires courage and that they turned his thunder into slogans. |
+| **🦅 Nietzsche** | "How do I overcome this pain through becoming?" | Creative becoming   | Stands at the Acheron's edge, accusing the Lingering Souls of cowardice, warning them that Eternal Recurrence[^eternal-recurrence] requires courage and that they turned his thunder into slogans. |
 
 # The Fates
 
@@ -333,3 +333,7 @@ This is the final freedom: to vanish like dew, or to burn like a memory.
 [^stoic-indifferents]: Things neither good nor bad but morally neutral, such as wealth or health. Prominent in the _Meditations_ by Marcus Aurelius and the works of Epictetus.
 
 [^absurd-paradox]: This refers to what Camus calls _the absurd_ - the confrontation between the human desire for meaning, unity, and clarity, and the indifferent, silent universe that offers none. It is not a logical contradiction, but an existential tension to be endured, not resolved. Camus notably critiqued Sartre's existentialism for attempting to overcome the absurd by positing self-made meaning, a move he viewed as a form of philosophical betrayal. See Camus, A. (1942). _The Myth of Sisyphus_.
+
+[^death-of-god]: Nietzsche's "death of God" means the loss of old moral and metaphysical certainties, causing a crisis of meaning (generally referred to as _nihilism_) that calls for creating new values. As the term suggests, this is caused by a decline in belief in a traditional God. See Nietzsche, F. (1882–1885). _The Gay Science_, _Thus Spoke Zarathustra_, and Heidegger, M. (1927). _Being and Time_.
+
+[^eternal-recurrence]: Nietzsche's concept of _eternal recurrence_ is a thought experiment asking: if you had to live your exact life over and over forever, would you embrace it? It challenges us to affirm life fully - joys, suffering, and all. For Nietzsche, to will eternal recurrence is the highest form of _amor fati_ and a test of one's strength and life-affirmation. See Nietzsche, F. (1882–1885). _The Gay Science_, _Thus Spoke Zarathustra_.
