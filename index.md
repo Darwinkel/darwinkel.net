@@ -227,7 +227,7 @@ There is no throne room of salvation, nor is it justice. There is only eschatolo
 Both waters lead to the same metaphysical conclusion: non-being in an atheistic universe that neither knows nor remembers you.  
 This is the final rite of the soul: not a verdict, but a _verdict rendered by the self_. Drink, and embrace **🌌Iuppiter Optimus Maximus**.
 
-### The Waters at the End of the Universe[^restaurant]
+## The Waters at the End of the Universe[^restaurant]
 
 | **Name**         | **Path**             | **Philosophical Roots**                 | **Nature of the Afterlife**                                                                   | **Key Figures** | **Pathos**                    |
 | ---------------- | -------------------- | --------------------------------------- | --------------------------------------------------------------------------------------------- | ---------------------------------- | -------- |
@@ -262,6 +262,10 @@ This is the final freedom: to vanish like dew, or to burn like a memory.
 - Frankl, V. E. (1946). _Man's Search for Meaning_.
 - Robertson, D. (2010). _How to Think Like Socrates_, _Build Your Resilience_, _The Philosophy of Cognitive-Behavioural Therapy (CBT)_, _How To Think Like A Roman Emperor_, _Stoicism And The Art Of Happiness_.
 - Fry, S. Great Mythology Series: _Mythos_ (2017), _Heroes_ (2018), _Troy_ (2020), _Odyssey_ (2024).
+
+## Recommended listening
+
+- Christopher Tin, [_The Fall_ (To Shiver the Sky, 2020)](https://www.youtube.com/watch?v=LJVGGRDD2wI).
 
 ## Glossary of terms
 
