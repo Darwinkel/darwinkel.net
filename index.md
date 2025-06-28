@@ -29,7 +29,7 @@ Mythopoetic Stoic Absurdism is a psychological strategy in the face of nihilism[
 It is through _prohairesis_[^prohairesis]: - the rational act of posture and choice - that we cultivate _arete_[^arete], the excellence of the soul. Let us detach from the outcomes - _apatheia_[^apatheia] - for though the cosmos offers no reward, it is in this virtue[^stoic-virtues] that we may find a form of _eudaimonia_[^eudaimonia]: the composure of a coherent self in an incoherent world. The choice to live with coherence is not commanded by reason - it is born of a leap beyond it[^leap-of-faith]. We choose reason not because it is necessary, but because it dignifies our freedom.
 
 This philosophy of life is the apotheosis of my musings and reflections.
-[There is a deeper pragmatic-scientific reasoning behind mythopoesis and stoicism](/apology).
+[There is a foundation of cognitive (neuro)science behind mythopoesis and stoicism.](/apology).
 
 # Tenets
 
@@ -260,7 +260,6 @@ This is the final freedom: to vanish like dew, or to burn like a memory.
 - Camus, A. (1942). _The Myth of Sisyphus_.
 - Sartre, J.-P. (1943). _Being and Nothingness_.
 - Frankl, V. E. (1946). _Man's Search for Meaning_.
-- Robertson, D. (2010). _How to Think Like Socrates_, _Build Your Resilience_, _The Philosophy of Cognitive-Behavioural Therapy (CBT)_, _How To Think Like A Roman Emperor_, _Stoicism And The Art Of Happiness_.
 - Fry, S. Great Mythology Series: _Mythos_ (2017), _Heroes_ (2018), _Troy_ (2020), _Odyssey_ (2024).
 
 ## Recommended listening
