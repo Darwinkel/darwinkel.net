@@ -5,7 +5,7 @@ tags: [hooch, wine]
 layout: post
 ---
 
-This first experimental batch of hooch from Lar Occidentis turned out surprisingly drinkable. It started off as a flat, acidic rosé made from store-bought grape juice, but after some time it mellowed into something drier, slightly fruity and flowery, with a touch of complexity. Notes of peach? Even so, it has a funny aftertaste, and I wouldn't buy it in a store. **6/10 acceptable if you want to get drunk and nothing else is around.**
+This first experimental batch of hooch from Lar Occidentis turned out surprisingly drinkable. It started off as a flat, acidic rosé made from store-bought grape juice, but after some time it mellowed into something drier, slightly fruity and flowery, with a touch of complexity. Notes of peach? Even so, it has a funny aftertaste, and I wouldn't buy it in a store. **4/10 acceptable if you want to get drunk and nothing else is around.**
 
 ### General info
 
@@ -53,4 +53,4 @@ First decent batch of store juice wine, ever. It looks and tastes a bit like a f
 #### On 2025-06-06
 
 Much better. It is completely dry and has a relative strong acidity. It still tastes a bit funny, but it certainly tastes somewhat fruity and I would go so far as to say it has _some_ complexity.
-6/10 definitely drinkable but I wouldn't buy it in a store.
+6/10 definitely drinkable but I wouldn't buy it in a store. Would pay €0,50 for a bottle.
