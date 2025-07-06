@@ -5,7 +5,7 @@ tags: [hooch]
 layout: post
 ---
 
-Currently resting in bottles...
+Certified drinkable! Much better than the Bland Rosé. This is a high-alcohol, red-fruity and flowery rosé with a mead-ish mouthfeel. Arguably better than what you'd find for €3 in a supermarket. If only the smell wasn't so foul... **6.5/10 pleasant mead-like fruity rosé.**
 
 ### General info
 
@@ -13,7 +13,9 @@ Currently resting in bottles...
 - Batch size: 4L plastic bucket
 - Yeast: [Vinoferm Red](https://brouwland.com/en/yeast-and-bacteria/20441-dried-wine-yeast-vinoferm-red-7-g.html)
 - Alcohol by volume: ~16%
-- Approximate production cost: ~€14,41 for 5 bottles (~2,88 per bottle)
+- Approximate production cost per bottle (including overhead and waste)
+  - Base: ~€2,40 for bottle, cork, label, wax seal, yeast, nutrition, and sulfites.
+  - Ingredients: ~€2,02
 
 ### Ingredients and allergens
 
@@ -55,7 +57,27 @@ T.b.d.
 
 ### Actual taste and suggested food pairings
 
-T.b.d.
+#### 2025-07-06
+
+On a cozy Saturday night we decided to open up a bottle and try it out.
+It was served chilled at around 8c and had rested around two weeks on the bottle at this point.
+
+My worst fears surfaced as the initial smell of the bottle contents were abhorrent.
+This mellowed significantly after a couple of minutes, even if the overall smell remained a bit hoochy.
+Maybe I should aerate the hooch before bottling? Even at the risk of oxidation?
+
+The overall flavor is very fruity, even somewhat flowery.
+I expected the cranberry to be overpowering, but the end result is actually quite balanced.
+There is a subtle old honey mouthfeel which we hope will get more pronounced.
+It was fermented fully dry, but a little more explicit honey-sweetness would have sealed the deal.
+We got tipsy quite quickly. ABV is definitely above normal wine levels.
+
+Our overall judgement is that it's a red-fruity rosé that wants to dabble in becoming a mead.
+The color is a beautiful dark pink (...with some lees discoloration in the last part of the bottle). We would pay €3,45 for this.
+
+The three-month bottle aging review will follow later.
+
+![Grape Cranberry Mead](/images/grape_cranberry_mead.webp "Grape Cranberry Mead")
 
 ### Notes
 

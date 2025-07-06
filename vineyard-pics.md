@@ -21,7 +21,3 @@ permalink: /vineyard-pics/
 ![Vines in late June, tied to stakes](/images/vines_late_june.webp "Vines in late June, tied to stakes")
 
 (Also note the adorable pig in the background.)
-
-#### "Bland Rosé"
-
-> TODO: insert picture of an aesthetic bottle here
