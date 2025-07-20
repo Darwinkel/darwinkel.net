@@ -1,6 +1,6 @@
 ---
 title: 'L2025-06-08-1 "Cranberry Grape Mead"'
-date: 2025-06-07
+date: 2025-06-08
 tags: [hooch]
 layout: post
 ---
