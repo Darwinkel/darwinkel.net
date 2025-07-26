@@ -279,6 +279,7 @@ This is the final freedom: to vanish like dew, or to burn like a memory.
 - Seneca, L. A. (c. 65). _Letters from a Stoic_, _On the Shortness of Life_, and other works and plays.
 - Epictetus. (c. 108). _Handbook, Discourses, and Fragments_ (compiled by Arrian).
 - Aurelius, M. (c. 161-180). _Meditations_.
+- Kierkegaard, S. (1849). _The Sickness unto Death_.
 - Nietzsche, F. (1882–1885). _The Gay Science_, _Thus Spoke Zarathustra_, and other works.
 - Camus, A. (1942). _The Myth of Sisyphus_.
 - Sartre, J.-P. (1943). _Being and Nothingness_.
