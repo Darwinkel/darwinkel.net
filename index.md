@@ -11,7 +11,7 @@ layout: base
 
 **Mythopoetic Stoic Absurdism** is a philosophical and narrative framework that:
 
-- Uses _memento mori_[^memento-mori] not merely as a reminder of death, but as a mirror to interrogate how we _ought_ to live - through the paradox of meaning[^absurd-paradox] and the poetry of cosmic indifference.
+- Uses _katabasis_[^katabasis] and _memento mori_[^memento-mori] not merely as a reminder of death, but as a mirror to interrogate how we _ought_ to live - through the paradox of meaning[^absurd-paradox] and the poetry of cosmic indifference.
 - Constructs mythic and symbolic visions of the afterlife not to escape death, but to _dialogue with it_ - as one would a wise specter by a bonfire.
 - Serves as **the Dantean Descent**[^dante-descent] for Stoics[^stoicism], Absurdists[^absurdism], and Humanists alike - guiding souls not to salvation, but to lucid and coherent authenticity[^existential-authenticity] amidst uncertainty.
 
@@ -292,7 +292,9 @@ This is the final freedom: to vanish like dew, or to burn like a memory.
 
 ## Glossary of terms
 
-[^dante-descent]: A metaphorical journey of moral or spiritual trial, derived from Dante Alighieri's _The Divine Comedy_.
+[^katabasis]: A Greek term for a journey to the underworld.
+
+[^dante-descent]: A metaphorical journey of moral or spiritual trial to the underworld (_katabasis_[^katabasis]), derived from Dante Alighieri's _The Divine Comedy_.
 
 [^daimon]: A guiding spirit or inner force, often representing one's true self. Found in Greek philosophy and mythology.
 
