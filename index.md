@@ -90,6 +90,15 @@ And remember:
 14. **To join the world is to love it freely.**  
     Not as a savior, but as a fellow exile. In solidarity, not salvation, we may find meaning - not truth, but mirroring.
 
+## **VI. HUMAN NATURE & BIOLOGY**
+
+15. **Instinct is not instruction.**  
+    Our nature inclines us toward sociality, empathy, and care - but these are seeds, not laws. Biology and evolution explain tendencies, not obligations.
+16. **Virtue begins where nature ends.**  
+    To act morally is not to follow instinct, but to reflect upon it: accepting, reshaping, or resisting it in pursuit of dignity and coherence. For what is natural is not automatically that which is good.
+17. **Freedom is defiance made conscious.**  
+    We are evolved, not enslaved. To live well is to transcend reflex: to rise from creature to character, from reaction to response. Existential freedom also means freedom _from_ nature.
+
 # The Divine Pantheon
 
 The deities do not rule from gilded thrones or meddle in mortal drama. Instead, they form a **radial constellation** - a sacred map of forces, archetypes, and principles that shape the soul from birth, through life, into death, and beyond.
