@@ -55,23 +55,23 @@ To follow these tenets is to live without illusion, to love without condition, t
 5. **People are ends, not means[^principle-of-humanity].**  
    All action must respect the dignity of others as reasoning beings.
 6. **To live in bad faith[^bad-faith] is to betray one's freedom.**  
-   Avoid self-deception, external roles, and unexamined conformity. Live deliberately.
+   Avoid self-deception, external roles, and unexamined conformity. Live deliberately, and construct the self with conscious authorship.
 7. **Memory is the tether of identity in a world of flux.**  
    It does not merely recall, but sustains the self across impermanence. To live authentically is to relate lucidly to one's own past and that of others. Time may be indifferent, but how we carry it reveals who we choose to be.
 
 ## **III. VIRTUE & RESPONSE**
 
-7. **Fate is beyond our control; response is not.**  
+8. **Fate is beyond our control; response is not.**  
    One may endure, rebel, or transform adversity with dignity. This freedom of response is sacred.
-8. **Virtue is not divine command, but an exemplar of chosen coherence.**  
+9. **Virtue is not divine command, but an exemplar of chosen coherence.**  
    It is a reasoned stance amid disorder - not the only path to meaning, but the most consistent. However, it is always a choice, not a chain.
-9. **Virtue steadies the soul.**  
+10. **Virtue steadies the soul.**  
    Indifferents[^stoic-indifferents]: - health, fame, fortune - may offer pleasure or meaning, but never _eudaimonia_. Do not mistake them for the good.
-10. **To live with virtue is to sever dependency on moral causality.**  
+11. **To live with virtue is to sever dependency on moral causality.**  
    Act without hope of reward or fear of punishment. Be free from events, if not from their happening.
-11. **Virtue is personal in origin, but must stand among others**  
+12. **Virtue is personal in origin, but must stand among others**  
    Its worth lies not in private sentiment, but in reason shared between equals in a polis. Like a social contract[^social-contract] among free minds, it must resonate intersubjectively - lest it become tyranny dressed in righteousness.
-12. **The Four Cardinal Virtues arise not from nature, but from nobility of response:**
+13. **The Four Cardinal Virtues arise not from nature, but from nobility of response:**
 
 - **Courage** is Good - not because it triumphs, but because it preserves dignity amid despair and futility.
 - **Justice** is Good - not because it creates order, but for the mutual acknowledgment that all who reason are worthy of recognition.
@@ -83,20 +83,20 @@ And remember:
 
 ## **V. REBELLION & CONNECTION**
 
-12. **Rebellion[^absurd-rebellion] against absurdity is not rational, but it is beautiful.**  
+14. **Rebellion[^absurd-rebellion] against absurdity is not rational, but it is beautiful.**  
     It affirms dignity where there is no promise of reward.
-13. **Connection is not owed, but may be dared.**  
+15. **Connection is not owed, but may be dared.**  
     Service, kindness, love, and sacrifice are not demanded - but striving for ethical living may deepen our rebellion and reflection.
-14. **To join the world is to love it freely.**  
-    Not as a savior, but as a fellow exile. In solidarity, not salvation, we may find meaning - not truth, but mirroring.
+16. **To join the world is to love it freely.**  
+    Not as a savior, but as a fellow exile. In solidarity, not salvation, we may find meaning. Not objective truth, but mutual recognition.
 
 ## **VI. HUMAN NATURE & BIOLOGY**
 
-15. **Instinct is not instruction.**  
-    Our nature inclines us toward sociality, empathy, and care - but these are seeds, not laws. Biology and evolution explain tendencies, not obligations.
-16. **Virtue begins where nature ends.**  
+17. **Instinct is not instruction.**  
+    Our nature inclines us toward sociality, empathy, and care, but also to fear, cruelty, and tribalism. These are seeds, not laws. Biology and evolution explain tendencies, not obligations.
+18. **Virtue begins where nature ends.**  
     To act morally is not to follow instinct, but to reflect upon it: accepting, reshaping, or resisting it in pursuit of dignity and coherence. For what is natural is not automatically that which is good.
-17. **Freedom is defiance made conscious.**  
+19. **Freedom is defiance made conscious.**  
     We are evolved, not enslaved. To live well is to transcend reflex: to rise from creature to character, from reaction to response. Existential freedom also means freedom _from_ nature.
 
 # The Divine Pantheon
