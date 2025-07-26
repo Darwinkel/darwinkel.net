@@ -186,7 +186,7 @@ In the midst of these figures, we find **🍷Bacchus**, dancing. He lives in the
 
 The Muses are not mere spirits of indulgent inspiration, nor passive ornaments of art. They are the forces that demand narrative coherence, especially where none truly exists in face of the Absurd. Where **⚒️Vulcan** strikes meaning into the raw ore of existence, each blow a choice, an action, a sculpted purpose, the Muses gather and weave those sparks into story.
 
-They do not create meaning like **⚒️Vulcan**, nor preserve it like **📚Mnemosyne**. They bind. They are the glue of the soul. Without them, memory is chaos, and meaning is noise. The Muses compel the soul to interpret its suffering, joy, and absurdity into mythic shape. Their hymn is for authorship: the soul's defiant act of stitching pain and wonder into something that sings. Without them, no one remembers - not even the self. To live musically is to compose oneself, knowing full well the melody ends.
+They do not create meaning like **⚒️Vulcan**, nor preserve it like **📚Mnemosyne**. They bind. They are the glue of the soul. Without them, memory is chaos, and meaning is noise. The Muses compel the soul to interpret its suffering, joy, and absurdity into mythic shape, no matter what cruel twist **🎲Fortuna** throws at life. Their hymn is for authorship: the soul's defiant act of stitching pain and wonder into something that sings. Without them, no one remembers - not even the self. To live musically is to compose oneself, knowing full well the melody ends.
 
 Though all nine whisper to the worthy, only those aligned with **🌄Elysium** hear the full chorus resound within.
 
