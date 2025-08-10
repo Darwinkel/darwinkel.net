@@ -3,6 +3,10 @@
 Jekyll source files for <https://darwinkel.net> and <https://laroccidentis.nl>.
 
 The web server is configured with some redirects to make sure users land on the right pages for each website.
+It also has HTTP/3 and Brotli compression enabled.
+
+The websites are pure responsive HTML and CSS, with everything being self-hosted. No external network calls.
+Structured metadata and semantic tags are used and valid.
 
 ## Dependencies
 
