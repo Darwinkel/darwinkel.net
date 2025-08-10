@@ -38,7 +38,7 @@ I've also used less diammonium phospate and less yeast (plus it was a fresh pack
 
 Hopefully this will all result in healthier, less stressed yeast. My new equipment will hopefully also reduce oxygen exposure and improve the bottling process.
 
-On a sidenote, I underestimated how much volume the honey would add. There was too much total liquid in the carboy and it overflowed a bit when it started fermenting. This also ruined the water lock. In addition I accidentally pushed in the silicon cork too far because I am dumb 🙄. Looks like I'll have to cut it out and throw it away after fermentation. Guess I have to replace it along with the water lock. (I should probably just dissolve the honey directly in warmed up juice next time.)
+On a sidenote, I underestimated how much volume the honey would add. There was too much total liquid in the carboy and it overflowed a bit when it started fermenting. This also ruined the water lock. In addition I accidentally pushed in the silicon cork too far because I am dumb 🙄. Looks like I'll have to cut it out and throw it away after fermentation[^1]. Guess I have to replace it along with the water lock. (I should probably just dissolve the honey directly in warmed up juice next time.)
 
 ### Prophecy
 
@@ -65,4 +65,4 @@ T.b.d.
 
 ### Notes
 
-n/a
+[^1]: Update: when transferring to the other carboy I managed to entirely salvage the cork using a screwdriver. Hooray!
