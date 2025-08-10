@@ -34,4 +34,4 @@ The soil was terraformed with:
 - 10kg of chalk pellets
 - And 420L of bio planting soil to top it all off
 
-Mulching was done at TODO.
+Mulching was done at 2025-08-04 with 500l. Don't get mulch from the Praxis; it contains some traces plastic and glass.
