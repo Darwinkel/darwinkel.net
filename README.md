@@ -30,3 +30,9 @@ Use `cwebp` to optimize images for web distribution. Below reduces a 5.5MB photo
 ```sh
 cwebp -q 100 -m 6 -mt -metadata none -resize 1020 0 vines_mid_june.jpg -o vines_mid_june.webp
 ```
+
+To convert all `jpg` files:
+
+```sh
+for f in *.jpg; do cwebp -q 100 -m 6 -mt -metadata none -resize 1020 0 "$f" -o "${f%.jpg}.webp"; done
+```
