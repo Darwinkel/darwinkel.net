@@ -5,7 +5,7 @@ tags: [hooch]
 layout: post
 ---
 
-Currently fermenting...
+Currently resting in a carboy...
 
 ### General info
 
@@ -26,7 +26,7 @@ Currently fermenting...
 - [Vinoferm Nutrisal diammonium phosphate](https://brouwland.com/en/yeast-nutrients/117-yeast-nutrition-vinoferm-nutrisal-1kg.html)
 - 0.5L tap water to dissolve the honey in
 
-Will contain sulphites.
+About 1g of [Vinoferm potassium metabisulphite (note: allergen)](https://brouwland.com/nl/reinigingsmiddelen/15036-kaliummetabisulfiet-vinoferm-campden-100-g.html) added (250mg/l).
 
 ### Production notes
 
@@ -40,8 +40,6 @@ Hopefully this will all result in healthier, less stressed yeast. My new equipme
 
 On a sidenote, I underestimated how much volume the honey would add. There was too much total liquid in the carboy and it overflowed a bit when it started fermenting. This also ruined the water lock. In addition I accidentally pushed in the silicon cork too far because I am dumb 🙄. Looks like I'll have to cut it out and throw it away after fermentation. Guess I have to replace it along with the water lock. (I should probably just dissolve the honey directly in warmed up juice next time.)
 
-Will be aged on an oak wood stick.
-
 ### Prophecy
 
 Second attempt at making the cranberry grape mead. First iteration was quite nice, save for the foul smell.
@@ -49,7 +47,9 @@ Having high hopes this batch will fix the odor and give it slightly more complex
 
 ### Fermentation time
 
-T.b.d.
+On 2025-08-09 I siphoned the young hooch into a clean carboy with my brand new siphoning equipment. Best €15 I've ever spent, much better experience than before. As my dad always says: _good equipment is half the work_.
+I should note that, even after almost a month, the carboy was still bubbling. Just CO2 escaping? Seems unlikely that the thing ferments for a month.
+I've vacuum-pumped the new carboy and put it in the fridge. First time I bother cold crashing to get rid off all the odd-looking floating stuff.
 
 ### Bottling date and notes
 
