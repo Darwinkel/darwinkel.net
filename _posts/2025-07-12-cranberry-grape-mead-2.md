@@ -5,7 +5,7 @@ tags: [hooch]
 layout: post
 ---
 
-Currently resting in a carboy...
+Currently resting in bottles...
 
 ### General info
 
@@ -55,7 +55,8 @@ I've vacuum-pumped the new carboy and put it in the fridge. First time I bother 
 
 ### Bottling date and notes
 
-T.b.d.
+I raked the hooch once on the 2025-08-16 into another carboy, and then put it back in the fridge. Managed to get rid of almost all the lees.
+On 2025-08-23, the batch was bottled.
 
 ### Storage, aging, and serving
 
@@ -63,7 +64,9 @@ T.b.d.
 
 ### Actual taste and suggested food pairings
 
-T.b.d.
+First bottle was uncorked almost immediately when people expressed interest on the family barbecue on the 23rd. The good news: cold crashing and raking has made the hooch a beautiful crystal clear pink! Very aesthetic. In addition, most of the foulness and sourness was gone.
+
+The taste itself was OK, with some residual hoochiness (presumably yeastiness). We'll see how it develops. I really hope it will gain some complexity.
 
 ### Notes
 
