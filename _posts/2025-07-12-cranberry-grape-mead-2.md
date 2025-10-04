@@ -66,8 +66,9 @@ T.b.d.
 
 First bottle was uncorked almost immediately when people expressed interest on the family barbecue on the 23rd. The good news: cold crashing and raking has made the hooch a beautiful crystal clear pink! Very aesthetic. In addition, most of the foulness and sourness was gone.
 
-The taste itself was OK, with some residual hoochiness (presumably yeastiness). We'll see how it develops. I really hope it will gain some complexity.
+The taste itself was OK, with some residual hoochiness (presumably yeastiness). We'll see how it develops[^2]. I really hope it will gain some complexity.
 
 ### Notes
 
 [^1]: Update: when transferring to the other carboy I managed to entirely salvage the cork using a screwdriver. Hooray!
+[^2]: Update 03-10-2025: it definitely didn't get worse. It's drinkable, if a little hoochy.
