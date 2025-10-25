@@ -31,3 +31,21 @@ permalink: /vineyard-pics/
 #### Mid August, first cute tendrils
 
 ![Cute August tendrils](/images/first_vine_arm.webp "Cute August tendrils")
+
+#### Late August and Early September
+
+As you can see, there's been huge growth surges in August and September.
+
+![Late August 1](/images/progress_late_august_1.webp "Late August 1")
+
+![Late August 2](/images/progress_late_august_2.webp "Late August 2")
+
+![Early September](/images/progress_early_september_1.webp "Early September")
+
+#### Late September, initial trellis construction
+
+![Trellis construction - before](/images/trellis_construction_before.webp "Trellis construction - before")
+
+![Trellis construction - after](/images/trellis_construction_after.webp "Trellis construction - after")
+
+(The second/lower trellis line is a work in progress.)
