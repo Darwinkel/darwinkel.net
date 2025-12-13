@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Pictures
-permalink: /vineyard-pics/
+title: Pictures (2025)
+permalink: /vineyard-pics-2025/
 ---
 
 ### Year 1 - Cabernet Cantor SO 4
@@ -49,3 +49,13 @@ As you can see, there's been huge growth surges in August and September.
 ![Trellis construction - after](/images/trellis_construction_after.webp "Trellis construction - after")
 
 (The second/lower trellis line is a work in progress.)
+
+#### November and December
+
+Lignification started in november, and then rapidly completed in the span of a month.
+
+![Early November](/images/progress_early_november.webp "Early November")
+
+![Early December](/images/progress_early_december.webp "Early December")
+
+And thus concludes 2025.

@@ -23,7 +23,8 @@ minima:
 
   nav_pages:
     - vineyard.md
-    - vineyard-pics.md
+    - vineyard-pics-2025.md
+    - vineyard-pics-2026.md
 
   social_links:
     - title: Source code
