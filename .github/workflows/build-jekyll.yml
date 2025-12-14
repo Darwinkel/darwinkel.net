@@ -28,7 +28,7 @@ jobs:
       - name: Set up Ruby with Bundler cache
         uses: ruby/setup-ruby@v1
         with:
-          ruby-version: "3.3"
+          ruby-version: "3.4"
           bundler-cache: true
 
       - name: Build Jekyll site (darwinkel.net)
