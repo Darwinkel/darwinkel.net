@@ -58,4 +58,4 @@ Lignification started in november, and then rapidly completed in the span of a m
 
 ![Early December](/images/progress_early_december.webp "Early December")
 
-And thus concludes 2025.
+And thus concludes 2025. The porcine guardians send their regards.
