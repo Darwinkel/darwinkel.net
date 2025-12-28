@@ -35,11 +35,7 @@ This philosophy of life is the apotheosis of my musings and reflections.
 
 # Tenets
 
-Wielders of the philosophy do not seek divine favor nor cosmic justice. They walk a lonelier path - through silence, shadow, and starlight. To them, the universe is a vast, indifferent expanse - neither cruel nor kind, merely mute. But from this silence, they draw neither despair nor obedience.
-
-Instead, they forge meaning in defiance of absurdity, like firelit rebels in a cold and purposeless void. They believe that though the cosmos offers no guidance, the human soul burns with the capacity to care, to choose, to stand. Not for reward, not for legacy - but for the sheer integrity of doing so.
-
-To follow these tenets is to live without illusion, to love without condition, to choose freely, and - if one dares - to join the social world and love it still.
+These tenets exist not to bind, but to illuminate. They are maps for wandering souls, tools for shaping life amid a universe that offers neither guidance nor promise. They call on us to confront the silent void, to cultivate virtue, rebellion, and meaning through choice, courage, and reflection. To internalize them is not to obey, but to arm oneself with clarity and purpose: to live deliberately, love authentically, and meet suffering with dignity. Here begins the invitation: to engage the world, to question oneself, and to forge a life worthy of being remembered, not by the cosmos, but by one's own eyes.
 
 ## **I. COSMOS & CONDITION**
 
@@ -103,15 +99,9 @@ And remember:
 
 # The Divine Pantheon
 
-The deities do not rule from gilded thrones or meddle in mortal drama. Instead, they form a **radial constellation** - a sacred map of forces, archetypes, and principles that shape the soul from birth, through life, into death, and beyond.
+These deities do not command, judge, or intervene; they exist as living mirrors of the soul's journey. The pantheon is a radial constellation of forces - archetypes, truths, and principles - that shape experience from birth through life, death, and beyond. Each god, titan, or metaphorical being offers a lens: some illuminate virtue, others confront absurdity, and still others hold the weight of necessity itself.
 
-This pantheon is not a family of Olympian personalities, but a sprawling ensemble of gods, titans, personified truths, and metaphorical beings - each governing a facet of the soul's existential condition. They are not omnipotent, nor are they moral arbiters. Instead, they guide, mirror, or dismantle the self during the postmortem passage through Hades and the realms beyond.
-
-Some offer final choices of remembrance or dissolution. Others confront the soul with what it has made of its time. Some serve not as deities in the classical sense, but as avatars of fate, structure, and the terrifying beauty of necessity.
-
-All are philosophical forces drawn from Stoicism, Absurdism, and cosmic naturalism. Some appear as characters in mythic visions. Others speak only through the silence of time, or through the weight of choices already made. They are encountered in ritual, dream, or at the threshold of death itself.
-
-Some are ancient. Others are born in the fires of modern insight. Yet all are indispensable companions in the soul's eternal spiral - from the randomness of birth to the ambiguous clarity of the afterlife.
+They are not personalities to worship, nor arbiters of reward or punishment. They are companions, provocateurs, and guides, encountered in ritual, reflection, or the silent thresholds of being. Some speak through myth, some through memory, some through the choices we have already made. Together, they map the interior cosmos: the eternal spiral of birth, action, suffering, and transformation. To engage them is to confront the self, to reckon with the forces that shape existence, and to forge clarity, courage, and meaning in a universe that offers none by default.
 
 | **Deity**                       | **Domain**                                                | **Traditional Roots**                                                                 | **Interpretation**                                                                                                                                                                                                                 |
 | ------------------------------- | --------------------------------------------------------- | ------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
