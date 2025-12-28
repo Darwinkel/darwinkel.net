@@ -7,7 +7,7 @@ permalink: /apology/
 
 ## A Pragmatic Defense of Mythopoetic Stoic Absurdism
 
-*Mythopoetic Stoic Absurdism (MSA)* is not a metaphysical doctrine but a practical psychological framework. It is designed as a strategy for living meaningfully and resiliently in a disenchanted, indifferent universe. Its foundations lie not in mystical revelation, but in well-established findings from cognitive psychology, existential therapy, and neuroscience. Below are its three core defenses:
+*Mythopoetic Stoic Absurdism (MSA)* is not a metaphysical doctrine but a practical psychological framework. It is designed as a strategy for living meaningfully and resiliently in a disenchanted, indifferent universe. Its foundations lie not in mystical revelation, but in well-established findings from cognitive psychology and existential therapy. Below are its three core defenses:
 
 ### A Defense of Stoic Philosophy
 
@@ -41,7 +41,7 @@ Crucially, MSA remains secular and scientifically cautious. It treats symbols an
 
 ## Mythopoetic Stoic Absurdism as a Psychological Strategy
 
-Mythopoetic Stoic Absurdism is ultimately a framework for living, not believing. It integrates the Stoic art of emotional self-regulation, the existential commitment to self-authored meaning, and the narrative coherence offered by symbolic imagination. Every component is grounded in respected streams of psychology and cognitive neuroscience.
+Mythopoetic Stoic Absurdism is ultimately a framework for living, not believing. It integrates the Stoic art of emotional self-regulation, the existential commitment to self-authored meaning, and the narrative coherence offered by symbolic imagination. Every component is grounded in respected streams of psychology and cognitive science.
 
 By fostering emotional flexibility, inner coherence, and value-guided action, MSA offers a resilient posture in the face of an unpredictable and often indifferent world. It does not promise salvation, but it does offer a compass: rational, poetic, and psychologically pragmatic.
 
@@ -49,7 +49,7 @@ By fostering emotional flexibility, inner coherence, and value-guided action, MS
 
 # References
 
-## Psychology and cognitive (neuro)science
+## Psychology and cognitive science
 
 - Frankl, V. E. (1946). *Man's Search for Meaning*.
 - Ellis, A. (1962). *Reason and Emotion in Psychotherapy*.

@@ -8,6 +8,8 @@ It also has HTTP/3 and Brotli compression enabled.
 The websites are pure responsive HTML and CSS, with everything being self-hosted. No external network calls.
 Structured metadata and semantic tags are used and valid.
 
+Feel free to make issues or PRs. They're welcome for both technical matters as well as content.
+
 ## Dependencies
 
 - Ruby
