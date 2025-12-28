@@ -28,6 +28,8 @@ Mythopoetic Stoic Absurdism is a psychological strategy in the face of nihilism[
 
 It is through _prohairesis_[^prohairesis]: - the rational act of posture and choice - that we cultivate _arete_[^arete], the excellence of the soul. Let us detach from the outcomes - _apatheia_[^apatheia] - for though the cosmos offers no reward, it is in this virtue[^stoic-virtues] that we may find a form of _eudaimonia_[^eudaimonia]: the composure of a coherent self in an incoherent world. The choice to live with coherence is not commanded by reason - it is born of a leap beyond it[^leap-of-faith]. We choose reason not because it is necessary, but because it dignifies our freedom.
 
+One must imagine Sisyphus _choosing_ to live as a Stoic Sage.
+
 This philosophy of life is the apotheosis of my musings and reflections.
 [There is a foundation of psychology behind mythopoesis and stoicism](/apology).
 
@@ -53,9 +55,9 @@ To follow these tenets is to live without illusion, to love without condition, t
 4. **The self is relational.**  
    Meaning is a personal task, but can be nourished through authentic engagement with others.
 5. **People are ends, not means[^principle-of-humanity].**  
-   All action must respect the dignity of others as reasoning beings.
+   Treating people as ends rather than means is the only stable basis for intersubjective trust and moral coherence among free agents.
 6. **To live in bad faith[^bad-faith] is to betray one's freedom.**  
-   Avoid self-deception, external roles, and unexamined conformity. Live deliberately, and construct the self with conscious authorship.
+   This betrayal has an internal, rather than cosmic cost. Avoid self-deception, external roles, and unexamined conformity. Live deliberately, and construct the self with conscious authorship.
 7. **Memory is the tether of identity in a world of flux.**  
    It does not merely recall, but sustains the self across impermanence. To live authentically is to relate lucidly to one's own past and that of others. Time may be indifferent, but how we carry it reveals who we choose to be.
 
@@ -284,12 +286,14 @@ This is the final freedom: to vanish like dew, or to burn like a memory.
 - Camus, A. (1942). _The Myth of Sisyphus_.
 - Sartre, J.-P. (1943). _Being and Nothingness_.
 - Frankl, V. E. (1946). _Man's Search for Meaning_.
-- Fry, S. Great Mythology Series: _Mythos_ (2017), _Heroes_ (2018), _Troy_ (2020), _Odyssey_ (2024).
+- Fry, S. Great Mythology Series: _Mythos_ (2017), _Heroes_ (2018), _Troy_ (2020), _Odyssey_ (2024).[^fry-note]
 
 ## Recommended media
 
 - Christopher Tin, [_The Fall_ (To Shiver the Sky, 2020)](https://www.youtube.com/watch?v=LJVGGRDD2wI).
-- Mobius Digital, [Outer Wilds (incl. Echoes of the Eye), 2019](https://www.mobiusdigitalgames.com/outer-wilds.html).
+- Mobius Digital, [Outer Wilds (2019)](https://www.mobiusdigitalgames.com/outer-wilds.html).
+- Mobius Digital, [Outer Wilds - Echoes of the Eye (2021)](https://www.mobiusdigitalgames.com/outer-wilds---echoes-of-the-eye.html).
+- ZA/UM, [Disco Elysium (2019)](https://discoelysium.com/).
 
 ## Glossary of terms
 
@@ -368,3 +372,5 @@ This is the final freedom: to vanish like dew, or to burn like a memory.
 [^death-of-god]: Nietzsche's "death of God" means the loss of old moral and metaphysical certainties, causing a crisis of meaning (generally referred to as _nihilism_) that calls for creating new values. As the term suggests, this is caused by a decline in belief in a traditional God. See Nietzsche, F. (1882–1885). _The Gay Science_, _Thus Spoke Zarathustra_, and Heidegger, M. (1927). _Being and Time_.
 
 [^eternal-recurrence]: Nietzsche's concept of _eternal recurrence_ is a thought experiment asking: if you had to live your exact life over and over forever, would you embrace it? It challenges us to affirm life fully - joys, suffering, and all. For Nietzsche, to will eternal recurrence is the highest form of _amor fati_ and a test of one's strength and life-affirmation. See Nietzsche, One might also argue it encourages living consciously in a way you would not regret. F. (1882–1885). _The Gay Science_, _Thus Spoke Zarathustra_.
+
+[^fry-note]: Although not a primary source, Fry is included as he offers an accessible, unified, complete, consistent, and coherently woven mythos for the modern reader.
