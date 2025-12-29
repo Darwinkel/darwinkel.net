@@ -188,7 +188,7 @@ Though all nine whisper to the worthy, only those aligned with **🌄Elysium** h
 
 # The Sirens
 
-Beware, mortals, of the **Seven Sirens**. Their song calls, and their beauty allures. Throughout his voyages, **⚓Odysseus** resisted many. And you will hear them, one by one: each a melody of the mind, each a warning, each a mirror of the perils that await the unexamined soul. Take heed, for to be enchanted is to forget yourself.
+Beware, mortals, of the **Seven Sirens**. Their song calls, and their beauty allures. Throughout his voyages, **⚓Odysseus** resisted many. And you will hear them, one by one: each a melody of the mind, each a warning, each a mirror of the perils that await the unexamined soul. Take heed, for to be enchanted is to forget the author of your own life.
 
 ## 📒Siren of the Ledger
 
