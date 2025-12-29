@@ -186,6 +186,52 @@ Though all nine whisper to the worthy, only those aligned with **🌄Elysium** h
 
 > "What, then, is your story?"
 
+# The Sirens
+
+Beware, mortals, of the **Seven Sirens**. Their song calls, and their beauty allures. Throughout his voyages, **⚓Odysseus** resisted many. And you will hear them, one by one: each a melody of the mind, each a warning, each a mirror of the perils that await the unexamined soul. Take heed, for to be enchanted is to forget yourself.
+
+## 📒Siren of the Ledger
+
+She sings in numbers, not notes. Her voice is the scratch of chalk, the clink of coins, the comfort of totals that rise while individual cries are quietly erased. She promises that no pain is meaningless, only outweighed, so long as the calculus permits. That suffering may be justified if the sum grows large enough, if the columns balance, if the final number is beautiful. Under her song, faces blur into units of _hedons_ and _dolors_, lives into entries, and dignity into a rounding error. She does not hate you; she simply does not see you. And so, smiling, she teaches the terrible arithmetic by which one being's infinite pleasure may license the torment of all others.
+
+⚠️ **Be warned!** When you trade persons for totals, you may maximize the good - and still commit evil with a clean conscience.[^utilitarianism]
+
+## 🚲Siren of the Wheel
+
+She dances in circles, laughing, always just ahead of you. Each promise glitters: the next comfort, the next upgrade, the next sweet relief. She swears this time it will last - that happiness lies one more step forward. Yet her path loops invisibly beneath your feet. Pleasure fades, desire renews, and the chase resumes without end. She does not deny joy; she cheapens it through repetition. Under her spell, life becomes motion without arrival, appetite without satiety, and exhaustion mistaken for fulfillment: an eternal rowing where fulfillment forever stays one horizon ahead.
+
+⚠️ **Be warned!** If you live only to feel better, you may run forever and never arrive anywhere worth standing.[^hedonic-treadmill]
+
+## 💤Siren of Sleep
+
+She hums softly, almost kindly, her voice heavy with poppy and wine. Her song promises rest from effort, pleasure without resistance, warmth without risk. Why struggle, she asks, when bliss can be distilled? Why endure pain, when relief can be administered - reliably, endlessly, without demand or consequence? She offers cushions of sensation, a life smoothed of edges, where no wound ever teaches and no failure ever scars. In her arms, action dissolves into stimulus, choice into reflex. You feel well. You feel safe. You feel nothing that costs you anything - and so nothing that belongs to you. You are soothed, yes, but slowly displaced as the author of your own life.
+
+⚠️ **Be warned!** A life that avoids pain entirely may also avoid becoming yours.[^experience-machine]
+
+## 🌊Siren of the Open Sea
+
+She sings of endless horizons. No shores, no anchors, no constraints - only possibility without end. The Fates, she says, can be overcome through sheer will. Her song flatters the ego: you may be anything, choose everything, owe nothing. Under her melody, limits appear as insults and finitude as failure. Yet the sea she offers has no stars by which to steer. Choice multiplies until it dissolves into paralysis; responsibility thins until nothing is truly owned. The soul drifts, intoxicated by options, mistaking freedom of outcome for freedom itself, and confusing refusal of commitment with sovereignty.
+
+⚠️ **Be warned!** Freedom is not the power to determine outcomes, and when freedom is defined as limitless choice, it collapses into noise - and you may lose the only freedom that matters: authorship of your response.[^paradox-of-choice]
+
+## 🚓Siren of the Rule
+
+She stands straight-backed and immaculate, her voice crisp as chiseled marble. She sings of duty without exception, of laws so pure they need no context. "Do the right thing," she insists, "and the world will take care of itself." Consequences, she says, are vulgar concerns - fit for fortune-tellers and cowards. Only intention matters. Only obedience is clean. In her song, you become morally spotless while blood quietly pools at your feet. You have done your duty, yes - but you have abandoned judgment. The law stands unbroken. The human lies broken instead.
+
+⚠️ **Be warned!** A morality that refuses to get its hands dirty may leave them clean - and empty.[^murderer-at-the-door]
+
+## ⚡️Siren of the Heavens
+
+She whispers certainty. She offers a voice that cannot be argued with. "It is not your burden," she says, "to judge. Only to obey." Under her song, doubt becomes sin and conscience becomes treason. You act, not because you have chosen, but because you have been chosen to act. If harm follows, it was not you - it was the will behind you.
+
+⚠️ **Be warned!** When morality is outsourced to heaven, atrocity needs no justification - only permission.[^divine-command-theory]
+
+## ✨Siren of Perfection
+
+She smiles without warmth, flawless and serene. Her song promises purity: a life without moral remainder, without compromise, without stain. "You can always do more good," she whispers. "Why stop now?" Under her gaze, every idle pleasure becomes a failure, every private love a suspect indulgence. You learn to audit yourself relentlessly, sanding down quirks, passions, and joys that do not serve the Good. Soon your life is exemplary - and unrecognizable. You have become correct, efficient, admirable, and thin. Impeccable, but hollowed of play, irony, and humane excess.
+
+⚠️ **Be warned!** When morality is optimized, the human is often the inefficiency to be removed.[^moral-saint]
+
 # The Journey to the Realms of Hades
 
 Upon death, **🥀Thanatos** extracts the soul from the body, illuminated by the radiant sunlight of **🔆Sol Invictus**, under orders from **✂️Atropos**. **🪽Mercury** then wordlessly guides it to the **banks of the Acheron**, where the souls gather at dusk and mist, and **🛶Charon**, cloaked and grumbling, awaits. Standing at the other side is **🔗Ananke**, watching us from a distance. Looking at her is a reminder that the only thing that matters, is that we act and choose. Moral agency is a prerequisite for entering **Hades**. As such, only beings with fully developed consciousness and cognition have their souls extracted by **🥀Thanatos**. Beings without cognition or consciousness, be they animals, young children, or the severely intellectually disabled, are immediately embraced by **🫗Lethe** and **🌌Iuppiter Optimus Maximus** instead.
@@ -364,3 +410,17 @@ This is the final freedom: to vanish like dew, or to burn like a memory.
 [^eternal-recurrence]: Nietzsche's concept of _eternal recurrence_ is a thought experiment asking: if you had to live your exact life over and over forever, would you embrace it? It challenges us to affirm life fully - joys, suffering, and all. For Nietzsche, to will eternal recurrence is the highest form of _amor fati_ and a test of one's strength and life-affirmation. See Nietzsche, One might also argue it encourages living consciously in a way you would not regret. F. (1882–1885). _The Gay Science_, _Thus Spoke Zarathustra_.
 
 [^fry-note]: Although not a primary source, Fry is included as he offers an accessible, unified, complete, consistent, and coherently woven mythos for the modern reader.
+
+[^utilitarianism]: A reference to the Utility Monster, a thought experiment (Nozick) that challenges total aggregative utilitarianism by showing how maximizing overall utility can justify extreme suffering if one being's capacity for pleasure outweighs all others combined. Note the quantifiers _hedons_ for goodness, and _dolors_ for badness.
+
+[^hedonic-treadmill]: A reference to the Hedonic Treadmill and the Paradox of Hedonism: the psychological finding that increases in pleasure or material gain tend to produce only temporary improvements in well-being, as individuals adapt and return toward a stable baseline, making sustained happiness elusive through pleasure alone.
+
+[^experience-machine]: A reference to the Experience Machine thought experiment (Nozick), which questions whether pleasure or subjectively satisfying experiences alone constitute a good life, even if they are entirely simulated. It is thematically related, but not equivalent, to skepticism scenarios such as the Brain in a Vat, which questions whether perfectly simulated input/output is indistinguishable from reality. 
+
+[^paradox-of-choice]: A reference to the Paradox of Choice (Schwartz), the idea that increasing the number of available options can reduce satisfaction, increase anxiety, and lead to paralysis rather than freedom. This can also be reframed through a Stoic-Absurdist lens: freedom is not control over outcomes or infinite possibility, but authorship of one's response within given constraints.
+
+[^murderer-at-the-door]: A reference to Kant's discussion of truthfulness in _On a Supposed Right to Lie from Philanthropy_ (1797), often summarized as the "murderer at the door" scenario. Kant argues that lying is always morally impermissible, even if telling the truth leads directly to an innocent person's death. The thought experiment exposes a central tension in strict deontology: the refusal to allow consequences or situational judgment to inform moral action.
+
+[^divine-command-theory]: A reference to Divine Command Theory, the meta-ethical view that moral rightness is grounded solely in the will or commands of a divine authority. Classical critiques include Plato's _Euthyphro dilemma_, which asks whether actions are good because the gods command them, or whether the gods command them because they are good. The former risks arbitrariness; the latter undermines divine authority as the source of morality.
+
+[^moral-saint]: Susan Wolf's Moral Saint critique argues that a life devoted exclusively to maximizing moral goodness risks crowding out traits central to human flourishing, such as individuality, creativity, humor, intimacy, and joy. It challenges ethical systems whose demands become totalizing, whether framed in terms of moral purity, maximal virtue, or optimized goodness.
