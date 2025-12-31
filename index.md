@@ -232,6 +232,20 @@ She smiles without warmth, flawless and serene. Her song promises purity: a life
 
 ⚠️ **Be warned!** When morality is optimized, the human is often the inefficiency to be removed.[^moral-saint]
 
+## 🪙Siren of the Earned Crown
+
+She praises you softly, reasonably. Her song is made of effort rewarded, nights worked late, pleasures deferred. "You earned this," she says. "And what is earned is deserved. Success becomes evidence of virtue, virtue proof of a just world. The system feels fair to you.
+
+Fortuna quietly exits the story. So do inheritance, health, timing, teachers, infrastructure, and the countless contingencies that never appear on a résumé. What remains is a clean narrative: you tried, you succeeded, therefore the outcome is just.
+
+She teaches the soul's accounting. Discipline deposits credit. Sacrifice accrues balance. Soon you are no longer asking what justice requires _now_, but what your past goodness has already paid for. Compassion becomes discretionary. Solidarity becomes generosity.
+
+When others falter, her song offers an explanation that flatters and absolves at once: they must not have tried hard enough. You are taught why their suffering is not your responsibility.
+
+She does not tell you to stop caring or be cruel. She simply teaches you that you no longer have to. She crowns you, and suggests that a crowned man may finally rest.
+
+⚠️ **Be warned!** When success is mistaken for moral proof, luck is sanctified, virtue is monetized, and injustice learns to speak in the voice of responsibility.[^moral-luck-credit-desert]
+
 # The Journey to the Realms of Hades
 
 Upon death, **🥀Thanatos** extracts the soul from the body, illuminated by the radiant sunlight of **🔆Sol Invictus**, under orders from **✂️Atropos**. **🪽Mercury** then wordlessly guides it to the **banks of the Acheron**, where the souls gather at dusk and mist, and **🛶Charon**, cloaked and grumbling, awaits. Standing at the other side is **🔗Ananke**, watching us from a distance. Looking at her is a reminder that the only thing that matters, is that we act and choose. Moral agency is a prerequisite for entering **Hades**. As such, only beings with fully developed consciousness and cognition have their souls extracted by **🥀Thanatos**. Beings without cognition or consciousness, be they animals, young children, or the severely intellectually disabled, are immediately embraced by **🫗Lethe** and **🌌Iuppiter Optimus Maximus** instead.
@@ -424,3 +438,5 @@ This is the final freedom: to vanish like dew, or to burn like a memory.
 [^divine-command-theory]: A reference to Divine Command Theory, the meta-ethical view that moral rightness is grounded solely in the will or commands of a divine authority. Classical critiques include Plato's _Euthyphro dilemma_, which asks whether actions are good because the gods command them, or whether the gods command them because they are good. The former risks arbitrariness; the latter undermines divine authority as the source of morality.
 
 [^moral-saint]: Susan Wolf's Moral Saint critique argues that a life devoted exclusively to maximizing moral goodness risks crowding out traits central to human flourishing, such as individuality, creativity, humor, intimacy, and joy. It challenges ethical systems whose demands become totalizing, whether framed in terms of moral purity, maximal virtue, or optimized goodness.
+
+[^moral-luck-credit-desert]: A reference to the problem of Moral Luck (Nagel, Williams), which challenges the idea that moral judgment should track only factors under an agent’s control, noting that outcomes - and thus praise or blame - are often shaped by luck. Closely related is the notion of Moral Desert, the belief that individuals deserve their outcomes because of their character or effort, and Moral Credit, the implicit assumption that past virtue accumulates like capital and can be "spent" to justify comfort, exemption, or diminished obligation. Together, these ideas explain how success can be retroactively moralized, allowing contingent fortune to masquerade as earned innocence.
