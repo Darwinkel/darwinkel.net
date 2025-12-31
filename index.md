@@ -232,7 +232,7 @@ She smiles without warmth, flawless and serene. Her song promises purity: a life
 
 ⚠️ **Be warned!** When morality is optimized, the human is often the inefficiency to be removed.[^moral-saint]
 
-## 🪙Siren of the Earned Crown
+## 👑Siren of the Earned Crown
 
 She praises you softly, reasonably. Her song is made of effort rewarded, nights worked late, pleasures deferred. "You earned this," she says. "And what is earned is deserved. Success becomes evidence of virtue, virtue proof of a just world. The system feels fair to you.
 
