@@ -202,7 +202,7 @@ She dances in circles, laughing, always just ahead of you. Each promise glitters
 
 ⚠️ **Be warned!** If you live only to feel better, you may run forever and never arrive anywhere worth standing.[^hedonic-treadmill]
 
-## 💤Siren of Sleep
+## 💤Siren of Delightful Experience
 
 She hums softly, almost kindly, her voice heavy with poppy and wine. Her song promises rest from effort, pleasure without resistance, warmth without risk. Why struggle, she asks, when bliss can be distilled? Why endure pain, when relief can be administered - reliably, endlessly, without demand or consequence? She offers cushions of sensation, a life smoothed of edges, where no wound ever teaches and no failure ever scars. In her arms, action dissolves into stimulus, choice into reflex. You feel well. You feel safe. You feel nothing that costs you anything - and so nothing that belongs to you. You are soothed, yes, but slowly displaced as the author of your own life.
 
