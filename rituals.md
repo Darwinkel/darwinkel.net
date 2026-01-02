@@ -92,7 +92,7 @@ Upon initiation, every Paladin accepts **Three Duties**, which are non-negotiabl
 
 1. **Accept reality**
 
-   One’s circumstances, limits, past actions, bodily needs, and the Lot assigned.
+   One's circumstances, limits, past actions, bodily needs, and the Lot assigned.
 
 2. **Be truthful to oneself**
 
@@ -238,6 +238,9 @@ Paladins keep simple shrines wherever they live.
 - Flowing water or a fogged mirror.
 - A rigid belief is written and burned.
 - Purpose: loosening false necessity though distancing and defusion.
+- A recital:
+
+> I am not this thought; I am simply having it.
 
 #### Daily and Periodic Rites
 
@@ -272,7 +275,7 @@ Written reflection:
 
 Spoken gently in moments of failure.
 
-> I speak now not to scold, but to soothe. I suffer, as do all mortals. May I greet this pain as I would a friend: gently, patiently, with truth.
+> I speak now not to scold, but to soothe. I suffer, as do all mortals. May I greet this pain as I would a friend: gently, patiently, with truth. I may have failed, but I am not a failure.
 
 ##### Ritual of Connection
 
@@ -280,6 +283,16 @@ Spoken gently in moments of failure.
 - A toast is performed:
 
 > To the absurd journey we share.
+
+##### Ritual of the Breathing Mind
+
+- Sit. Breathe. Notice the sensation of air at nose or chest. When the mind wanders, it will gently return.
+- Slowly move attention from feet to head, noticing sensations without changing them.
+
+##### Ritual of Gratefulness and Loss
+
+- Write down three things for which one is grateful.
+- Then, imagine losing them: they are indifferents.
 
 ### Sacred Festivals
 
