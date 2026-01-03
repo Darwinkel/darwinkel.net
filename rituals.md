@@ -35,9 +35,9 @@ In their ongoing Quest, the Paladins seek to live well and flourish: to act calm
 
 Thus the Order endures - not because the world is ending, but because it is not. Because there is work to be done after calamity, and because the Quest matters most precisely when no final victory is promised.
 
-### The Fortress and the Palatine Hill
+### The Citadel and the Palatine Hill
 
-The Paladins gather at the Fortress, a citadel atop the Palatine Hill at the center of the world, within and upon the ruins of an old imperial palace. Marble columns remain, cracked but dignified. New stone has been laid beside ancient brick, not to restore the palace to its former glory, but to make it serviceable. Even within the Fortress, however, choices carry shadow; every assignment may test virtue as much as skill, and the cost of adherence is often unseen.
+The Paladins gather at the Citadel, a fortress atop the Palatine Hill at the center of the world, within and upon the ruins of an old imperial palace. Marble columns remain, cracked but dignified. New stone has been laid beside ancient brick, not to restore the palace to its former glory, but to make it serviceable. Even within the Citadel, however, choices carry shadow; every assignment may test virtue as much as skill, and the cost of adherence is often unseen.
 
 It is a place of:
 
@@ -49,7 +49,7 @@ It is a place of:
 
 At its heart lies the **Round Table**, hewn from old oak and scarred by centuries of elbows, blades, ink, and wine. No seat is elevated. No name is carved permanently. The Round Table is a reminder that authority circulates, and that no one escapes the Lot.
 
-Within the Fortress are:
+Within the Citadel are:
 
 - the Hall of Assembly,
 - the Archives of Quests,
@@ -57,7 +57,7 @@ Within the Fortress are:
 - the Dormitories of the Unassigned,
 - and the Courtyard of Return, where Paladins dismount after long absence.
 
-The Fortress is where Paladins begin, return, and - sometimes - are buried.
+The Citadel is where Paladins begin, return, and - sometimes - are buried.
 
 ### Governance of the Order
 
@@ -116,7 +116,7 @@ When they again fulfill the Duties - and are truthful to themselves about their 
 
 Paladins live ordinary lives.
 
-They work as scribes, laborers, soldiers, merchants, healers, caretakers, and teachers. Some reside in the Fortress; many do not. All are bound to fulfill their assigned Lot and to sustain themselves without pretense.
+They work as scribes, laborers, soldiers, merchants, healers, caretakers, and teachers. Some reside in the Citadel; many do not. All are bound to fulfill their assigned Lot and to sustain themselves without pretense.
 
 Outside these obligations, Paladins are free.
 
