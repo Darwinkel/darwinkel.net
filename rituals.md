@@ -37,7 +37,7 @@ Thus the Order endures - not because the world is ending, but because it is not.
 
 ### The Citadel and the Palatine Hill
 
-The Paladins gather at the Citadel, a fortress atop the Palatine Hill at the center of the world, within and upon the ruins of an old imperial palace. Marble columns remain, cracked but dignified. New stone has been laid beside ancient brick, not to restore the palace to its former glory, but to make it serviceable. Even within the Citadel, however, choices carry shadow; every assignment may test virtue as much as skill, and the cost of adherence is often unseen.
+The Paladins gather at the Citadel, a fortress atop the Palatine Hill, long held to be the center of the world, within and upon the ruins of an old imperial palace. Marble columns remain, cracked but dignified. New stone has been laid beside ancient brick, not to restore the palace to its former glory, but to make it serviceable. Even within the Citadel, however, choices carry shadow; every assignment may test virtue as much as skill, and the cost of adherence is often unseen.
 
 It is a place of:
 
@@ -210,6 +210,15 @@ Uttered when meaning thins.
 
 > I defy meaninglessness,  
 > By becoming meaning.
+
+##### Invocation of Ananke
+
+Quietly voiced, exactly once, to oneself when confronted with anxiety or fear for something or someone.
+
+> Hail, friend.  
+> There you are.  
+> By Ananke, our paths cross again.  
+> Now, let us both continue with our day.
 
 #### The Four Altars
 
