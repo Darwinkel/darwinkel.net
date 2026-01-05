@@ -341,6 +341,7 @@ This is the final freedom: to vanish like dew, or to burn like a memory.
 ## Recommended media
 
 - Christopher Tin, [_The Fall_ (To Shiver the Sky, 2020)](https://www.youtube.com/watch?v=LJVGGRDD2wI).
+- Andrew Prahlow, [_Travelers' Encore_ (Outer Wilds: Echoes of the Eye, 2021)](https://www.youtube.com/watch?v=eXumEd6PdtQ).
 - Mobius Digital, [Outer Wilds (2019)](https://www.mobiusdigitalgames.com/outer-wilds.html).
 - Mobius Digital, [Outer Wilds - Echoes of the Eye (2021)](https://www.mobiusdigitalgames.com/outer-wilds---echoes-of-the-eye.html).
 - ZA/UM, [Disco Elysium (2019)](https://discoelysium.com/).
