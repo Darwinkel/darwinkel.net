@@ -11,27 +11,27 @@ layout: base
 
 **Mythopoetic Stoic Absurdism** is a philosophical and narrative framework that:
 
-- Uses _katabasis_[^katabasis] and _memento mori_[^memento-mori] not merely as a reminder of death, but as a mirror to interrogate how we _ought_ to live - through the paradox of meaning[^absurd-paradox] and the poetry of cosmic indifference.
-- Constructs mythic and symbolic visions of the afterlife not to escape death, but to _dialogue with it_ - as one would a wise specter by a bonfire.
-- Serves as **the Dantean Descent**[^dante-descent] for Stoics[^stoicism], Absurdists[^absurdism], and Humanists alike - guiding souls not to salvation, but to lucid and coherent authenticity[^existential-authenticity] amidst uncertainty.
+- Employs _katabasis_[^katabasis] and _memento mori_[^memento-mori] not merely as reminders of death, but as mirrors through which we interrogate how we _ought_ to live - by confronting the paradox of meaning[^absurd-paradox] and the poetry of cosmic indifference.
+- Constructs mythic and symbolic visions of the afterlife not to deny or escape death, but to _enter into dialogue with it_ - as one would with a wise specter seated by a dying fire.
+- Serves as a **Dantean Descent**[^dante-descent] for Stoics[^stoicism], Absurdists[^absurdism], and Humanists alike: a guided passage not toward salvation, but toward lucid and coherent authenticity[^existential-authenticity] amid uncertainty.
 
-It weds the serenity of the Stoic Logos[^logos] with the defiance of the Absurd Hero[^absurd-hero], and binds them through myth - not as dogma, but as living metaphor. In doing so, it sanctifies existence without illusion and gives death its proper throne - not as tyrant, but as teacher.
+It weds the discipline and serenity of Stoic reason with the defiance of the Absurd Hero[^absurd-hero], binding them through myth - not as dogma, but as living metaphor. In doing so, it sanctifies existence without illusion and restores death to its proper throne: not as tyrant, but as teacher.
 
-It constitutes a complete philosophical stance with:
+It constitutes a complete philosophical stance:
 
-- **Ontology**[^ontology] (what is): Indifferent universe.
-- **Epistemology**[^epistemology] (what we can know): Uncertain metaphysical truth; relevance lies in action.
-- **Ethics**[^ethics] (how to live): With freedom, virtue, and authenticity.
-- **Aesthetics of Living**: Poetic rebellion[^absurd-rebellion] over passive endurance.
+- **Ontology**[^ontology] (what is): an indifferent universe.
+- **Epistemology**[^epistemology] (what can be known): metaphysical uncertainty; relevance lies in action rather than certainty.
+- **Ethics**[^ethics] (how to live): freely, virtuously, and authentically.
+- **Aesthetics of Living**: poetic rebellion[^absurd-rebellion] rather than passive endurance.
 
-Mythopoetic Stoic Absurdism is a psychological strategy in the face of nihilism[^death-of-god]. It offers not hope, but posture. It offers psychological resilience and social moral clarity without appealing to unverifiable absolutes. It encourages methods of enduring and engaging the human condition with lucid defiance.
+Mythopoetic Stoic Absurdism is a psychological strategy in the face of nihilism[^death-of-god]. It offers not hope, but posture. It provides psychological resilience and moral clarity without appeal to unverifiable absolutes, and cultivates ways of enduring and engaging the human condition with lucid defiance.
 
-It is through _prohairesis_[^prohairesis]: - the rational act of posture and choice - that we cultivate _arete_[^arete], the excellence of the soul. Let us detach from the outcomes - _apatheia_[^apatheia] - for though the cosmos offers no reward, it is in this virtue[^stoic-virtues] that we may find a form of _eudaimonia_[^eudaimonia]: the composure of a coherent self in an incoherent world. The choice to live with coherence is not commanded by reason - it is born of a leap beyond it[^leap-of-faith]. We choose reason not because it is necessary, but because it dignifies our freedom.
+Through _prohairesis_[^prohairesis] - the rational act of posture and choice - we cultivate _arete_[^arete], the excellence of the soul. We practice detachment from outcomes - _apatheia_[^apatheia] - not because the cosmos demands it, but because coherence of character demands it. Though the universe offers no reward, it is in virtue[^stoic-virtues] that we may find a form of _eudaimonia_[^eudaimonia]: not happiness guaranteed by order, but the composure of a coherent self within an incoherent world. Ethical life is not commanded by reason nor justified by metaphysics; it is chosen. We live with reason not because it is necessary, but because it dignifies our freedom.
 
-One must imagine Sisyphus _choosing_ to live as a Stoic Sage.
+One must imagine Sisyphus _choosing_ to live as a Stoic sage.
 
 This philosophy of life is the apotheosis of my musings and reflections.
-[There is a foundation of psychology behind mythopoesis and stoicism](/apology).
+[Its psychological and pragmatic foundations are addressed separately.](/apology)
 
 # Tenets
 
@@ -105,7 +105,7 @@ They are not personalities to worship, nor arbiters of reward or punishment. The
 
 | **Deity**                       | **Domain**                                                | **Traditional Roots**                                                                 | **Interpretation**                                                                                                                                                                                                                 |
 | ------------------------------- | --------------------------------------------------------- | ------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **🌌Iuppiter Optimus Maximus** | The Cosmos as totality  -  silent, vast, encompassing       | Logos, natural law, sublime order                                                     | Not a deity with will. He is the cosmic order, the Stoic ideal. Some submit to him; others rebel against him. All and everything are within him. He is omnipresent. _Deus sive natura_[^deus-sive-natura]. Governed by infinite cause and effect. |
+| **🌌Iuppiter Optimus Maximus** | The Cosmos as totality  -  silent, vast, encompassing       | Logos[^logos], natural law, sublime order                                                     | Not a deity with will. He is the cosmic order, the Stoic ideal. Some submit to him; others rebel against him. All and everything are within him. He is omnipresent. _Deus sive natura_[^deus-sive-natura]. Governed by infinite cause and effect. |
 | **🔆Sol Invictus** | Inescapable, blinding, burning truth.        | Sun god of the late Roman Empire.  | It is the sun that shines on Plato's Cave[^cave]. The harsh, uncomfortable truth of **☀️Icarus**' wings melting. |
 | **🧵Clotho**                   | Birth, contingency, unchosen foundations (_Geworfenheit_[^geworfenheit]) | Moirai (Greek); Parcae (Roman)                                                        | Spins the thread of life. Establishes one's birth conditions. Immutable.                                                                                                                                                           |
 | **📏Lachesis**                 | Life's unfolding, environment, choice context             | Moirai (Greek); Parcae (Roman)                                                        | Measures the thread. Defines mutable conditions, life's canvas.                                                                                                                                                                    |
@@ -124,7 +124,7 @@ They are not personalities to worship, nor arbiters of reward or punishment. The
 | **🌵Minos**                    | Judge of suffering and one's response to absurdity        | Minos (Greek mythology)                                                               | Asks: _How did you face the absurd and pain?_ Patron of rebellion[^absurd-rebellion] and amor fati[^amor-fati].                                                                                                                                                   |
 | **🎶Calliope**                | Epic narrative, storytelling, identity                        | Calliope (Greek; Chief of the Muses)                                                            |  Combines **⚒️Vulcan**'s hammer blows into a single identity through song and story, which is then presented to **📚Mnemosyne**.  |
 | **📚Mnemosyne**                | Memory, resistance, mythic legacy                         | Mnemosyne (Greek Titaness)                                                            | Offers remembrance and rebellion after death. Drinking her water preserves selfhood as symbolic fire.                                                                                                                              |
-| **🫗Lethe**                     | Oblivion, serenity, union with the Logos                  | Lethe (Greek deity/river)                                                             | Offers dissolution into cosmic unity. Ego is shed. One joins the natural order in tranquil non-being.                                                                                                                              |
+| **🫗Lethe**                     | Oblivion, serenity, union with the Logos[^logos]                  | Lethe (Greek deity/river)                                                             | Offers dissolution into cosmic unity. Ego is shed. One joins the natural order in tranquil non-being.                                                                                                                              |
 | **🍀Kekius Maximus**                     | Nihilistic malevolence                  | Internet culture; Egyptian frog god of darkness         | Malevolent trickster god of those **🫥Lingering Souls** that turned their apathy into destruction, harming others in their self-indulgence.  |
 
 # The Patron Daimones
@@ -306,7 +306,7 @@ This is the final rite of the soul: not a verdict, but a _verdict rendered by th
 
 | **Name**         | **Path**             | **Philosophical Roots**                 | **Nature of the Afterlife**                                                                   | **Key Figures** | **Pathos**                    |
 | ---------------- | -------------------- | --------------------------------------- | --------------------------------------------------------------------------------------------- | ---------------------------------- | -------- |
-| **🫗Lethe**      | _Serene Dissolution_ | Stoicism, Natural Law, Buddhist Nirvana | The soul dissolves into the Logos; there is peace, no memory, no self  -  only cosmic unity.    | Marcus Aurelius, Epictetus, Buddha | Escapism and apathy.  |
+| **🫗Lethe**      | _Serene Dissolution_ | Stoicism, Natural Law, Buddhist Nirvana | The soul dissolves into the Logos[^logos]; there is peace, no memory, no self  -  only cosmic unity.    | Marcus Aurelius, Epictetus, Buddha | Escapism and apathy.  |
 | **📚Mnemosyne** | _Defiant Continuity_ | Existentialism, Absurdism, Cynicism     | The soul vanishes but is remembered  -  echoing through story, resistance, and symbolic legacy. | Camus, Diogenes, Prometheus  | Unable to let go of impermanent attachments.      |
 
 **🫗Lethe** offers tranquil extinction: the obliteration of ego in the flow of cosmic necessity. One becomes _part of all things_, faceless yet free of suffering.
