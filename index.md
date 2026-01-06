@@ -20,7 +20,7 @@ It weds the discipline of Stoic reason with the defiance of the Absurd Hero, not
 It constitutes a complete philosophical stance:
 
 - **Ontology**[^ontology] (what is): an indifferent universe.
-- **Epistemology**[^epistemology] (what can be known): metaphysical uncertainty; relevance lies in action rather than certainty.
+- **Epistemology**[^epistemology] (what can be known): metaphysical uncertainty; relevance lies in action.
 - **Ethics**[^ethics] (how to live): freely, virtuously, and authentically.
 - **Aesthetics of Living**: poetic rebellion[^absurd-rebellion] rather than passive endurance.
 
