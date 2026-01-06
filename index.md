@@ -15,7 +15,7 @@ layout: base
 - Constructs mythic and symbolic visions of the afterlife not to deny or escape death, but to _enter into dialogue with it_ - as one would with a wise specter seated by a dying fire.
 - Serves as a **Dantean Descent**[^dante-descent] for Stoics[^stoicism], Absurdists[^absurdism], and Humanists alike: a guided passage not toward salvation, but toward lucid and coherent authenticity[^existential-authenticity] amid uncertainty.
 
-It weds the discipline and serenity of Stoic reason with the defiance of the Absurd Hero[^absurd-hero], binding them through myth - not as dogma, but as living metaphor. In doing so, it sanctifies existence without illusion and restores death to its proper throne: not as tyrant, but as teacher.
+It weds the discipline of Stoic reason with the defiance of the Absurd Hero, not by claiming that reason reflects any hidden order of the cosmos, but by treating it as a freely adopted discipline of self-governance. Through myth - not as dogma, but as living metaphor - it cultivates composure without illusion and restores death to its proper throne: not as tyrant, but as teacher.
 
 It constitutes a complete philosophical stance:
 
@@ -26,11 +26,11 @@ It constitutes a complete philosophical stance:
 
 Mythopoetic Stoic Absurdism is a psychological strategy in the face of nihilism[^death-of-god]. It offers not hope, but posture. It provides psychological resilience and moral clarity without appeal to unverifiable absolutes, and cultivates ways of enduring and engaging the human condition with lucid defiance.
 
-Through _prohairesis_[^prohairesis] - the rational act of posture and choice - we cultivate _arete_[^arete], the excellence of the soul. We practice detachment from outcomes - _apatheia_[^apatheia] - not because the cosmos demands it, but because coherence of character demands it. Though the universe offers no reward, it is in virtue[^stoic-virtues] that we may find a form of _eudaimonia_[^eudaimonia]: not happiness guaranteed by order, but the composure of a coherent self within an incoherent world. Ethical life is not commanded by reason nor justified by metaphysics; it is chosen. We live with reason not because it is necessary, but because it dignifies our freedom.
+Through _prohairesis_[^prohairesis] - the rational act of posture and choice - we cultivate _arete_[^arete], the excellence of the soul. We practice detachment from outcomes - _apatheia_[^apatheia] - not because the cosmos demands it, but because coherence of character demands it. Though the universe offers no reward, it is in virtue[^stoic-virtues] that we may find a form of _eudaimonia_[^eudaimonia]: not happiness guaranteed by order, but the composure of a coherent self within an incoherent world. Ethical life is not commanded by reason nor justified by metaphysics; it is chosen. We live with reason not because it is necessary, nor because it mirrors any cosmic order, but because - among many possible postures - it allows for durable agency, responsibility, and coherence of character in a universe that guarantees none. Without some chosen coherence of character, freedom fragments into momentary expression and cannot sustain responsibility across time.
 
-One must imagine Sisyphus _choosing_ to live as a Stoic sage.
+Other responses to the Absurd - irony, play, aesthetic withdrawal, or even refusal - are acknowledged as coherent postures, but are set aside here as insufficient for those who seek to sustain responsibility, agency, care, and ethical continuity over a lifetime. As such, one must imagine Sisyphus _choosing_ to live as a Stoic sage.
 
-This philosophy of life is the apotheosis of my musings and reflections.
+This philosophy of life is the distilled outcome of my reflections.
 [Its psychological and pragmatic foundations are addressed separately.](/apology)
 
 # Tenets
@@ -332,7 +332,7 @@ This is the final freedom: to vanish like dew, or to burn like a memory.
 - Epictetus. (c. 108). _Handbook, Discourses, and Fragments_ (compiled by Arrian).
 - Aurelius, M. (c. 161-180). _Meditations_.
 - Kierkegaard, S. (1849). _The Sickness unto Death_.
-- Nietzsche, F. (1882–1885). _The Gay Science_, _Thus Spoke Zarathustra_, and other works.
+- Nietzsche, F. (1882-1885). _The Gay Science_, _Thus Spoke Zarathustra_, and other works.
 - Camus, A. (1942). _The Myth of Sisyphus_.
 - Sartre, J.-P. (1943). _Being and Nothingness_.
 - Frankl, V. E. (1946). _Man's Search for Meaning_.
@@ -420,9 +420,9 @@ This is the final freedom: to vanish like dew, or to burn like a memory.
 
 [^absurd-paradox]: This refers to what Camus calls _the absurd_ - the confrontation between the human desire for meaning, unity, and clarity, and the indifferent, silent universe that offers none. It is not a logical contradiction, but an existential tension to be endured, not resolved. Camus notably critiqued Sartre's existentialism for attempting to overcome the absurd by positing self-made meaning, a move he viewed as a form of philosophical betrayal. See Camus, A. (1942). _The Myth of Sisyphus_.
 
-[^death-of-god]: Nietzsche's "death of God" means the loss of old moral and metaphysical certainties, causing a crisis of meaning (generally referred to as _nihilism_) that calls for creating new values. As the term suggests, this is caused by a decline in belief in a traditional God. See Nietzsche, F. (1882–1885). _The Gay Science_, _Thus Spoke Zarathustra_, and Heidegger, M. (1927). _Being and Time_.
+[^death-of-god]: Nietzsche's "death of God" means the loss of old moral and metaphysical certainties, causing a crisis of meaning (generally referred to as _nihilism_) that calls for creating new values. As the term suggests, this is caused by a decline in belief in a traditional God. See Nietzsche, F. (1882-1885). _The Gay Science_, _Thus Spoke Zarathustra_, and Heidegger, M. (1927). _Being and Time_.
 
-[^eternal-recurrence]: Nietzsche's concept of _eternal recurrence_ is a thought experiment asking: if you had to live your exact life over and over forever, would you embrace it? It challenges us to affirm life fully - joys, suffering, and all. For Nietzsche, to will eternal recurrence is the highest form of _amor fati_ and a test of one's strength and life-affirmation. See Nietzsche, One might also argue it encourages living consciously in a way you would not regret. F. (1882–1885). _The Gay Science_, _Thus Spoke Zarathustra_.
+[^eternal-recurrence]: Nietzsche's concept of _eternal recurrence_ is a thought experiment asking: if you had to live your exact life over and over forever, would you embrace it? It challenges us to affirm life fully - joys, suffering, and all. For Nietzsche, to will eternal recurrence is the highest form of _amor fati_ and a test of one's strength and life-affirmation. See Nietzsche, One might also argue it encourages living consciously in a way you would not regret. F. (1882-1885). _The Gay Science_, _Thus Spoke Zarathustra_.
 
 [^fry-note]: Although not a primary source, Fry is included as he offers an accessible, unified, complete, consistent, and coherently woven mythos for the modern reader.
 
