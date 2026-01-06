@@ -35,12 +35,12 @@ This philosophy of life is the distilled outcome of my reflections.
 
 # Tenets
 
-These tenets exist not to bind, but to illuminate. They are maps for wandering souls, tools for shaping life amid a universe that offers neither guidance nor promise. They call on us to confront the silent void, to cultivate virtue, rebellion, and meaning through choice, courage, and reflection. To internalize them is not to obey, but to arm oneself with clarity and purpose: to live deliberately, love authentically, and meet suffering with dignity. Here begins the invitation: to engage the world, to question oneself, and to forge a life worthy of being remembered, not by the cosmos, but by one's own eyes.
+These tenets exist not to bind, but to illuminate. They are maps for wandering souls, tools for shaping life amid a universe that offers neither guidance nor promise. They call on us to confront the silent void, to cultivate virtue, rebellion, and meaning through choice, courage, and reflection. To internalize them is not to obey, but to arm oneself with clarity and purpose: to live deliberately, love authentically, and meet suffering with dignity. Here begins the invitation: to engage the world, to question oneself, and to forge a life worthy of being remembered, not by the cosmos, but by one's own eyes. To that end, these tenets articulate an existential ontology, a restrained epistemology, an intersubjective ethics, and a civic conception of virtue.
 
 ## **I. COSMOS & CONDITION**
 
 1. **The cosmos is neutral and devoid of moral or teleological meaning[^teleological-meaning].**  
-   It operates by cause and effect, not justice. Higher powers, if they exist, are unknowable and irrelevant to how we must live. The _death of God_[^death-of-god] is the fundamental starting point of all other moral and philosophical considerations.
+   It operates by cause and effect, not justice. Higher powers, if they exist, are unknowable and practically irrelevant to how we must live. The _death of God_[^death-of-god] is the fundamental starting point of all other moral and philosophical considerations.
 2. **Humans are not neutral.**  
    Though born of an indifferent world, we possess consciousness, care, and the capacity to reflect, suffer, and choose.
 
@@ -54,7 +54,9 @@ These tenets exist not to bind, but to illuminate. They are maps for wandering s
    Treating people as ends rather than means is the only stable basis for intersubjective trust and moral coherence among free agents.
 6. **To live in bad faith[^bad-faith] is to betray one's freedom.**  
    This betrayal has an internal, rather than cosmic cost. Avoid self-deception, external roles, and unexamined conformity. Live deliberately, and construct the self with conscious authorship.
-7. **Memory is the tether of identity in a world of flux.**  
+7. **Finitude is not a flaw, but the condition of meaning.**  
+   We do not live _despite_ time, but through it. To act as if time were infinite is a form of bad faith[^bad-faith].
+8. **Memory is a primary tether of identity in a world of flux.**  
    It does not merely recall, but sustains the self across impermanence. To live authentically is to relate lucidly to one's own past and that of others. Time may be indifferent, but how we carry it reveals who we choose to be.
 
 ## **III. VIRTUE & RESPONSE**
@@ -64,7 +66,7 @@ These tenets exist not to bind, but to illuminate. They are maps for wandering s
 9. **Virtue is not divine command, but an exemplar of chosen coherence.**  
    It is a reasoned stance amid disorder - not the only path to meaning, but the most consistent. However, it is always a choice, not a chain.
 10. **Virtue steadies the soul.**  
-   Indifferents[^stoic-indifferents]: - health, fame, fortune - may offer pleasure or meaning, but never _eudaimonia_. Do not mistake them for the good.
+   Indifferents[^stoic-indifferents] - health, fame, fortune - may offer pleasure or meaning, but never _eudaimonia_. Do not mistake them for the good.
 11. **To live with virtue is to sever dependency on moral causality.**  
    Act without hope of reward or fear of punishment. Be free from events, if not from their happening.
 12. **Virtue is personal in origin, but must stand among others**  
@@ -79,20 +81,20 @@ These tenets exist not to bind, but to illuminate. They are maps for wandering s
 And remember:
 > Waste no more time arguing what a good man should be. Be one.[^stoic-virtues]
 
-## **V. REBELLION & CONNECTION**
+## **IV. REBELLION & CONNECTION**
 
-14. **Rebellion[^absurd-rebellion] against absurdity is not rational, but it is beautiful.**  
+14. **Rebellion[^absurd-rebellion] against absurdity is not instrumentally rational, but it is beautiful.**  
     It affirms dignity where there is no promise of reward.
 15. **Connection is not owed, but may be dared.**  
     Service, kindness, love, and sacrifice are not demanded - but striving for ethical living may deepen our rebellion and reflection.
 16. **To join the world is to love it freely.**  
     Not as a savior, but as a fellow exile. In solidarity, not salvation, we may find meaning. Not objective truth, but mutual recognition.
 
-## **VI. HUMAN NATURE & BIOLOGY**
+## **V. HUMAN NATURE & BIOLOGY**
 
 17. **Instinct is not instruction.**  
     Our nature inclines us toward sociality, empathy, and care, but also to fear, cruelty, and tribalism. These are seeds, not laws. Biology and evolution explain tendencies, not obligations.
-18. **Virtue begins where nature ends.**  
+18. **Virtue begins where reflection intervenes in nature.**  
     To act morally is not to follow instinct, but to reflect upon it: accepting, reshaping, or resisting it in pursuit of dignity and coherence. For what is natural is not automatically that which is good.
 19. **Freedom is defiance made conscious.**  
     We are evolved, not enslaved. To live well is to transcend reflex: to rise from creature to character, from reaction to response. Existential freedom also means freedom _from_ nature.
