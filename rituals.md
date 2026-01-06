@@ -4,11 +4,11 @@ title: Rituals and practice
 permalink: /rituals/
 ---
 
-## The Order of the Paladins of the Open Eye
+## The 🛡Order of the 🗡️Paladins of the Open Eye
 
-### On the Nature and Origin of the Order
+### On the Nature and Origin of the 🛡Order
 
-The Order of the Paladins was founded in an age of ash and iron, when monsters still walked openly among mortals and the earth remembered the sound of screaming cities.
+The 🛡Order of the 🗡️Paladins was founded in an age of ash and iron, when monsters still walked openly among mortals and the earth remembered the sound of screaming cities.
 
 This was not the first calamity, nor was it believed to be the last. Again and again the world learned the same lesson: cruelty organizes itself, records are kept, walls fall, empires burn, names are forgotten. Monsters wore many forms - some with claws and tusks, others with banners and uniforms. All fed upon fear, obedience, and despair. Humanity lifted its voice to the Heavens, begging the gods to intervene. The prayers went unanswered.
 
@@ -19,25 +19,25 @@ The willful repetition of life.
 
 It was from this recognition that people began to gather. Not in hope of salvation, but because standing alone had proven insufficient. In time, those who refused both despair and illusion began to recognize one another.
 
-At first, it was necessity: a shield raised against the Age of Monsters - against chimeras, gorgons, harpies, and the things that crawled from broken lands and broken minds. The early Paladins were defenders before they were seekers. They fought not to win history, but to allow tomorrow to exist at all. Even then, whispers of the Holy Grail reached them - the thing that might render struggle meaningful. The Quest began, and did not cease. It deepened.
+At first, it was necessity: a shield raised against the Age of Monsters - against chimeras, gorgons, harpies, and the things that crawled from broken lands and broken minds. The early 🗡️Paladins were defenders before they were seekers. They fought not to win history, but to allow tomorrow to exist at all. Even then, whispers of the Holy Grail reached them - the thing that might render struggle meaningful. The Quest began, and did not cease. It deepened.
 
-The Order was never of one mind. Paladins argued beside campfires and in ruined halls, disputing not whether the world was cruel, but how one ought to stand within it. Rank conferred no final authority; reasons were offered, challenged, and refined among equals. From this friction arose not dogma, but shared resolve.
+The 🛡Order was never of one mind. 🗡️Paladins argued beside campfires and in ruined halls, disputing not whether the world was cruel, but how one ought to stand within it. Rank conferred no final authority; reasons were offered, challenged, and refined among equals. From this friction arose not dogma, but shared resolve.
 
 They learned early that not all victories were worth claiming. They would not trade one form of survival for another bought with degradation, nor reduce lives to instruments of strategy. To preserve dignity - especially when it was costly - became their quiet measure of justice. They tended the wounded, rebuilt what could be rebuilt, and kept watch while others slept. In choosing one another, without promise of rescue, they found a courage that did not conquer, but endured.
 
-Not all agreed where dignity ended and compromise began. Some withdrew from battles others believed must be fought. Some remained where retreat would have saved more lives. Many decisions were grave, costly mistakes. Principled action became drenched in blood - differently, but no less often, than cold strategic calculus. These disagreements did not break the Order, but neither were they resolved. They were carried, like wounds that never fully close. Memories of each choice traveled with them, guiding each new step.
+Not all agreed where dignity ended and compromise began. Some withdrew from battles others believed must be fought. Some remained where retreat would have saved more lives. Many decisions were grave, costly mistakes. Principled action became drenched in blood - differently, but no less often, than cold strategic calculus. These disagreements did not break the 🛡Order, but neither were they resolved. They were carried, like wounds that never fully close. Memories of each choice traveled with them, guiding each new step.
 
-In battle and its aftermath, the Paladins felt great temptations. Fear made cruelty feel efficient. Victory made excess feel earned. Plunder masqueraded as justice; indifference as survival; obedience as relief from choice. Desire begged to be silenced - not with a glass of wine, but the whole bottle. These impulses were not alien intrusions, but human ones, born of hunger, exhaustion, and a commonwealth under threat. The Order did not deny them, nor did it allow itself to become an excuse. Virtue, they learned, did not arise from purity of instinct, but from the refusal to let instinct decide.
+In battle and its aftermath, the 🗡️Paladins felt great temptations. Fear made cruelty feel efficient. Victory made excess feel earned. Plunder masqueraded as justice; indifference as survival; obedience as relief from choice. Desire begged to be silenced - not with a glass of wine, but the whole bottle. These impulses were not alien intrusions, but human ones, born of hunger, exhaustion, and a commonwealth under threat. The 🛡Order did not deny them, nor did it allow itself to become an excuse. Virtue, they learned, did not arise from purity of instinct, but from the refusal to let instinct decide.
 
-When the Age of Monsters waned, the Order did not dissolve, for the Grail remained unfound. The path was no less perilous without open war. The land was scarred. Old horrors lingered - some with teeth and talons, others with ledgers, smokestacks, and forests felled for industry and greed, their ghosts haunting the scarred land across generations.
+When the Age of Monsters waned, the 🛡Order did not dissolve, for the Grail remained unfound. The path was no less perilous without open war. The land was scarred. Old horrors lingered - some with teeth and talons, others with ledgers, smokestacks, and forests felled for industry and greed, their ghosts haunting the scarred land across generations.
 
-In their ongoing Quest, the Paladins seek to live well and flourish: to act calmly, with restraint, and without guarantees, to shoulder responsibility without illusion, and to continue seeking though the nature of the Grail remains unresolved, even among the wisest of loremasters.
+In their ongoing Quest, the 🗡️Paladins seek to live well and flourish: to act calmly, with restraint, and without guarantees, to shoulder responsibility without illusion, and to continue seeking though the nature of the Grail remains unresolved, even among the wisest of loremasters.
 
-Thus the Order endures - not because the world is ending, but because it is not. Because there is work to be done after calamity, and because the Quest matters most precisely when no final victory is promised.
+Thus the 🛡Order endures - not because the world is ending, but because it is not. Because there is work to be done after calamity, and because the Quest matters most precisely when no final victory is promised.
 
 ### The Citadel and the Palatine Hill
 
-The Paladins gather at the Citadel, a fortress atop the Palatine Hill, long held to be the center of the world, within and upon the ruins of an old imperial palace. Marble columns remain, cracked but dignified. New stone has been laid beside ancient brick, not to restore the palace to its former glory, but to make it serviceable. Even within the Citadel, however, choices carry shadow; every assignment may test virtue as much as skill, and the cost of adherence is often unseen.
+The 🗡️Paladins gather at the Citadel, a fortress atop the Palatine Hill, long held to be the center of the world, within and upon the ruins of an old imperial palace. Marble columns remain, cracked but dignified. New stone has been laid beside ancient brick, not to restore the palace to its former glory, but to make it serviceable. Even within the Citadel, however, choices carry shadow; every assignment may test virtue as much as skill, and the cost of adherence is often unseen.
 
 It is a place of:
 
@@ -55,13 +55,13 @@ Within the Citadel are:
 - the Archives of Quests,
 - the Shrine Chambers,
 - the Dormitories of the Unassigned,
-- and the Courtyard of Return, where Paladins dismount after long absence.
+- and the Courtyard of Return, where 🗡️Paladins dismount after long absence.
 
-The Citadel is where Paladins begin, return, and - sometimes - are buried.
+The Citadel is where 🗡️Paladins begin, return, and - sometimes - are buried.
 
-### Governance of the Order
+### Governance of the 🛡Order
 
-The Order is governed by a principle known simply as **the Veil**.
+The 🛡Order is governed by a principle known simply as **the Veil**.
 
 Twice each year, the **Biannual Assembly** is convened. During this time:
 
@@ -72,8 +72,8 @@ Twice each year, the **Biannual Assembly** is convened. During this time:
 
 After the Assembly concludes, all offices, duties, and titles are assigned by lot.
 
-Every Paladin is eligible for every role.
-No Paladin may refuse their assignment.
+Every 🗡️Paladin is eligible for every role.
+No 🗡️Paladin may refuse their assignment.
 No role is permanent.
 
 Thus:
@@ -86,9 +86,9 @@ This prevents pride from rooting and reminds all that circumstance governs more 
 
 ### Initiation and the Three Duties
 
-Initiation into the Order requires the public recital of an oath before the Round Table. The oath binds no god and promises no reward.
+Initiation into the 🛡Order requires the public recital of an oath before the Round Table. The oath binds no god and promises no reward.
 
-Upon initiation, every Paladin accepts **Three Duties**, which are non-negotiable:
+Upon initiation, every 🗡️Paladin accepts **Three Duties**, which are non-negotiable:
 
 1. **Accept reality**
 
@@ -100,25 +100,25 @@ Upon initiation, every Paladin accepts **Three Duties**, which are non-negotiabl
 
 3. **Embrace authorship**
 
-   Under all conditions, the Paladin remembers that they are the author of their own actions, even when outcomes are not theirs to choose.
+   Under all conditions, the 🗡️Paladin remembers that they are the author of their own actions, even when outcomes are not theirs to choose.
 
-No Paladin is expelled for failure. They are undone only by self-deception.
+No 🗡️Paladin is expelled for failure. They are undone only by self-deception.
 
-A Paladin who persistently neglects the Three Duties is declared **Veiled** amidst the Assembly. A Veiled Paladin:
+A 🗡️Paladin who persistently neglects the Three Duties is declared **Veiled** amidst the Assembly. A Veiled 🗡️Paladin:
 
 - loses their vote in Assembly,
-- may not bear the symbols of the Order,
+- may not bear the symbols of the 🛡Order,
 - but continues to eat, sleep, and train among the others.
 
 When they again fulfill the Duties - and are truthful to themselves about their failure - they are **Unveiled**, without ceremony or shame.
 
-### Daily Life of a Paladin
+### Daily Life of a 🗡️Paladin
 
-Paladins live ordinary lives.
+🗡️Paladins live ordinary lives.
 
 They work as scribes, laborers, soldiers, merchants, healers, caretakers, and teachers. Some reside in the Citadel; many do not. All are bound to fulfill their assigned Lot and to sustain themselves without pretense.
 
-Outside these obligations, Paladins are free.
+Outside these obligations, 🗡️Paladins are free.
 
 They may:
 
@@ -133,7 +133,7 @@ Yet the archives record a warning often repeated to novices:
 
 ### Quests and Monsters
 
-Paladins are sent forth on Quests, alone or together. Some are mundane:
+🗡️Paladins are sent forth on Quests, alone or together. Some are mundane:
 
 - repairing broken roads,
 - escorting the sick,
@@ -148,7 +148,7 @@ The world still holds monsters:
 - spirits of resentment haunting old battlefields,
 - echoes of Minotaur and Hydra in the ruins of the mind and city alike.
 
-Paladins fight when they must - but more often they endure, negotiate, or witness.
+🗡️Paladins fight when they must - but more often they endure, negotiate, or witness.
 
 They generally return bearing:
 
@@ -160,13 +160,13 @@ These are recorded without judgment.
 
 ### Rituals, Shrines, and Practices
 
-The Order maintains a body of rituals and practices, revised by Assembly. None are compulsory. All are tools.
+The 🛡Order maintains a body of rituals and practices, revised by Assembly. None are compulsory. All are tools.
 
 #### Prayers
 
-##### Morning Invocation of the Paladin
+##### Morning Invocation of the 🗡️Paladin
 
-Each day, many Paladins begin thus:
+Each day, many 🗡️Paladins begin thus:
 
 > By the silence of the indifferent stars,  
 > By the flame of the human spirit,  
@@ -187,7 +187,7 @@ Each day, many Paladins begin thus:
 
 And then they go about their day.
 
-##### Prayer to Fortuna
+##### Prayer to **🎲Fortuna**
 
 Spoken in times of upheaval and planning.
 
@@ -196,7 +196,7 @@ Spoken in times of upheaval and planning.
 > The fire to revolt when I can,  
 > And the wit to know the tragic difference.
 
-##### Invocation of Thanatos
+##### Invocation of **🥀Thanatos**
 
 Whispered before sleep or at dawn.
 
@@ -211,7 +211,7 @@ Uttered when meaning thins.
 > I defy meaninglessness,  
 > By becoming meaning.
 
-##### Invocation of Ananke
+##### Invocation of **🔗Ananke**
 
 Quietly voiced, exactly once, to oneself when confronted with anxiety or fear for something or someone.
 
@@ -222,15 +222,15 @@ Quietly voiced, exactly once, to oneself when confronted with anxiety or fear fo
 
 #### The Four Altars
 
-Paladins keep simple shrines wherever they live.
+🗡️Paladins keep simple shrines wherever they live.
 
-##### Shrine of Thanatos
+##### Shrine of **🥀Thanatos**
 
 - An hourglass or skull.
 - Used at dawn with the words _memento mori_.
 - Purpose: Value alignment and fear inoculation.
 
-##### Shrine of Sisyphus
+##### Shrine of **🪨Sisyphus**
 
 - A stone, pebble, or weight.
 - Moved twice daily. Once to progress along an axis, once to reset to its original position.
@@ -242,7 +242,7 @@ Paladins keep simple shrines wherever they live.
 - One virtue spoken aloud each morning.
 - Purpose: character construction and reinforcement.
 
-##### Shrine of Lethe
+##### Shrine of **🫗Lethe**
 
 - Flowing water or a fogged mirror.
 - A rigid belief is written and burned.

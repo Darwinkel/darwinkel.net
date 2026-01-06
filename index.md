@@ -171,7 +171,7 @@ Through the Fates, one learns that while one cannot control the conditions of bi
 | **📏Lachesis** | Life, environment & choice                 | Partially | Shapes the _canvas_ of your life. The space where you can paint on. |
 | **✂️Atropos**  | Death, mortality, completion, and finitude | No        | Ends the thread, but not the _meaning_                              |
 
-Fortuna occasionally tugs the threads woven by the Fates - for amusement, mischief, or revelation.
+**🎲Fortuna** occasionally tugs the threads woven by the Fates - for amusement, mischief, or revelation.
 **⏳️Chronos** whispers in the ear of **✂️Atropos**, reminding her that the thread must be cut eventually.
 Together with **🎲Fortuna** and **⏳️Chronos**, the Fates define the limits of the mortal stage. The soul acts within this drama.
 In the midst of these figures, we find **🍷Bacchus**, dancing. He lives in the moment, reminding us that the soul is unbound and intense, and that the body is not separate from the soul.
@@ -238,7 +238,7 @@ She smiles without warmth, flawless and serene. Her song promises purity: a life
 
 She praises you softly, reasonably. Her song is made of effort rewarded, nights worked late, pleasures deferred. "You earned this," she says. "And what is earned is deserved. Success becomes evidence of virtue, virtue proof of a just world. The system feels fair to you.
 
-Fortuna quietly exits the story. So do inheritance, health, timing, teachers, infrastructure, and the countless contingencies that never appear on a résumé. What remains is a clean narrative: you tried, you succeeded, therefore the outcome is just.
+**🎲Fortuna** quietly exits the story. So do inheritance, health, timing, teachers, infrastructure, and the countless contingencies that never appear on a résumé. What remains is a clean narrative: you tried, you succeeded, therefore the outcome is just.
 
 She teaches the soul's accounting. Discipline deposits credit. Sacrifice accrues balance. Soon you are no longer asking what justice requires _now_, but what your past goodness has already paid for. Compassion becomes discretionary. Solidarity becomes generosity.
 
