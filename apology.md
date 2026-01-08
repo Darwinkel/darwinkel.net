@@ -33,7 +33,7 @@ This active stance toward meaning is not speculative but grounded in established
 
 Human beings are narrative creatures. Our brains naturally seek coherence through story, symbol, and metaphor. MSA leverages this evolutionary feature by integrating symbolic storytelling - *mythopoeia* - as a mechanism for identity formation and value integration. While mythopoetic techniques are not themselves empirically validated therapeutic tools, they draw on the brain's innate tendency toward symbolic narrative construction - a phenomenon observed in cognitive and developmental psychology.
 
-Narrative psychology has shown that individuals who construct coherent personal life stories tend to exhibit greater psychological well-being, motivation, and clarity of purpose. These narratives help organize past experiences, guide future action, and embed values into a stable sense of self. While not always empirically grounded, the insights of existential pyschotherapists like Rollo May - particularly his emphasis on the daimonic, responsibility, and symbolic creativity - offer rich conceptual scaffolding for understanding MSA's mythopoetic stance as a personal moral project in response to the absurd.
+Narrative psychology suggests that individuals who construct coherent personal life stories tend to exhibit greater psychological well-being, motivation, and clarity of purpose. These narratives help organize past experiences, guide future action, and embed values into a stable sense of self. While not always empirically grounded, the insights of existential psychotherapists offer rich conceptual scaffolding for understanding MSA's mythopoetic stance as a personal moral project in response to the absurd.
 
 MSA uses myth not as literal truth but as psychological scaffolding. It encourages the cultivation of a symbolic narrative - one's own heroic journey, one's Daimon, one's chosen pantheon of values. These metaphors serve as heuristics, supporting commitment and moral agency in everyday life.
 
@@ -41,7 +41,7 @@ Crucially, MSA remains secular and scientifically cautious. It treats symbols an
 
 ## Mythopoetic Stoic Absurdism as a Psychological Strategy
 
-Mythopoetic Stoic Absurdism is ultimately a framework for living, not believing. It integrates the Stoic art of emotional self-regulation, the existential commitment to self-authored meaning, and the narrative coherence offered by symbolic imagination. Every component is grounded in respected streams of psychology and cognitive science.
+Mythopoetic Stoic Absurdism is ultimately a framework for living, not believing. It integrates the Stoic art of emotional self-regulation, the existential commitment to self-authored meaning, and the narrative coherence offered by symbolic imagination. Every component is grounded in respected streams of psychology and cognitive science. Do note that while MSA is informed by empirically validated psychological frameworks, it is not itself a clinically tested therapy.
 
 By fostering emotional flexibility, inner coherence, and value-guided action, MSA offers a resilient posture in the face of an unpredictable and often indifferent world. It does not promise salvation, but it does offer a compass: rational, poetic, and psychologically pragmatic.
 
@@ -53,6 +53,8 @@ By fostering emotional flexibility, inner coherence, and value-guided action, MS
 
 - Frankl, V. E. (1946). *Man's Search for Meaning*.
 - Ellis, A. (1962). *Reason and Emotion in Psychotherapy*.
+- May, R. (1969). *Love and Will*.
+- May, R. (1975). *The Courage to Create*.
 - Beck, A. T. (1979). *Cognitive Therapy and the Emotional Disorders*.
 - Hayes, S. C., Strosahl, K. D., & Wilson, K. G. (1999). *Acceptance and Commitment Therapy*.
 - Robertson, D. (2010). *How to Think Like Socrates*, *Build Your Resilience*, *The Philosophy of Cognitive-Behavioural Therapy (CBT)*, *How To Think Like A Roman Emperor*, and *Stoicism And The Art Of Happiness*.
