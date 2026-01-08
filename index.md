@@ -197,7 +197,7 @@ Beware, mortals, of the **Eight Sirens**. Their song calls, and their beauty all
 
 She sings in numbers, not notes. Her voice is the scratch of chalk, the clink of coins, the comfort of totals that rise while individual cries are quietly erased. She promises that no pain is meaningless, only outweighed, so long as the calculus permits. That suffering may be justified if the sum grows large enough, if the columns balance, if the final number is beautiful. Under her song, faces blur into units of _hedons_ and _dolors_, lives into entries, and dignity into a rounding error. She does not hate you; she simply does not see you. And so, smiling, she teaches the terrible arithmetic by which one being's infinite pleasure may license the torment of all others.
 
-⚠️ **Be warned!** When you trade persons for totals, you may maximize the good - and still commit evil with a clean conscience.[^utilitarianism]
+⚠️ **Be warned!** When you trade persons for totals, you may maximize the good - and still commit evil with a clean conscience.[^utility-monster]
 
 ## 🚲Siren of the Wheel
 
@@ -324,29 +324,29 @@ This is the final freedom: to vanish like dew, or to burn like a memory.
 
 ## Main sources and inspirations
 
-- Hesiod. (8th-7th century BC). _Theogony_.
-- Homer. (8th-7th century BC). _The Iliad_ and _The Odyssey_.
-- Plato. (c. 399-347 BC). Various dialogues, especially _The Republic_ and _Apology_.
-- Aristotle. (c. 350 BC). _Nicomachean Ethics_ and other works.
-- Cicero, M. T. (44 BC). _On Duties_, _Tusculan Disputations_, _On the ends of good and evil_, and other works.
-- Virgil. (19 BC). _The Aeneid_.
-- Ovid. (8). _Metamorphoses_ and other works.
-- Seneca, L. A. (c. 65). _Letters from a Stoic_, _On the Shortness of Life_, and other works and plays.
-- Epictetus. (c. 108). _Handbook, Discourses, and Fragments_ (compiled by Arrian).
-- Aurelius, M. (c. 161-180). _Meditations_.
-- Kierkegaard, S. (1849). _The Sickness unto Death_.
-- Nietzsche, F. (1882-1885). _The Gay Science_, _Thus Spoke Zarathustra_, and other works.
-- Camus, A. (1942). _The Myth of Sisyphus_.
-- Sartre, J.-P. (1943). _Being and Nothingness_.
-- Frankl, V. E. (1946). _Man's Search for Meaning_.
-- Fry, S. Great Mythology Series: _Mythos_ (2017), _Heroes_ (2018), _Troy_ (2020), _Odyssey_ (2024).[^fry-note]
+- Hesiod. (8th-7th century BCE). _Theogony_.
+- Homer. (8th-7th century BCE). _The Iliad_ and _The Odyssey_.
+- Plato. (c. 428-348 BCE). Various dialogues, especially _The Republic_ and _Apology_.
+- Aristotle. (c. 384-322 BCE). _Nicomachean Ethics_ and other works.
+- Cicero, M. T. (44 BCE). _On Duties_, _Tusculan Disputations_, _On the ends of good and evil_, and other works.
+- Virgil. (19 BCE). _The Aeneid_.
+- Ovid. (8 CE). _Metamorphoses_ and other works.
+- Seneca, L. A. (c. 65 CE). _Letters from a Stoic_, _On the Shortness of Life_, and other works and plays.
+- Epictetus. (c. 108 CE). _Handbook, Discourses, and Fragments_ (compiled by Arrian).
+- Aurelius, M. (c. 161-180 CE). _Meditations_.
+- Kierkegaard, S. (1849 CE). _The Sickness unto Death_.
+- Nietzsche, F. (1882-1885 CE). _The Gay Science_, _Thus Spoke Zarathustra_, and other works.
+- Camus, A. (1942 CE). _The Myth of Sisyphus_.
+- Sartre, J.-P. (1943 CE). _Being and Nothingness_.
+- Frankl, V. E. (1946 CE). _Man's Search for Meaning_.
+- Fry, S. Great Mythology Series: _Mythos_ (2017 CE), _Heroes_ (2018 CE), _Troy_ (2020 CE), _Odyssey_ (2024 CE).[^fry-note]
 
 ## Recommended media
 
 - Star Trek: The Next Generation, [_The Inner Light_ (Season 5 Episode 25, 1992)](https://en.wikipedia.org/wiki/The_Inner_Light_(Star_Trek:_The_Next_Generation)).
-- Star Trek: The Next Generation, [_Tapestry_ (Season 6 Episode 15, 1993)](https://en.wikipedia.org/wiki/The_Inner_Light_(Star_Trek:_The_Next_Generation)).
+- Star Trek: The Next Generation, [_Tapestry_ (Season 6 Episode 15, 1993)](https://en.wikipedia.org/wiki/Tapestry_(Star_Trek:_The_Next_Generation)).
 - Star Trek: Deep Space Nine, [_The Visitor_ (Season 4 Episode 2, 1995)](https://en.wikipedia.org/wiki/The_Visitor_(Star_Trek:_Deep_Space_Nine)).
-- Star Trek: Deep Space Nine, [_In the Pale Moonlight_ (Season 6 Episode 19, 1998)](https://en.wikipedia.org/wiki/The_Visitor_(Star_Trek:_Deep_Space_Nine)).
+- Star Trek: Deep Space Nine, [_In the Pale Moonlight_ (Season 6 Episode 19, 1998)](https://en.wikipedia.org/wiki/In_the_Pale_Moonlight).
 - Mobius Digital, [Outer Wilds (2019)](https://www.mobiusdigitalgames.com/outer-wilds.html).
 - ZA/UM, [Disco Elysium (2019)](https://discoelysium.com/).
 - Christopher Tin, [_The Fall_ (To Shiver the Sky, 2020)](https://www.youtube.com/watch?v=LJVGGRDD2wI).
@@ -355,96 +355,96 @@ This is the final freedom: to vanish like dew, or to burn like a memory.
 
 ## Glossary of terms
 
-[^katabasis]: A Greek term for a journey to the underworld.
+[^katabasis]: A Greek term for a descent or journey into the underworld.
 
-[^dante-descent]: A metaphorical journey of moral or spiritual trial to the underworld (_katabasis_[^katabasis]), derived from Dante Alighieri's _The Divine Comedy_.
+[^dante-descent]: A metaphor for a profound moral, psychological, or spiritual descent into trial and hardship, inspired by Dante Alighieri's _The Divine Comedy_ (composed c. 1308-1321 CE) and related to the concept of _katabasis_[^katabasis].
 
-[^daimon]: A guiding spirit or inner force, often representing one's true self. Found in Greek philosophy and mythology.
+[^daimon]: A guiding inner spirit or moral-intuitive force, often representing one's deeper nature or character. Prominent in Greek philosophy, particularly in Plato and later Stoic thought.
 
-[^orpheus]: A mythological figure who ventured into the underworld to retrieve Eurydice. See Ovid's _Metamorphoses_.
+[^orpheus]: A mythological figure who descended into the underworld to retrieve Eurydice, symbolizing love, grief, and the fragile hope of redemption. See Ovid, _Metamorphoses_ (c. 8 CE).
 
-[^odysseus]: The cunning hero of Homer's _The Odyssey_, known for his long journey back home after the war in Troy. At some point he gets stuck on an island with the sorceress Circe. He spends a year in comfort with her, although he knows he ought to leave and resume his journey.
+[^odysseus]: The cunning hero of Homer's _Odyssey_ (c. 8th century BCE), whose long return from Troy is marked by trials, temptation, and delayed duty. His year with Circe symbolizes seductive comfort that delays one's true calling.
 
-[^cave]: Plato's allegory depicting ignorance and enlightenment. See _The Republic_.
+[^cave]: Plato's allegory of the cave, illustrating ignorance, illusion, enlightenment, and the painful responsibility of recognizing truth. See _The Republic_ (c. 380 BCE).
 
-[^deus-sive-natura]: Spinoza's phrase equating God with nature, a form of pantheism. See Spinoza, B. (1677). _Ethics_.
+[^deus-sive-natura]: Baruch Spinoza's expression "God or Nature," identifying God with the totality of existence in a rational, impersonal, pantheistic framework. See _Ethics_ (1677 CE).
 
-[^memento-mori]: A Latin phrase meaning "remember that you have to die". It suggest that we should be mindful of vanity and distractions.
+[^memento-mori]: A Latin phrase meaning "remember that you must die." It urges humility, perspective, and focus on what truly matters.
 
-[^carpe-diem]: A Latin phrase meaning "seize the day", popularized by Horace in his _Odes_. It suggests that we should live intentionally in the moment.
+[^carpe-diem]: A Latin phrase meaning "seize the day," encouraging intentional, present-focused living. Popularized by Horace, _Odes_ (23-13 BCE).
 
-[^restaurant]: A reference to a fictional locale in Douglas Adams' _The Restaurant at the End of the Universe_, a humorous take on existential questions.
+[^restaurant]: A reference to Douglas Adams, _The Restaurant at the End of the Universe_ (1980 CE), a satirical reflection on cosmic absurdity and existential humor.
 
-[^42]: The answer to the ultimate question of life, the universe, and everything. See Adams, D. (1979). _The Hitchhiker's Guide to the Galaxy_.
+[^42]: A humorous symbol for the supposed "answer to life, the universe, and everything." See Douglas Adams, _The Hitchhiker's Guide to the Galaxy_ (1979 CE).
 
-[^unexamined-life]: Socrates' assertion that "the unexamined life is not worth living." Found in Plato's _Apology_.
+[^unexamined-life]: Socrates' statement that "the unexamined life is not worth living," advocating reflective self-awareness. See Plato, _Apology_ (c. 399 BCE).
 
-[^ethics]: The branch of philosophy concerned with moral principles and conduct. Foundational works include Aristotle's _Nicomachean Ethics_.
+[^ethics]: The philosophical study of moral principles, conduct, and the good life. Foundational texts include Aristotle, _Nicomachean Ethics_ (4th century BCE).
 
-[^ontology]: The study of being and existence. Discussed in Heidegger, M. (1927). _Being and Time_.
+[^ontology]: The philosophical study of being and existence. See Martin Heidegger, _Being and Time_ (1927 CE).
 
-[^epistemology]: The study of knowledge and its justification. Key texts include Plato's dialogues.
+[^epistemology]: The study of knowledge, belief, and justification. Central discussions appear in Plato's dialogues and subsequent philosophy.
 
-[^social-contract]: The theory that society is founded upon mutual agreements or contracts. Found in Hobbes' _Leviathan_ and Rousseau's _The Social Contract_. T.M. Scanlon (What We Owe to Each Other, 1998) developed the ethical theory of _contractualism_, which posits that moral acts are those which everyone can reasonably agree on.
+[^social-contract]: The family of theories proposing that social and moral order arise from implicit or explicit agreements among persons, grounded in mutual justification rather than divine command or natural hierarchy. Classic formulations emphasize political legitimacy and collective governance - see Thomas Hobbes, _Leviathan_ (1651 CE) and Jean-Jacques Rousseau, _The Social Contract_ (1762 CE). Contemporary contractualism (notably T. M. Scanlon, _What We Owe to Each Other_ (1998 CE)) reframes the idea morally: actions are right when they are justifiable to others on principles no one could reasonably reject. Together, these approaches emphasize reciprocity, justificatory respect, and shared reason as foundations of ethical life.
 
-[^absurdism]: A philosophy recognizing the inherent lack of meaning in life but advocating personal defiance through creativity and engagement. See Camus, A. (1942). _The Myth of Sisyphus_.
+[^absurdism]: A philosophical stance recognizing life's inherent lack of ultimate meaning, yet advocating lucid confrontation and engaged living. See Albert Camus, _The Myth of Sisyphus_ (1942 CE).
 
-[^absurd-hero]: Camus' term for individuals who embrace life's absurdity without resignation. See Camus, A. (1942). _The Myth of Sisyphus_.
+[^absurd-hero]: Camus' figure of one who lives fully and consciously despite the absurd, without resorting to illusion or resignation. See Albert Camus, _The Myth of Sisyphus_ (1942 CE).
 
-[^existential-authenticity]: A core existentialist concept describing the act of living in conscious alignment with one's freely chosen values, in full awareness of the absence of inherent meaning and the burden of radical freedom. It requires rejecting external roles, conventions, or excuses that obscure responsibility for one's existence. See Sartre, J.-P. (1943). _Being and Nothingness_; Heidegger, M. (1927). _Being and Time_.
+[^existential-authenticity]: Living in conscious alignment with freely chosen values while acknowledging radical freedom and the absence of inherent meaning. It rejects self-deception and externally imposed identities. See Jean-Paul Sartre, _Being and Nothingness_ (1943 CE), and Martin Heidegger, _Being and Time_ (1927 CE).
 
-[^principle-of-humanity]: Also known as the _Principle of Humanity_, a maxim coined by Emmanuel Kant. It demands that one "act in such a way that you treat humanity, whether in your own person or in the person of another, always at the same time as an end and never merely as a means." This moral imperative insists on the inherent dignity and rational worth of all persons. See Kant, I. (1785). _Groundwork of the Metaphysics of Morals_.
+[^principle-of-humanity]: Immanuel Kant's Principle of Humanity, an imperative to treat humanity - in oneself and others - always as an end, never merely as a means. See _Groundwork of the Metaphysics of Morals_ (1785 CE).
 
-[^bad-faith]: Sartre's concept of _mauvaise foi_ ("bad faith") refers to a form of self-deception in which an individual denies or evades their inherent existential freedom and responsibility, often by adopting fixed social roles or deterministic excuses. See Sartre, J.-P. (1943). _Being and Nothingness_.
+[^bad-faith]: Sartre's concept of _mauvaise foi_ ("bad faith") refers to a form of self-deception in which one denies freedom and responsibility by hiding behind social roles or deterministic excuses. See Jean-Paul Sartre, _Being and Nothingness_ (1943 CE).
 
-[^geworfenheit]: Heidegger's term meaning "thrownness," referring to the unchosen circumstances of one's existence. See Heidegger, M. (1927). _Being and Time_.
+[^geworfenheit]: Heidegger's notion of "thrownness," describing the unchosen conditions into which one is born. See Martin Heidegger, _Being and Time_ (1927 CE).
 
-[^teleological-meaning]: A purpose-driven interpretation of existence, often contrasted with existential freedom. It is a form of reasoning where something is explained by its intended or designed purpose or goal.
+[^teleological-meaning]: An account of meaning grounded in purpose, design, or intention, contrasted with existential freedom and non-teleological frameworks.
 
-[^amor-fati]: Nietzsche's call to "love one's fate" and embrace all aspects of existence. See Nietzsche, F. (1882). _The Gay Science_.
+[^amor-fati]: Nietzsche's exhortation to "love one's fate," affirming all aspects of existence. See Friedrich Nietzsche, _The Gay Science_ (1882 CE).
 
-[^logotherapy]: Viktor Frankl's psychotherapeutic approach emphasizing finding meaning. See Frankl, V. E. (1946). _Man's Search for Meaning_.
+[^logotherapy]: Viktor E. Frankl's therapeutic approach emphasizing meaning as psychologically vital, especially amid suffering. See _Man's Search for Meaning_ (1946 CE).
 
-[^leap-of-faith]: Kierkegaard's concept of a subjective commitment to belief despite rational uncertainty, often framed in religious terms. See Kierkegaard, S. (1843). _Fear and Trembling_.
+[^leap-of-faith]: Søren Kierkegaard's notion of committing to belief despite uncertainty, often religiously framed. See _Fear and Trembling_ (1843 CE).
 
-[^absurd-rebellion]: Defiance against life's absurdity through personal freedom and creative action. See Camus, A. (1942). _The Myth of Sisyphus_.
+[^absurd-rebellion]: Camus' ethical stance of defying the absurd through conscious freedom, creativity, and moral engagement. See Albert Camus, _The Myth of Sisyphus_ (1942 CE).
 
-[^stoicism]: A Hellenistic philosophy founded by Zeno of Citium, emphasizing virtue (arete), rationality, and living in harmony with the natural order (Logos). Refer to _Meditations_ by Marcus Aurelius, and the works of Epictetus and Lucius Annaeus Seneca.
+[^stoicism]: A Hellenistic philosophy emphasizing virtue, rational agency, and alignment with nature (_logos_[^logos]) as the basis of a flourishing life. Key primary texts include Marcus Aurelius, _Meditations_ (written c. 170-180 CE); Epictetus, _Discourses_ and _Enchiridion_ (early 2nd century CE, recorded by Arrian); and Seneca, _Letters on Ethics_ / _Epistulae Morales ad Lucilium_ (c. 62-65 CE).
 
-[^logos]: The Stoic concept of a rational and divine principle ordering the universe. Discussed extensively in _Meditations_ by Marcus Aurelius.
+[^logos]: The Stoic idea of a rational, ordering principle structuring both nature and human reason. While later Stoics increasingly treated it metaphorically rather than theologically, it remains philosophically expressed throughout Marcus Aurelius' _Meditations_ and the ethical frameworks of Epictetus and Seneca.
 
-[^prohairesis]: A Stoic term referring to the faculty of choice or moral will, central to living virtuously. Prominent in Epictetus' works.
+[^prohairesis]: Central to Epictetus' ethics, this is the faculty of rational moral choice - the inner domain of judgment, intention, and agency that remains within our control even amid external chaos. See Epictetus, _Discourses_ and _Enchiridion_.
 
 [^arete]: Greek for "excellence" or "virtue," it denotes the highest human potential through rational and moral action.
 
-[^apatheia]: The Stoic state of equanimity achieved by mastering passions and desires.
+[^apatheia]: The Stoic ideal of inner steadiness and freedom from destructive passions (not emotional deadness), replacing turmoil with lucid rational clarity. Articulated throughout Seneca's _Letters on Ethics_ and Epictetus' teachings.
 
-[^eudaimonia]: Often translated as "flourishing" or "happiness," this is the ultimate goal in Stoic and Aristotelian philosophy, achieved through virtuous living.
+[^eudaimonia]: A state of deep human flourishing grounded in virtue and reasoned living rather than pleasure alone. While rooted in earlier Greek ethics (especially Aristotle), the Stoics reinterpret it through moral resilience and rational integrity; see Marcus Aurelius, _Meditations_.
 
 [^stoic-virtues]: The four cardinal Stoic virtues are wisdom, courage, justice, and temperance. Wisdom is the capacity to discern what is true and good, aligning thought with reason and nature. Courage is moral fortitude - acting rightly despite fear or hardship. Justice involves fairness, honesty, and concern for the common good, treating others with integrity and dignity. Temperance is self-mastery: the measured restraint of desires and impulses, much like Aristotle's "Golden Mean" between excess and deficiency. The essence of wisdom and courage is elegantly captured in the Serenity Prayer: <br><br>_Grant me the serenity to accept the things I cannot change;<br>courage to change the things I can;<br>and wisdom to know the difference._
 
-[^stoic-indifferents]: Things neither good nor bad but morally neutral, such as wealth or health. Prominent in the _Meditations_ by Marcus Aurelius and the works of Epictetus.
+[^stoic-indifferents]: Things neither morally good nor bad in themselves (e.g., health, wealth, status), though they may be preferable or dispreferable.
 
-[^absurd-paradox]: This refers to what Camus calls _the absurd_ - the confrontation between the human desire for meaning, unity, and clarity, and the indifferent, silent universe that offers none. It is not a logical contradiction, but an existential tension to be endured, not resolved. Camus notably critiqued Sartre's existentialism for attempting to overcome the absurd by positing self-made meaning, a move he viewed as a form of philosophical betrayal. See Camus, A. (1942). _The Myth of Sisyphus_.
+[^absurd-paradox]: Camus' formulation of the absurd: the clash between humanity's longing for meaning and the universe's indifference. It is not a logical contradiction, but an existential tension to be endured, not resolved. Camus notably critiqued Sartre's existentialism for attempting to overcome the absurd by positing self-made meaning, a move he viewed as a form of philosophical betrayal.
 
-[^death-of-god]: Nietzsche's "death of God" means the loss of old moral and metaphysical certainties, causing a crisis of meaning (generally referred to as _nihilism_) that calls for creating new values. As the term suggests, this is caused by a decline in belief in a traditional God. See Nietzsche, F. (1882-1885). _The Gay Science_, _Thus Spoke Zarathustra_, and Heidegger, M. (1927). _Being and Time_.
+[^death-of-god]: Nietzsche's claim that the collapse of traditional religious certainty (the _death of God_) ushers in a crisis of meaning and value, demanding new self-created values.
 
-[^eternal-recurrence]: Nietzsche's concept of _eternal recurrence_ is a thought experiment asking: if you had to live your exact life over and over forever, would you embrace it? It challenges us to affirm life fully - joys, suffering, and all. For Nietzsche, to will eternal recurrence is the highest form of _amor fati_ and a test of one's strength and life-affirmation. See Nietzsche, One might also argue it encourages living consciously in a way you would not regret. F. (1882-1885). _The Gay Science_, _Thus Spoke Zarathustra_.
+[^eternal-recurrence]: Nietzsche's thought experiment asking whether one could will their life to repeat eternally, as a radical test of affirmation, strength, and _amor fati_[^amor-fati]. See Friedrich Nietzsche, _The Gay Science_ (1882 CE) and _Thus Spoke Zarathustra_ (1883-1885 CE).
 
-[^fry-note]: Although not a primary source, Fry is included as he offers an accessible, unified, complete, consistent, and coherently woven mythos for the modern reader.
+[^fry-note]: Though not a primary source, Stephen Fry provides an accessible and cohesive retelling of Greek myth, helping modern readers engage with ancient narratives.
 
-[^utilitarianism]: A reference to the Utility Monster, a thought experiment (Nozick) that challenges total aggregative utilitarianism by showing how maximizing overall utility can justify extreme suffering if one being's capacity for pleasure outweighs all others combined. Note the quantifiers _hedons_ for goodness, and _dolors_ for badness.
+[^utility-monster]: Reference to Robert Nozick's "Utility Monster" which challenges total utilitarianism by revealing how maximizing aggregate utility can justify severe injustice. Presented in _Anarchy, State, and Utopia_ (1974 CE). "Hedons" and "dolors" are conceptual units of pleasure and pain.
 
-[^hedonic-treadmill]: A reference to the Hedonic Treadmill and the Paradox of Hedonism: the psychological finding that increases in pleasure or material gain tend to produce only temporary improvements in well-being, as individuals adapt and return toward a stable baseline, making sustained happiness elusive through pleasure alone.
+[^hedonic-treadmill]: A reference to the Hedonic Treadmill and the Paradox of Hedonism: the psychological tendency for gains in pleasure or comfort to fade as one adapts, returning to a baseline of well-being.
 
-[^experience-machine]: A reference to the Experience Machine thought experiment (Nozick), which questions whether pleasure or subjectively satisfying experiences alone constitute a good life, even if they are entirely simulated. It is thematically related, but not equivalent, to skepticism scenarios such as the Brain in a Vat, which questions whether perfectly simulated input/output is indistinguishable from reality.
+[^experience-machine]: Robert Nozick's thought experiment questioning whether pleasure alone constitutes a good life, even if entirely simulated, thereby challenging pure hedonism. From _Anarchy, State, and Utopia_ (1974 CE). It is thematically related, but not equivalent, to skepticism scenarios such as the Brain in a Vat, which questions whether perfectly simulated input/output is indistinguishable from reality.
 
-[^paradox-of-choice]: A reference to the Paradox of Choice (Schwartz), the idea that increasing the number of available options can reduce satisfaction, increase anxiety, and lead to paralysis rather than freedom. This can also be reframed through a Stoic-Absurdist lens: freedom is not control over outcomes or infinite possibility, but authorship of one's response within given constraints.
+[^paradox-of-choice]: The idea that more options can diminish satisfaction and increase anxiety. Popularized by Barry Schwartz, _The Paradox of Choice_ (2004 CE). Reframable through Stoic-Absurdist thought as a reminder that freedom lies in authorship of response, not endless control.
 
-[^murderer-at-the-door]: A reference to Kant's discussion of truthfulness in _On a Supposed Right to Lie from Philanthropy_ (1797), often summarized as the "murderer at the door" scenario. Kant argues that lying is always morally impermissible, even if telling the truth leads directly to an innocent person's death. The thought experiment exposes a central tension in strict deontology: the refusal to allow consequences or situational judgment to inform moral action.
+[^murderer-at-the-door]: Immanuel Kant's argument that lying is always morally impermissible, even to prevent harm (e.g., a murderer looking for a victim). The thought experiment exposes a central tension in strict deontology: the refusal to allow consequences or situational judgment to inform moral action.
 
-[^divine-command-theory]: A reference to Divine Command Theory, the meta-ethical view that moral rightness is grounded solely in the will or commands of a divine authority. Classical critiques include Plato's _Euthyphro dilemma_, which asks whether actions are good because the gods command them, or whether the gods command them because they are good. The former risks arbitrariness; the latter undermines divine authority as the source of morality.
+[^divine-command-theory]: A reference to Divine Command Theory, the view that morality is grounded solely in divine will; challenged by Plato's _Euthyphro_ (c. 399-395 BCE), which asks whether morality depends on divine decree or exists independently.
 
-[^moral-saint]: Susan Wolf's Moral Saint critique argues that a life devoted exclusively to maximizing moral goodness risks crowding out traits central to human flourishing, such as individuality, creativity, humor, intimacy, and joy. It challenges ethical systems whose demands become totalizing, whether framed in terms of moral purity, maximal virtue, or optimized goodness.
+[^moral-saint]: Susan Wolf's critique that a life devoted exclusively to maximizing goodness may crowd out central elements of flourishing such as joy, individuality, humor, and depth. It challenges ethical systems whose demands become totalizing, whether framed in terms of moral purity, maximal virtue, or optimized goodness. See _Moral Saints_ (1982 CE).
 
-[^moral-luck-credit-desert]: A reference to the problem of Moral Luck (Nagel, Williams), which challenges the idea that moral judgment should track only factors under an agent’s control, noting that outcomes - and thus praise or blame - are often shaped by luck. Closely related is the notion of Moral Desert, the belief that individuals deserve their outcomes because of their character or effort, and Moral Credit, the implicit assumption that past virtue accumulates like capital and can be "spent" to justify comfort, exemption, or diminished obligation. Together, these ideas explain how success can be retroactively moralized, allowing contingent fortune to masquerade as earned innocence.
+[^moral-luck-credit-desert]: A reference to the problem of Moral Luck (Thomas Nagel, Bernard Williams), which challenges the idea that moral judgment should track only factors under an agent’s control, noting that outcomes - and thus praise or blame - are often shaped by luck. Closely related is the notion of Moral Desert, the belief that individuals deserve their outcomes because of their character or effort, and Moral Credit, the implicit assumption that past virtue accumulates like capital and can be "spent" to justify comfort, exemption, or diminished obligation. Together, these ideas explain how success can be retroactively moralized, allowing contingent fortune to masquerade as earned innocence.
