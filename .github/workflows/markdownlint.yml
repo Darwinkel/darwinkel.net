@@ -1,0 +1,19 @@
+name: Markdownlint
+permissions: {}
+
+on:
+  push:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v6
+        with:
+          fetch-depth: 0
+          fetch-tags: true
+
+      - name: markdownlint-cli2-action
+        uses: DavidAnson/markdownlint-cli2-action@main
