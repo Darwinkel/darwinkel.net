@@ -4,7 +4,6 @@ title: Apology
 permalink: /apology/
 ---
 
-
 ## A Pragmatic Defense of Mythopoetic Stoic Absurdism
 
 *Mythopoetic Stoic Absurdism (MSA)* is not a metaphysical doctrine but a practical psychological framework. It is designed as a strategy for living meaningfully and resiliently in a disenchanted, indifferent universe. Its foundations lie not in mystical revelation, but in well-established findings from cognitive psychology and existential therapy. Below are its three core defenses:
