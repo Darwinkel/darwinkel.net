@@ -47,9 +47,9 @@ By fostering emotional flexibility, inner coherence, and value-guided action, MS
 
 ---
 
-# References
+## References
 
-## Psychology and cognitive science
+### Psychology and cognitive science
 
 - Frankl, V. E. (1946). *Man's Search for Meaning*.
 - Ellis, A. (1962). *Reason and Emotion in Psychotherapy*.
@@ -58,7 +58,7 @@ By fostering emotional flexibility, inner coherence, and value-guided action, MS
 - Robertson, D. (2010). *How to Think Like Socrates*, *Build Your Resilience*, *The Philosophy of Cognitive-Behavioural Therapy (CBT)*, *How To Think Like A Roman Emperor*, and *Stoicism And The Art Of Happiness*.
 - Ryan, R. M., & Deci, E. L. (2017). *Self-determination theory: Basic psychological needs in motivation, development, and wellness.*
 
-## Symbolic, artistic, and inspirational
+### Symbolic, artistic, and inspirational
 
 - Tolkien, J.R.R. (1931). *Mythopoeia*.
 - Campbell, J. (1949). *The Hero with a Thousand Faces*.
