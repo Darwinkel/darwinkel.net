@@ -94,11 +94,11 @@ Upon initiation, every 🗡️Paladin accepts **Three Duties**, which are non-ne
 
    One's circumstances, limits, past actions, bodily needs, and the Lot assigned.
 
-2. **Be truthful to oneself**
+1. **Be truthful to oneself**
 
    Fear, avoidance, doubt, resentment, and cruelty must be admitted inwardly. Perfection is not required; honesty is.
 
-3. **Embrace authorship**
+1. **Embrace authorship**
 
    Under all conditions, the 🗡️Paladin remembers that they are the author of their own actions, even when outcomes are not theirs to choose.
 
