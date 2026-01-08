@@ -45,21 +45,21 @@ The soil was terraformed with:
 
 Behold this Holy Dry Mix here:
 
-![Holy Dry Mix](/images/holy_dry_mix.webp "Holy Dry Mix")
+![Holy Dry Mix](/images/2025/holy_dry_mix.webp "Holy Dry Mix")
 
 Mulching was done at 2025-08-04 with 500l. Don't get mulch from the Praxis; it contains some traces of plastic and glass.
 I scattered white clover before I decided I would just mulch instead. Although I attempted to cover the clover completely, those pesky bastards seem to grow straight through the mulch. Ah well. At least they're pretty in the pictures.
 
 ## Terrforming project progress pictures
 
-![Terraforming progress 0](/images/terraforming_progress_0.webp "Terraforming progress 0")
+![Terraforming progress 0](/images/2025/terraforming_progress_0.webp "Terraforming progress 0")
 
-![Terraforming progress 1](/images/terraforming_progress_1.webp "Terraforming progress 1")
+![Terraforming progress 1](/images/2025/terraforming_progress_1.webp "Terraforming progress 1")
 
-![Terraforming progress 2](/images/terraforming_progress_2.webp "Terraforming progress 2")
+![Terraforming progress 2](/images/2025/terraforming_progress_2.webp "Terraforming progress 2")
 
 ### White clover overrunning the soil
 
-![Domineering white clover 0](/images/overrun_with_clover_0.webp "Domineering white clover 0")
+![Domineering white clover 0](/images/2025/overrun_with_clover_0.webp "Domineering white clover 0")
 
-![Domineering white clover 1](/images/overrun_with_clover_1.webp "Domineering white clover 1")
+![Domineering white clover 1](/images/2025/overrun_with_clover_1.webp "Domineering white clover 1")

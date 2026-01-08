@@ -77,7 +77,7 @@ The color is a beautiful dark pink (...with some lees discoloration in the last 
 
 The three-month bottle aging review will follow later.
 
-![Grape Cranberry Mead](/images/grape_cranberry_mead.webp "Grape Cranberry Mead")
+![Grape Cranberry Mead](/images/2025/grape_cranberry_mead.webp "Grape Cranberry Mead")
 
 ### Notes
 

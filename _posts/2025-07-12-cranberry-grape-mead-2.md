@@ -51,7 +51,7 @@ On 2025-08-09 I siphoned the young hooch into a clean carboy with my brand new s
 I should note that, even after almost a month, the carboy was still bubbling. Just CO2 escaping? Seems unlikely that the thing ferments for a month.
 I've vacuum-pumped the new carboy and put it in the fridge. First time I bother cold crashing to get rid off all the odd-looking floating stuff.
 
-![Cold crashing](/images/cold_crashing.webp "Cold crashing")
+![Cold crashing](/images/2025/cold_crashing.webp "Cold crashing")
 
 ### Bottling date and notes
 
