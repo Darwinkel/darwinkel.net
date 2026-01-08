@@ -2,6 +2,7 @@
 layout: base
 ---
 
+<!-- markdownlint-disable-next-line MD041 -->
 <i>For those who wear Stoic armor against the world of Absurd,</i><br>
 <i>And smile with Dante's fire igniting the depths of their hearts,</i><br>
 <i>Best served as static, with emojis in their joyful fray,</i><br>
@@ -15,7 +16,7 @@ layout: base
 - Constructs mythic and symbolic visions of the afterlife not to deny or escape death, but to _enter into dialogue with it_ - as one would with a wise specter seated by a dying fire.
 - Serves as a **Dantean Descent**[^dante-descent] for Stoics[^stoicism], Absurdists[^absurdism], and Humanists alike: a guided passage not toward salvation, but toward lucid and coherent authenticity[^existential-authenticity] amid uncertainty.
 
-It weds the discipline of Stoic reason with the defiance of the Absurd Hero, not by claiming that reason reflects any hidden order of the cosmos, but by treating it as a freely adopted discipline of self-governance. Through myth - not as dogma, but as living metaphor - it cultivates composure without illusion and restores death to its proper throne: not as tyrant, but as teacher.
+It weds the discipline of Stoic reason with the defiance of the Absurd Hero[^absurd-hero], not by claiming that reason reflects any hidden order of the cosmos, but by treating it as a freely adopted discipline of self-governance. Through myth - not as dogma, but as living metaphor - it cultivates composure without illusion and restores death to its proper throne: not as tyrant, but as teacher.
 
 It constitutes a complete philosophical stance:
 
@@ -41,37 +42,37 @@ These tenets exist not to bind, but to illuminate. They are maps for wandering s
 
 1. **The cosmos is neutral and devoid of moral or teleological meaning[^teleological-meaning].**  
    It operates by cause and effect, not justice. Higher powers, if they exist, are unknowable and practically irrelevant to how we must live. The _death of God_[^death-of-god] is the fundamental starting point of all other moral and philosophical considerations.
-2. **Humans are not neutral.**  
+1. **Humans are not neutral.**  
    Though born of an indifferent world, we possess consciousness, care, and the capacity to reflect, suffer, and choose.
 
 ## **II. SELF & MEANING**
 
-3. **There is no intrinsic meaning in life.**  
+1. **There is no intrinsic meaning in life.**  
    Yet the struggle to create meaning - though absurd - is sufficient, even beautiful.
-4. **The self is relational.**  
+1. **The self is relational.**  
    Meaning is a personal task, but can be nourished through authentic engagement with others.
-5. **People are ends, not means[^principle-of-humanity].**  
+1. **People are ends, not means[^principle-of-humanity].**  
    Treating people as ends rather than means is the only stable basis for intersubjective trust and moral coherence among free agents.
-6. **To live in bad faith[^bad-faith] is to betray one's freedom.**  
+1. **To live in bad faith[^bad-faith] is to betray one's freedom.**  
    This betrayal has an internal, rather than cosmic cost. Avoid self-deception, external roles, and unexamined conformity. Live deliberately, and construct the self with conscious authorship.
-7. **Finitude is not a flaw, but the condition of meaning.**  
+1. **Finitude is not a flaw, but the condition of meaning.**  
    We do not live _despite_ time, but through it. To act as if time were infinite is a form of bad faith[^bad-faith].
-8. **Memory is a primary tether of identity in a world of flux.**  
+1. **Memory is a primary tether of identity in a world of flux.**  
    It does not merely recall, but sustains the self across impermanence. To live authentically is to relate lucidly to one's own past and that of others. Time may be indifferent, but how we carry it reveals who we choose to be.
 
 ## **III. VIRTUE & RESPONSE**
 
-8. **Fate is beyond our control; response is not.**  
+1. **Fate is beyond our control; response is not.**  
    One may endure, rebel, or transform adversity with dignity. This freedom of response is sacred.
-9. **Virtue is not divine command, but an exemplar of chosen coherence.**  
+1. **Virtue is not divine command, but an exemplar of chosen coherence.**  
    It is a reasoned stance amid disorder - not the only path to meaning, but the most consistent. However, it is always a choice, not a chain.
-10. **Virtue steadies the soul.**  
+1. **Virtue steadies the soul.**  
    Indifferents[^stoic-indifferents] - health, fame, fortune - may offer pleasure or meaning, but never _eudaimonia_. Do not mistake them for the good.
-11. **To live with virtue is to sever dependency on moral causality.**  
+1. **To live with virtue is to sever dependency on moral causality.**  
    Act without hope of reward or fear of punishment. Be free from events, if not from their happening.
-12. **Virtue is personal in origin, but must stand among others**  
+1. **Virtue is personal in origin, but must stand among others**  
    Its worth lies not in private sentiment, but in reason shared between equals in a polis. Like a social contract[^social-contract] among free minds, it must resonate intersubjectively - lest it become tyranny dressed in righteousness.
-13. **The Four Cardinal Virtues arise not from nature, but from nobility of response:**
+1. **The Four Cardinal Virtues arise not from nature, but from nobility of response:**
 
 - **Courage** is Good - not because it triumphs, but because it preserves dignity amid despair and futility.
 - **Justice** is Good - not because it creates order, but for the mutual acknowledgment that all who reason are worthy of recognition.
@@ -83,20 +84,20 @@ And remember:
 
 ## **IV. REBELLION & CONNECTION**
 
-14. **Rebellion[^absurd-rebellion] against absurdity is not instrumentally rational, but it is beautiful.**  
+1. **Rebellion[^absurd-rebellion] against absurdity is not instrumentally rational, but it is beautiful.**  
     It affirms dignity where there is no promise of reward.
-15. **Connection is not owed, but may be dared.**  
+1. **Connection is not owed, but may be dared.**  
     Service, kindness, love, and sacrifice are not demanded - but striving for ethical living may deepen our rebellion and reflection.
-16. **To join the world is to love it freely.**  
+1. **To join the world is to love it freely.**  
     Not as a savior, but as a fellow exile. In solidarity, not salvation, we may find meaning. Not objective truth, but mutual recognition.
 
 ## **V. HUMAN NATURE & BIOLOGY**
 
-17. **Instinct is not instruction.**  
+1. **Instinct is not instruction.**  
     Our nature inclines us toward sociality, empathy, and care, but also to fear, cruelty, and tribalism. These are seeds, not laws. Biology and evolution explain tendencies, not obligations.
-18. **Virtue begins where reflection intervenes in nature.**  
+1. **Virtue begins where reflection intervenes in nature.**  
     To act morally is not to follow instinct, but to reflect upon it: accepting, reshaping, or resisting it in pursuit of dignity and coherence. For what is natural is not automatically that which is good.
-19. **Freedom is defiance made conscious.**  
+1. **Freedom is defiance made conscious.**  
     We are evolved, not enslaved. To live well is to transcend reflex: to rise from creature to character, from reaction to response. Existential freedom also means freedom _from_ nature.
 
 # The Divine Pantheon
@@ -139,7 +140,7 @@ These Daimones are not merely symbols; they are the choices made at the threshol
 | ----------------- | -------------------- | ------------------------------------------ | ------------------------ | ----------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------- | ------------------------------------------------------- | ------------------------------------------------ |
 | **🔥Prometheus** | _For Others_         | A meaningful burden for the good of others | **Altruistic Sacrifice** | "The one who suffers _for_ others, who finds meaning _in_ suffering, and endures torment _because_ it serves a higher light." | Duty, compassion, Stoic responsibility, Frankl's _meaning through suffering[^logotherapy]_ | "I endure _because others need me_."                    | Martyrdom complex, self-erasure, savior delusion |
 | **🪨Sisyphus**   | _Against Absurdity_  | A void to confront with dignity            | **Defiant Persistence**  | "The one who bears pain with no promise of redemption, and still chooses to push."                                            | Absurdism, Stoicism stripped of hope, courage without illusion               | "I endure _because that is what it means to be human_." | Nihilism, cynicism, passive fatalism             |
-| **☀️Icarus**     | _For Selfhood_       | A necessary risk for authentic expression  | **Expressive Courage**   | "The one who knows he might fail, but rebels with beauty and flies nonetheless because he must."                              | Nietzschean will to power, radical authenticity, Kierkegaardian leap         | "I endure _because I must express what I am_."          | Narcissism, recklessness, tragic hubris          |
+| **☀️Icarus**     | _For Selfhood_       | A necessary risk for authentic expression  | **Expressive Courage**   | "The one who knows he might fail, but rebels with beauty and flies nonetheless because he must."                              | Nietzschean will to power, radical authenticity, Kierkegaardian leap[^leap-of-faith]         | "I endure _because I must express what I am_."          | Narcissism, recklessness, tragic hubris          |
 | **⚓Odysseus**   | _Through Resilience_ | A storm to navigate with cunning and grit  | **Strategic Endurance**  | "The one who neither fights nor flees from pain, but outsmarts it and endures to tell the tale."                              | Existential navigation, Stoic adaptability, Taoist balance                   | "I endure _because I intend to return_."                | Opportunism, inauthenticity, manipulation        |
 
 # The Saints of Pain
@@ -436,7 +437,7 @@ This is the final freedom: to vanish like dew, or to burn like a memory.
 
 [^hedonic-treadmill]: A reference to the Hedonic Treadmill and the Paradox of Hedonism: the psychological finding that increases in pleasure or material gain tend to produce only temporary improvements in well-being, as individuals adapt and return toward a stable baseline, making sustained happiness elusive through pleasure alone.
 
-[^experience-machine]: A reference to the Experience Machine thought experiment (Nozick), which questions whether pleasure or subjectively satisfying experiences alone constitute a good life, even if they are entirely simulated. It is thematically related, but not equivalent, to skepticism scenarios such as the Brain in a Vat, which questions whether perfectly simulated input/output is indistinguishable from reality. 
+[^experience-machine]: A reference to the Experience Machine thought experiment (Nozick), which questions whether pleasure or subjectively satisfying experiences alone constitute a good life, even if they are entirely simulated. It is thematically related, but not equivalent, to skepticism scenarios such as the Brain in a Vat, which questions whether perfectly simulated input/output is indistinguishable from reality.
 
 [^paradox-of-choice]: A reference to the Paradox of Choice (Schwartz), the idea that increasing the number of available options can reduce satisfaction, increase anxiety, and lead to paralysis rather than freedom. This can also be reframed through a Stoic-Absurdist lens: freedom is not control over outcomes or infinite possibility, but authorship of one's response within given constraints.
 
