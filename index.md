@@ -336,6 +336,7 @@ This is the final freedom: to vanish like dew, or to burn like a memory.
 - Aurelius, M. (c. 161-180 CE). _Meditations_.
 - Kierkegaard, S. (1849 CE). _The Sickness unto Death_.
 - Nietzsche, F. (1882-1885 CE). _The Gay Science_, _Thus Spoke Zarathustra_, and other works.
+- Heidegger, M. (1927 CE). _Being and Time_.
 - Camus, A. (1942 CE). _The Myth of Sisyphus_.
 - Sartre, J.-P. (1943 CE). _Being and Nothingness_.
 - Frankl, V. E. (1946 CE). _Man's Search for Meaning_.
