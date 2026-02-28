@@ -36,7 +36,7 @@ jobs:
         run: bundle exec jekyll build -d _darwinkelnet
 
       - name: Upload the _site directory as an artifact (darwinkel.net)
-        uses: actions/upload-artifact@v6
+        uses: actions/upload-artifact@v7
         with:
           name: jekyll-site-darwinkelnet
           path: _darwinkelnet
@@ -57,7 +57,7 @@ jobs:
         run: bundle exec jekyll build -d _laroccidentisnl --config _config.laroccidentis.yml
 
       - name: Upload the _site directory as an artifact (laroccidentis.nl)
-        uses: actions/upload-artifact@v6
+        uses: actions/upload-artifact@v7
         with:
           name: jekyll-site-laroccidentisnl
           path: _laroccidentisnl
