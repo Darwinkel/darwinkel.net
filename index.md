@@ -318,6 +318,14 @@ This is the final rite of the soul: not a verdict, but a _verdict rendered by th
 
 This is the final freedom: to vanish like dew, or to burn like a memory.
 
+At the end, freedom stripped of illusion, the condition of mortals speaks for itself:
+
+>Life's but a walking shadow, a poor player  
+>That struts and frets his hour upon the stage  
+>And then is heard no more: it is a tale  
+>Told by an idiot, full of sound and fury,  
+>Signifying nothing.  
+
 ---
 
 # References
