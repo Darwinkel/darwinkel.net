@@ -10,6 +10,16 @@ layout: base
 
 ---
 
+We begin with a simple observation: _conscious beings are meaning-seeking, narrative-constructing creatures for whom coherence of self and recognition from others are stable conditions of flourishing and sustained meaningful experience._[^axiom-of-msa].
+
+If this is so, then the ultimate question[^question] to life, the universe, and everything is not:
+
+> "What is the meaning of life?"
+
+but rather:
+
+> "How do we experience durable flourishing within a silent universe?"
+
 **Mythopoetic Stoic Absurdism** is a philosophical and narrative framework that:
 
 - Employs _katabasis_[^katabasis] and _memento mori_[^memento-mori] not merely as reminders of death, but as mirrors through which we interrogate how we _ought_ to live - by confronting the paradox of meaning[^absurd-paradox] and the poetry of cosmic indifference.
@@ -365,6 +375,8 @@ At the end, freedom stripped of illusion, the condition of mortals speaks for it
 
 ## Glossary of terms
 
+[^axiom-of-msa]: The formal Axiom of Mythopoetic Stoic Absurdism, from which all other considerations follow, is this:<br><br>_Conscious beings are meaning-seeking, narrative-constructing creatures for whom coherence of self and recognition from others are stable conditions of flourishing and sustained meaningful experience._<br><br>This renders MSA a pragmatic and broadly phenomenalist philosophy: it begins not with metaphysical speculation about ultimate reality, but with the lived structures of conscious experience and what sustains it.
+
 [^katabasis]: A Greek term for a descent or journey into the underworld.
 
 [^dante-descent]: A metaphor for a profound moral, psychological, or spiritual descent into trial and hardship, inspired by Dante Alighieri's _The Divine Comedy_ (composed c. 1308-1321 CE) and related to the concept of _katabasis_[^katabasis].
@@ -386,6 +398,8 @@ At the end, freedom stripped of illusion, the condition of mortals speaks for it
 [^restaurant]: A reference to Douglas Adams, _The Restaurant at the End of the Universe_ (1980 CE), a satirical reflection on cosmic absurdity and existential humor.
 
 [^42]: A humorous symbol for the supposed "answer to life, the universe, and everything." See Douglas Adams, _The Hitchhiker's Guide to the Galaxy_ (1979 CE).
+
+[^question]: After calculating "42" as the ultimate answer to life, the universe, and everything, the supercomputer Deep Thought reveals that the real difficulty lies in determining the proper question. See Douglas Adams, _The Hitchhiker's Guide to the Galaxy_ (1979 CE).
 
 [^unexamined-life]: Socrates' statement that "the unexamined life is not worth living," advocating reflective self-awareness. See Plato, _Apology_ (c. 399 BCE).
 
