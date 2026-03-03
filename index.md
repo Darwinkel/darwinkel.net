@@ -10,7 +10,7 @@ layout: base
 
 ---
 
-We begin with a simple observation: _conscious beings are meaning-seeking, narrative-constructing creatures for whom coherence of self and recognition from others are stable conditions of flourishing and sustained meaningful experience._[^axiom-of-msa].
+We begin with a simple observation: _conscious beings are meaning-seeking, narrative-constructing creatures for whom coherence of self and recognition from others are stable conditions of flourishing and sustained meaningful experience_[^axiom-of-msa].
 
 If this is so, then the ultimate question[^question] to life, the universe, and everything is not:
 
