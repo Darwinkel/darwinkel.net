@@ -345,6 +345,7 @@ At the end, freedom stripped of illusion, the condition of mortals speaks for it
 - Hesiod. (8th-7th century BCE). _Theogony_.
 - Homer. (8th-7th century BCE). _The Iliad_ and _The Odyssey_.
 - Plato. (c. 428-348 BCE). Various dialogues, especially _The Republic_ and _Apology_.
+- Diogenes of Sinope (c. 412-323 BCE). Cynic philosopher, known primarily through anecdotes and accounts preserved by later historians, especially Diogenes Laertius.
 - Aristotle. (c. 384-322 BCE). _Nicomachean Ethics_ and other works.
 - Cicero, M. T. (44 BCE). _On Duties_, _Tusculan Disputations_, _On the ends of good and evil_, and other works.
 - Virgil. (19 BCE). _The Aeneid_.
