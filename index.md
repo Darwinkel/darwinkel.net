@@ -10,6 +10,16 @@ layout: base
 
 ---
 
+We begin with a simple observation: _conscious beings are meaning-seeking, narrative-constructing creatures for whom coherence of self and recognition from others are stable conditions of flourishing and sustained meaningful experience_[^axiom-of-msa].
+
+If this is so, then the ultimate question[^question] to life, the universe, and everything is not:
+
+> "What is the meaning of life?"
+
+but rather:
+
+> "How do we experience durable flourishing within a silent universe?"
+
 **Mythopoetic Stoic Absurdism** is a philosophical and narrative framework that:
 
 - Employs _katabasis_[^katabasis] and _memento mori_[^memento-mori] not merely as reminders of death, but as mirrors through which we interrogate how we _ought_ to live - by confronting the paradox of meaning[^absurd-paradox] and the poetry of cosmic indifference.
@@ -318,6 +328,14 @@ This is the final rite of the soul: not a verdict, but a _verdict rendered by th
 
 This is the final freedom: to vanish like dew, or to burn like a memory.
 
+At the end, freedom stripped of illusion, the condition of mortals speaks for itself:
+
+>Life's but a walking shadow, a poor player  
+>That struts and frets his hour upon the stage  
+>And then is heard no more: it is a tale  
+>Told by an idiot, full of sound and fury,  
+>Signifying nothing.  
+
 ---
 
 # References
@@ -327,6 +345,7 @@ This is the final freedom: to vanish like dew, or to burn like a memory.
 - Hesiod. (8th-7th century BCE). _Theogony_.
 - Homer. (8th-7th century BCE). _The Iliad_ and _The Odyssey_.
 - Plato. (c. 428-348 BCE). Various dialogues, especially _The Republic_ and _Apology_.
+- Diogenes of Sinope (c. 412-323 BCE). Cynic philosopher, known primarily through anecdotes and accounts preserved by later historians, especially Diogenes Laertius.
 - Aristotle. (c. 384-322 BCE). _Nicomachean Ethics_ and other works.
 - Cicero, M. T. (44 BCE). _On Duties_, _Tusculan Disputations_, _On the ends of good and evil_, and other works.
 - Virgil. (19 BCE). _The Aeneid_.
@@ -348,13 +367,16 @@ This is the final freedom: to vanish like dew, or to burn like a memory.
 - Star Trek: The Next Generation, [_Tapestry_ (Season 6 Episode 15, 1993)](https://en.wikipedia.org/wiki/Tapestry_(Star_Trek:_The_Next_Generation)).
 - Star Trek: Deep Space Nine, [_The Visitor_ (Season 4 Episode 2, 1995)](https://en.wikipedia.org/wiki/The_Visitor_(Star_Trek:_Deep_Space_Nine)).
 - Star Trek: Deep Space Nine, [_In the Pale Moonlight_ (Season 6 Episode 19, 1998)](https://en.wikipedia.org/wiki/In_the_Pale_Moonlight).
-- Mobius Digital, [Outer Wilds (2019)](https://www.mobiusdigitalgames.com/outer-wilds.html).
-- ZA/UM, [Disco Elysium (2019)](https://discoelysium.com/).
+- Marvel, [_Logan_ (2017)](https://en.wikipedia.org/wiki/Logan_(film)).
+- Mobius Digital, [_Outer Wilds_ (2019)](https://www.mobiusdigitalgames.com/outer-wilds.html).
+- ZA/UM, [_Disco Elysium_ (2019)](https://discoelysium.com/).
 - Christopher Tin, [_The Fall_ (To Shiver the Sky, 2020)](https://www.youtube.com/watch?v=LJVGGRDD2wI).
-- Mobius Digital, [Outer Wilds - Echoes of the Eye (2021)](https://www.mobiusdigitalgames.com/outer-wilds---echoes-of-the-eye.html).
+- Mobius Digital, [_Outer Wilds - Echoes of the Eye_ (2021)](https://www.mobiusdigitalgames.com/outer-wilds---echoes-of-the-eye.html).
 - Andrew Prahlow, [_Travelers' Encore_ (Outer Wilds: Echoes of the Eye, 2021)](https://www.youtube.com/watch?v=eXumEd6PdtQ).
 
 ## Glossary of terms
+
+[^axiom-of-msa]: The formal Axiom of Mythopoetic Stoic Absurdism, from which all other considerations follow, is this:<br><br>_Conscious beings are meaning-seeking, narrative-constructing creatures for whom coherence of self and recognition from others are stable conditions of flourishing and sustained meaningful experience._<br><br>This renders MSA a pragmatic and broadly phenomenalist philosophy: it begins not with metaphysical speculation about ultimate reality, but with the lived structures of conscious experience and what sustains it.
 
 [^katabasis]: A Greek term for a descent or journey into the underworld.
 
@@ -377,6 +399,8 @@ This is the final freedom: to vanish like dew, or to burn like a memory.
 [^restaurant]: A reference to Douglas Adams, _The Restaurant at the End of the Universe_ (1980 CE), a satirical reflection on cosmic absurdity and existential humor.
 
 [^42]: A humorous symbol for the supposed "answer to life, the universe, and everything." See Douglas Adams, _The Hitchhiker's Guide to the Galaxy_ (1979 CE).
+
+[^question]: After calculating "42" as the ultimate answer to life, the universe, and everything, the supercomputer Deep Thought reveals that the real difficulty lies in determining the proper question. See Douglas Adams, _The Hitchhiker's Guide to the Galaxy_ (1979 CE).
 
 [^unexamined-life]: Socrates' statement that "the unexamined life is not worth living," advocating reflective self-awareness. See Plato, _Apology_ (c. 399 BCE).
 
