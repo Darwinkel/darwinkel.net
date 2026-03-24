@@ -206,10 +206,10 @@ Whispered before sleep or at dawn.
 
 ##### Mantra of the Rebel
 
-Uttered when meaning thins.
+Uttered when wavering.
 
 > I defy meaninglessness,  
-> By becoming meaning.
+> By acting in the world.
 
 ##### Invocation of **🔗Ananke**
 
@@ -266,7 +266,7 @@ Quietly voiced, exactly once, to oneself when confronted with anxiety or fear fo
 Written reflection:
 
 - What virtue was neglected?
-- What meaning was made?
+- Which acts were done?
 - Where did I lie to myself?
 
 ##### Ritual of Sacred Vitality (Daily)

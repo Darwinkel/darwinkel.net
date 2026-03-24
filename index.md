@@ -58,6 +58,7 @@ The choice is therefore not between right and wrong, but between temporal horizo
 Mythopoetic Stoic Absurdism does not forbid the Storm. It simply reveals its cost.
 
 And so we arrive at a final image: one must imagine **🪨Sisyphus** not merely enduring his task, but choosing to live as a Stoic sage.
+Or, perhaps even more striking: as a knight clad in Stoic armor, charging at the spectre of absurdity with a sword of virtue, vigorously struggling with it in melee combat, until, finally, smiling as he falls to the ground, blood fatally spilling on the ground.
 
 This philosophy of life is the distilled outcome of my reflections.
 [Its psychological and pragmatic foundations are addressed separately.](/apology)
