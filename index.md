@@ -465,7 +465,7 @@ At the end, freedom stripped of illusion, the condition of mortals speaks for it
 
 [^arete]: Greek for "excellence" or "virtue," it denotes the highest human potential through rational and moral action.
 
-[^apatheia]: The Stoic ideal of inner steadiness and freedom from destructive passions (not emotional deadness), replacing turmoil with lucid rational clarity. Articulated throughout Seneca's _Letters on Ethics_ and Epictetus' teachings.
+[^apatheia]: The Stoic ideal of inner steadiness and freedom from destructive passions (not emotional deadness), replacing turmoil with lucid rational clarity. Articulated throughout Seneca's _Letters on Ethics_ and Epictetus' teachings. Closely related, but not identical to, the concept of _ataraxia_, which is akin to equanimity or tranquility.
 
 [^eudaimonia]: A state of deep human flourishing traditionally understood as virtue and reasoned living rather than pleasure alone. While rooted in earlier Greek ethics (especially Aristotle), the Stoics reinterpret it through moral resilience and rational integrity; see Marcus Aurelius, _Meditations_.
 
