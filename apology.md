@@ -30,9 +30,9 @@ This active stance toward meaning is not speculative but grounded in established
 
 ### A Defense of Mythopoesis
 
-Human beings are narrative creatures. Our brains naturally seek coherence through story, symbol, and metaphor. MSA leverages this evolutionary feature by integrating symbolic storytelling - *mythopoeia* - as a mechanism for identity formation and value integration. While mythopoetic techniques are not themselves empirically validated therapeutic tools, they draw on the brain's innate tendency toward symbolic narrative construction - a phenomenon observed in cognitive and developmental psychology.
+Human beings are narrative creatures. Our brains naturally seek coherence through story, symbol, and metaphor. MSA leverages this evolutionary feature by integrating symbolic storytelling - *mythopoeia* - as a mechanism for identity formation and value integration. While mythopoetic techniques are not themselves empirically validated therapeutic tools, they draw on the brain's innate tendency toward symbolic narrative construction - a phenomenon observed in cognitive and developmental psychology. 
 
-Narrative psychology suggests that individuals who construct coherent personal life stories tend to exhibit greater psychological well-being, motivation, and clarity of purpose. These narratives help organize past experiences, guide future action, and embed values into a stable sense of self. While not always empirically grounded, the insights of existential psychotherapists offer rich conceptual scaffolding for understanding MSA's mythopoetic stance as a personal moral project in response to the absurd.
+Narrative psychology suggests that individuals who construct coherent personal life stories tend to exhibit greater psychological well-being, motivation, and clarity of purpose. These narratives help organize past experiences, guide future action, and embed values into a stable sense of self. While not always empirically grounded, the insights of existential psychotherapists offer rich conceptual scaffolding for understanding MSA's mythopoetic stance as a personal moral project in response to the absurd. Crucially, as e.g. Ernest Becker and Terror Management Theory argue, humans _need_ some level of illusion to function at all.
 
 MSA uses myth not as literal truth but as psychological scaffolding. It encourages the cultivation of a symbolic narrative - one's own heroic journey, one's Daimon, one's chosen pantheon of values. These metaphors serve as heuristics, supporting commitment and moral agency in everyday life.
 
@@ -53,6 +53,7 @@ By fostering emotional flexibility, inner coherence, and value-guided action, MS
 - Frankl, V. E. (1946). *Man's Search for Meaning*.
 - Ellis, A. (1962). *Reason and Emotion in Psychotherapy*.
 - May, R. (1969). *Love and Will*.
+- Becker, E. (1973). *The Denial of Death*.
 - May, R. (1975). *The Courage to Create*.
 - Beck, A. T. (1979). *Cognitive Therapy and the Emotional Disorders*.
 - Hayes, S. C., Strosahl, K. D., & Wilson, K. G. (1999). *Acceptance and Commitment Therapy*.
