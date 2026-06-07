@@ -4,8 +4,10 @@
 	"init": true,
 	"remoteUser": "vscode",
 	"features": {
-		"ghcr.io/devcontainers/features/node:2": {},
-		"ghcr.io/devcontainers/features/ruby:1": {}
+		"ghcr.io/devcontainers/features/node:2": {}, // Needed for markdownlint-cli2
+		"ghcr.io/devcontainers/features/ruby:1": {
+			"version": "3.4"
+		}
 	},
 	"customizations": {
 		"vscode": {
