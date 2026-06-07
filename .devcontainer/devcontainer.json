@@ -1,0 +1,21 @@
+{
+	"name": "Ubuntu",
+	"image": "mcr.microsoft.com/devcontainers/base:resolute",
+	"init": true,
+	"remoteUser": "vscode",
+	"features": {
+		"ghcr.io/devcontainers/features/node:2": {},
+		"ghcr.io/devcontainers/features/ruby:1": {}
+	},
+	"customizations": {
+		"vscode": {
+			"extensions": [
+				"davidanson.vscode-markdownlint-cli2"
+			]
+		}
+	},
+	"postCreateCommand": "command -v markdownlint-cli2 >/dev/null 2>&1 || npm install --global markdownlint-cli2",
+	"mounts": [
+		"source=${localEnv:HOME}/.gitconfig,target=/home/vscode/.gitconfig,type=bind,readonly,consistency=cached"
+	]
+}
