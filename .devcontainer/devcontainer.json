@@ -1,8 +1,24 @@
 {
 	"name": "Ubuntu",
-	"image": "mcr.microsoft.com/devcontainers/base:resolute",
-	"init": true,
+	"image": "mcr.microsoft.com/devcontainers/base:ubuntu26.04",
 	"remoteUser": "vscode",
+	"updateRemoteUserUID": true,
+	"overrideCommand": true,
+	"workspaceFolder": "/workspaces/${localWorkspaceFolderBasename}",
+	"runArgs": [
+		"--init",
+		"--security-opt=no-new-privileges:true",
+		"--cap-drop=ALL",
+		"--pids-limit=512",
+		"--memory=16g",
+		"--cpus=16",
+		"--tmpfs=/tmp:noexec,mode=1777",
+		"--tmpfs=/var/tmp:noexec,mode=1777",
+		"--add-host=host.docker.internal:host-gateway"
+	],
+	"mounts": [
+		"source=${localEnv:HOME}/.gitconfig,target=/home/vscode/.gitconfig,type=bind,readonly,consistency=cached"
+	],
 	"features": {
 		"ghcr.io/devcontainers/features/node:2": {}, // Needed for markdownlint-cli2
 		"ghcr.io/devcontainers/features/ruby:1": {
@@ -17,7 +33,4 @@
 		}
 	},
 	"postCreateCommand": "command -v markdownlint-cli2 >/dev/null 2>&1 || npm install --global markdownlint-cli2",
-	"mounts": [
-		"source=${localEnv:HOME}/.gitconfig,target=/home/vscode/.gitconfig,type=bind,readonly,consistency=cached"
-	]
 }
