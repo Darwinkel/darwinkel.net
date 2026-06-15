@@ -79,6 +79,14 @@ The three-month bottle aging review will follow later.
 
 ![Grape Cranberry Mead](/images/2025/grape_cranberry_mead.webp "Grape Cranberry Mead")
 
+### 2026-07-14
+
+A year later, I'm happy to report that most, if not all, of the hoochy off-flavors are gone. What remains is something drinkable, but not sophisticated. 
+Decanting it for ~half an hour truly does wonders and gets rid of the remaining off-smell and high acidity.
+
+It has a honey-ish mouthfeel, yes, but the cranberry dominates the taste. It is dry, and I think it's too flat in taste to be worth the calories and liver damage.
+I think that an improved recipe, probably with actual fruit, might make a wonderful drink.
+
 ### Notes
 
 [^1]: Update: fermentation started normally. Looks like the manufacturer makes very conservative estimates.
