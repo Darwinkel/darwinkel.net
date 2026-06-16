@@ -10,9 +10,9 @@ layout: base
 
 ---
 
-We begin with a simple observation: _conscious beings are meaning-seeking, narrative-constructing creatures for whom a sense of flourishing depends on the stability of self across time, _constantia_[^constantia] and its recognition by others, _fides_[^fides]_[^axiom-of-msa].
+We begin with a simple observation: _conscious beings are meaning-seeking, narrative-constructing creatures for whom a sense of flourishing depends on the stability of self across time, constantia[^constantia] and its recognition by others, fides[^fides][^axiom-of-msa]._
 
-If the "self" is narratively constructed and temporally extended, then its durability depends on the integrity of the agent that constructs it. Any posture that undermines this integrity undermines the very conditions for lucid rebellion against the Absurd[^absurdism], as it demands the [^gravitas]_gravitas_ of one who chooses deliberately to live fully despite life's absence of meaning.
+If the "self" is narratively constructed and temporally extended, then its durability depends on the integrity of the agent that constructs it. Any posture that undermines this integrity undermines the very conditions for lucid rebellion against the Absurd[^absurdism], as it demands the _gravitas_[^gravitas] of one who chooses deliberately to live fully despite life's absence of meaning.
 
 If this is so, then the ultimate question[^question] to life, the universe, and everything is not:
 
@@ -476,7 +476,7 @@ At the end, freedom stripped of illusion, the condition of mortals speaks for it
 
 [^dignitas]: Across Roman usage, _dignitas_ denotes a sense of earned worth, moral stature, and honorable standing. It arises not from status alone but from a life lived in accordance with one's principles and responsibilities. In MSA, _dignitas_ represents the preservation of self-respect amidst the Absurd: the refusal to surrender one's values, agency, or humanity even when confronted with meaninglessness, suffering, or defeat.
 
-[^constantia]: Explicitly identified by Seneca. It means steadfastness, endurance across time, and consistency under changing conditions. In MSA, a foundational enabler for narrative identity as well as making a life lived with consistent lucid rebellion possible at all.
+[^constantia]: Explicitly identified by Seneca. _Constantia_ means steadfastness, endurance across time, and consistency under changing conditions. In MSA, a foundational enabler for narrative identity as well as making a life lived with consistent lucid rebellion possible at all.
 
 [^gravitas]: Across Roman usage, _gravitas_ denotes a certain seriousness of purpose, a moral weight, and resistance to triviality. Unlike _virtus_, which is about excellence in action, _gravitas_ is about bearing.
 

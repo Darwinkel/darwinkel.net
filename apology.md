@@ -32,7 +32,7 @@ This active stance toward meaning is not speculative but grounded in established
 
 Human beings are narrative creatures. Our brains naturally seek coherence through story, symbol, and metaphor. MSA leverages this evolutionary feature by integrating symbolic storytelling - *mythopoeia* - as a mechanism for identity formation and value integration. While mythopoetic techniques are not themselves empirically validated therapeutic tools, they draw on the brain's innate tendency toward symbolic narrative construction - a phenomenon observed in cognitive and developmental psychology. 
 
-Narrative psychology suggests that individuals who construct coherent personal life stories tend to exhibit greater psychological well-being, motivation, and clarity of purpose. These narratives help organize past experiences, guide future action, and embed values into a stable sense of self. While not always empirically grounded, the insights of existential psychotherapists offer rich conceptual scaffolding for understanding MSA's mythopoetic stance as a personal moral project in response to the absurd. Crucially, as e.g. Ernest Becker and Terror Management Theory argue, humans _need_ some level of illusion to function at all.
+Narrative psychology suggests that individuals who construct coherent personal life stories tend to exhibit greater psychological well-being, motivation, and clarity of purpose. These narratives help organize past experiences, guide future action, and embed values into a stable sense of self. While not always empirically grounded, the insights of existential psychotherapists offer rich conceptual scaffolding for understanding MSA's mythopoetic stance as a personal moral project in response to the absurd. Crucially, as e.g., Ernest Becker and Terror Management Theory argue, humans _need_ some level of illusion to function at all.
 
 MSA uses myth not as literal truth but as psychological scaffolding. It encourages the cultivation of a symbolic narrative - one's own heroic journey, one's Daimon, one's chosen pantheon of values. These metaphors serve as heuristics, supporting commitment and moral agency in everyday life.
 
@@ -56,6 +56,7 @@ By fostering emotional flexibility, inner coherence, and value-guided action, MS
 - Becker, E. (1973). *The Denial of Death*.
 - May, R. (1975). *The Courage to Create*.
 - Beck, A. T. (1979). *Cognitive Therapy and the Emotional Disorders*.
+- Yalom, I. D. (1980). *Existential Psychotherapy*.
 - Hayes, S. C., Strosahl, K. D., & Wilson, K. G. (1999). *Acceptance and Commitment Therapy*.
 - Robertson, D. (2010). *How to Think Like Socrates*, *Build Your Resilience*, *The Philosophy of Cognitive-Behavioural Therapy (CBT)*, *How To Think Like A Roman Emperor*, and *Stoicism And The Art Of Happiness*.
 - Ryan, R. M., & Deci, E. L. (2017). *Self-determination theory: Basic psychological needs in motivation, development, and wellness.*
@@ -65,5 +66,4 @@ By fostering emotional flexibility, inner coherence, and value-guided action, MS
 - Tolkien, J.R.R. (1931). *Mythopoeia*.
 - Campbell, J. (1949). *The Hero with a Thousand Faces*.
 - Jung, C. G. (1964). *Man and His Symbols*.
-- Yalom, I. D. (1980). *Existential Psychotherapy*.
 - McAdams, D. P. (2001). *The Psychology of Life Stories*.
