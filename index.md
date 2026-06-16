@@ -10,9 +10,9 @@ layout: base
 
 ---
 
-We begin with a simple observation: _conscious beings are meaning-seeking, narrative-constructing creatures for whom a sense of flourishing depends on the stability of self across time and its recognition by others_[^axiom-of-msa].
+We begin with a simple observation: _conscious beings are meaning-seeking, narrative-constructing creatures for whom a sense of flourishing depends on the stability of self across time, _constantia_[^constantia] and its recognition by others, _fides_[^fides]_[^axiom-of-msa].
 
-If the "self" is narratively constructed and temporally extended, then its durability depends on the integrity of the agent that constructs it. Any posture that undermines this integrity undermines the very conditions for lucid rebellion against the Absurd[^absurdism]: living fully despite life's absence of meaning.
+If the "self" is narratively constructed and temporally extended, then its durability depends on the integrity of the agent that constructs it. Any posture that undermines this integrity undermines the very conditions for lucid rebellion against the Absurd[^absurdism], as it demands the [^gravitas]_gravitas_ of one who chooses deliberately to live fully despite life's absence of meaning.
 
 If this is so, then the ultimate question[^question] to life, the universe, and everything is not:
 
@@ -22,7 +22,7 @@ but rather:
 
 > "How do we achieve durable agency and a life one continues to affirm and inhabit within a silent universe?"
 
-**Mythopoetic Stoic Absurdism** is a philosophical and narrative framework that addresses this question by uniting Stoic[^stoicism] discipline with the defiance of the Absurd Hero[^absurd-hero]. It is fundamentally a psychological strategy in the face of nihilism[^death-of-god].
+**Mythopoetic Stoic Absurdism** is a philosophical and narrative framework that addresses this question by uniting Stoic[^stoicism] discipline with the defiance of the Absurd Hero[^absurd-hero]. It is fundamentally a psychological strategy in the face of nihilism[^death-of-god], and a call to arms to craft life with narrative aesthetics. Like art, narrative aesthetics require no transcendental justification.
 
 It employs _katabasis_[^katabasis] and _memento mori_[^memento-mori] not merely as reminders of death, but as instruments of ethical interrogation - forcing us to confront the paradox of meaning[^absurd-paradox] within an indifferent cosmos. It constructs mythic visions of death and the afterlife not to escape finitude, but to enter into dialogue with it. In this sense, it functions as a **Dantean descent**[^dante-descent]: not toward salvation, but toward lucid authenticity[^existential-authenticity].
 
@@ -37,9 +37,9 @@ As a system, it is reasonably complete:
 
 Mythopoetic Stoic Absurdism is thus not a doctrine of hope or meaning-making, but of posture. It offers psychological resilience and moral clarity without appeal to unverifiable absolutes, enabling engagement with the human condition in full awareness of its indifference.
 
-Through _prohairesis_[^prohairesis] - the faculty of deliberate choice - we cultivate _arete_[^arete], the excellence of character. We practice _apatheia_[^apatheia], detachment from outcomes, not because the cosmos demands it, but because it increases the integrity of the self. In this rebellious posture, we may find a form of _eudaimonia_[^eudaimonia].
+Through _prohairesis_[^prohairesis] - the faculty of deliberate choice - we cultivate _arete_[^arete], the excellence of character. We practice _apatheia_[^apatheia], detachment from outcomes, not because the cosmos demands it, but because it increases the integrity of the self. In this rebellious posture, we may find a form of _eudaimonia_[^eudaimonia] and _dignitas_[^dignitas].
 
-Here, the notions of "coherence" and "integrity" must be understood precisely. A coherent, integrated self is one that sustains:
+Here, the notions of "coherence" and "integrity" must be understood precisely. A coherent, integrated self is one that sustains _constantia_[^constantia] and _fides_[^fides]:
 
 * **diachronic integration**: continuity between past, present, and future commitments,
 * **normative stability**: values that persist under pressure and guide action,
@@ -49,16 +49,17 @@ These are not aesthetic preferences, but structural conditions for stable, long-
 
 For this reason, ethical and virtuous[^stoic-virtues] living is not commanded by metaphysics nor guaranteed by reason. It is chosen - yet not arbitrarily, but in response to the structural conditions of human agency. Among the many possible postures toward existence, it reliably sustains the conditions under which agency, responsibility, and narrative identity remain intelligible across time. In this sense, virtue is not cosmically required, but functionally indispensable to the project of being a temporally extended, self-aware agent.
 
-Other responses to the Absurd - irony, Epicurean minimalism, aestheticism, ecstatic self-creation, or the embrace of the Bacchic Storm[^dionysan-storm] - are not irrational. They may yield intensity, beauty, and moments of profound vitality. But they tend to be less capable of sustaining long-term agency and continuity. A life organized around rupture and intensity risks eroding the very conditions that make sustained rebellion possible.
+Other responses to the Absurd - irony, Epicurean minimalism, aestheticism, ecstatic self-creation, or the embrace of the Bacchic Storm[^dionysan-storm] - are not irrational. They may yield intensity, beauty, and moments of profound vitality. But they tend to be less capable of sustaining long-term agency and continuity, undermining _gravitas_[^gravitas] and _dignitas_[^dignitas] as well. A life organized around rupture and intensity risks eroding the very conditions that make sustained rebellion possible. The Storm is seductively self-deceptive: many great figures have cursed themselves afterwards for their rash, destructive choices, wishing they had never deluded themselves into chasing the fleeting. In a way, the Storm mistakes the nature of lucid rebellion: not a single act, but a theater play unfolding over a lifetime.
 
 The question, then, is not whether one accepts the cost of such a posture, but whether that cost undermines the capacity for agency itself. Identity is temporal; when continuity collapses, so too does the narrative structure through which a rebellious life is constructed.
 
 The choice is therefore not between right and wrong, but between temporal horizons of existential rebellion: the brief flare and the enduring flame. One may choose the Storm - like **☀️Icarus** - if one accepts its consequences. But one must also recognize that such a choice may be self-limiting, constraining the possibility of sustained agency across time.
 
 Mythopoetic Stoic Absurdism does not forbid the Storm. It simply reveals its cost.
+In turn, the same structure that stabilizes the self can also imprison it. Remember the virtue of temperance[^stoic-virtues]: neither excess rigidity, nor excess turbulence.
 
 And so we arrive at a final image: one must imagine **🪨Sisyphus** not merely enduring his task, but choosing to live as a Stoic sage.
-Or, perhaps even more striking: as a knight clad in Stoic armor, charging at the spectre of absurdity with a sword of virtue, vigorously struggling with it in melee combat, until, finally, smiling as he falls to the ground, blood fatally spilling on the ground.
+Or, perhaps even more striking: as a knight clad in Stoic armor, charging at the spectre of absurdity with a sword of virtue, vigorously struggling with it in melee combat, until, finally, smiling as he falls to the ground, blood fatally spilling on the soil.
 
 This philosophy of life is the distilled outcome of my reflections.
 [Its psychological and pragmatic foundations are addressed separately.](/apology)
@@ -83,7 +84,7 @@ These tenets are not claims about what is ultimately true or good, but about wha
 1. **The self is relational.**  
    Existential rebellion is a personal task, but can be nourished through authentic engagement with others.
 1. **People are ends, not means[^principle-of-humanity].**  
-   Treating people as ends rather than means is a particularly stable basis for intersubjective trust and moral coherence among free agents.
+   Treating people as ends rather than means is a particularly stable basis for intersubjective trust and moral coherence among free agents, enabling _dignitas_[^dignitas] and _fides_[^fides].
 1. **To live in bad faith[^bad-faith] is to betray one's freedom.**  
    This betrayal has an internal, rather than cosmic cost. Avoid self-deception, external roles, and unexamined conformity. Live deliberately, and construct the self with conscious authorship.
 1. **Finitude is not a flaw, but the condition of existence.**  
@@ -94,18 +95,18 @@ These tenets are not claims about what is ultimately true or good, but about wha
 ## **III. VIRTUE & RESPONSE**
 
 1. **Fate is beyond our control; response is not.**  
-   One may endure, rebel, or transform adversity with dignity. This freedom of response is irreducible.
+   One may endure, rebel, or transform adversity with _gravitas_[^gravitas] and _dignitas_[^dignitas]. This freedom of response is irreducible.
 1. **Virtue is not divine command, but an exemplar of chosen coherence.**  
    It is a reasoned stance amid disorder - not the only path to existential rebellion, but the most consistent. However, it is always a choice, not a chain.
 1. **Virtue tends to stabilize judgment and action.**  
    Indifferents[^stoic-indifferents] - health, fame, fortune - may offer pleasure or supposed meaning, but never _eudaimonia_. Do not mistake them for the good.
 1. **To live with virtue is to sever dependency on moral causality.**  
    Act without hope of reward or fear of punishment. Be free from events, if not from their happening.
-1. **_Virtus_ originates in the individual, but achieves full expression only through _dignitas_: the recognition of one's character within a community of equals.**  
+1. **Virtue originates in the individual, but achieves full expression only through _dignitas_[^dignitas]: the recognition of one's character within a community of equals.**  
    Its worth lies not in private sentiment, but in reason shared between equals in a polis. Like a social contract[^social-contract] among free minds, it must resonate intersubjectively - lest it become tyranny dressed in righteousness.
 1. **The Four Cardinal Virtues arise not from nature, but from nobility of response:**
 
-* **Courage** is admirable - not because it triumphs, but because it preserves dignity amid despair and futility.
+* **Courage** is admirable - not because it triumphs, but because it preserves _dignitas_[^dignitas] amid despair and futility.
 * **Justice** is admirable - not because it creates order, but for the mutual acknowledgment that all who reason are worthy of recognition.
 * **Temperance** is admirable - not to deny or encourage pleasure, but to master it with grace and indifference.
 * **Wisdom** is admirable - not because it controls events, but because it reveals how to live freely within necessity.
@@ -116,7 +117,7 @@ And remember:
 ## **IV. REBELLION & CONNECTION**
 
 1. **Rebellion[^absurd-rebellion] against absurdity is not instrumentally rational, but it is beautiful.**  
-    It affirms dignity where there is no promise of reward.
+    It affirms _dignitas_[^dignitas] where there is no promise of reward.
 1. **Connection is not owed, but may be dared.**  
     Service, kindness, love, and sacrifice are not demanded - but striving for ethical living may deepen our rebellion and reflection.
 1. **To join the world is to love it freely.**  
@@ -127,7 +128,7 @@ And remember:
 1. **Instinct is not instruction.**  
     Our nature inclines us toward sociality, empathy, and care, but also to fear, cruelty, and tribalism. These are seeds, not laws. Biology and evolution explain tendencies, not obligations.
 1. **Virtue begins where reflection intervenes in nature.**  
-    To act morally is not to follow instinct, but to reflect upon it: accepting, reshaping, or resisting it in pursuit of dignity and coherence. For what is natural is not automatically that which is good.
+    To act morally is not to follow instinct, but to reflect upon it: accepting, reshaping, or resisting it in pursuit of _fides_[^fides], _dignitas_[^dignitas] and constantia[^constantia]. For what is natural is not automatically that which is good.
 1. **Freedom is defiance made conscious.**  
     We are evolved, not enslaved. To live well is to transcend reflex: to rise from creature to character, from reaction to response.  
 
@@ -469,7 +470,15 @@ At the end, freedom stripped of illusion, the condition of mortals speaks for it
 
 [^eudaimonia]: A state of deep human flourishing traditionally understood as virtue and reasoned living rather than pleasure alone. While rooted in earlier Greek ethics (especially Aristotle), the Stoics reinterpret it through moral resilience and rational integrity; see Marcus Aurelius, _Meditations_.
 
-[^stoic-virtues]: The four cardinal Stoic virtues are wisdom, courage, justice, and temperance. Wisdom is understood as the capacity to discern what is true and good, aligning thought with reason and nature. Courage is moral fortitude - acting rightly despite fear or hardship. Justice involves fairness, honesty, and concern for the common good, treating others with integrity and dignity. Temperance is self-mastery: the measured restraint of desires and impulses, much like Aristotle's "Golden Mean" between excess and deficiency. The essence of wisdom and courage is elegantly captured in the Serenity Prayer: <br><br>_Grant me the serenity to accept the things I cannot change;<br>courage to change the things I can;<br>and wisdom to know the difference._
+[^stoic-virtues]: The four cardinal Stoic virtues are wisdom, courage, justice, and temperance. Wisdom is understood as the capacity to discern what is true and good, aligning thought with reason and nature. Courage is moral fortitude - acting rightly despite fear or hardship. Justice involves fairness, honesty, and concern for the common good, treating others with integrity and dignity. Temperance is self-mastery: the measured restraint of desires and impulses, much like Aristotle's "Golden Mean" between excess and deficiency. Wisdom, courage and temperance in particular are central to the Roman conception of virtue: _virtus_ is demonstrated excellence in action. The essence of wisdom and courage is elegantly captured in the Serenity Prayer: <br><br>_Grant me the serenity to accept the things I cannot change;<br>courage to change the things I can;<br>and wisdom to know the difference._
+
+[^fides]: Across Roman usage, _fides_ denotes trustworthiness, fidelity, and reliability in one's commitments. It is the quality of being worthy of trust: keeping one's word, honoring obligations, and remaining loyal to people, principles, and promises. In MSA, _fides_ functions as the social dimension of integrity, enabling durable relationships, cooperative action, and the mutual trust upon which shared narratives depend.
+
+[^dignitas]: Across Roman usage, _dignitas_ denotes a sense of earned worth, moral stature, and honorable standing. It arises not from status alone but from a life lived in accordance with one's principles and responsibilities. In MSA, _dignitas_ represents the preservation of self-respect amidst the Absurd: the refusal to surrender one's values, agency, or humanity even when confronted with meaninglessness, suffering, or defeat.
+
+[^constantia]: Explicitly identified by Seneca. It means steadfastness, endurance across time, and consistency under changing conditions. In MSA, a foundational enabler for narrative identity as well as making a life lived with consistent lucid rebellion possible at all.
+
+[^gravitas]: Across Roman usage, _gravitas_ denotes a certain seriousness of purpose, a moral weight, and resistance to triviality. Unlike _virtus_, which is about excellence in action, _gravitas_ is about bearing.
 
 [^stoic-indifferents]: Things neither morally good nor bad in themselves (e.g., health, wealth, status), though they may be preferable or dispreferable.
 
