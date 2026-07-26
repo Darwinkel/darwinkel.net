@@ -42,3 +42,11 @@ To convert all `jpg` files:
 ```sh
 for f in *.jpg; do cwebp -q 100 -m 6 -mt -metadata none -resize 1020 0 "$f" -o "${f%.jpg}.webp"; done
 ```
+
+## Video compression
+
+Use `ffmpeg` to optimize videos for web distribution. Below reduces a 5.8MB video to 2.6MB.
+
+```sh
+for f in *.mp4; do ffmpeg -i "$f"   -c:v libsvtav1   -crf 24   -preset 4   -pix_fmt yuv420p10le   -svtav1-params tune=0   -c:a libopus   -b:a 128k   -vbr on   -compression_level 10   "${f%.mp4}.webm"; done
+```

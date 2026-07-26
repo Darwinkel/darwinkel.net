@@ -60,4 +60,23 @@ A foliar spray was applied after taking the below picture.
 Last year, there were some differences in the exact ratios of the terraforming mix between the rows.
 I wonder if that is the cause of this disbalance. Or perhaps there are local differences in how the lime was applied?
 
+In any case, I think I will do another liming round in autumn with dolomite chalk, which should increase the pH (increasing nutrient availability) and add more magnesium to the soil.
+
 ![Mid July](/images/2026/late_june.webp "Mid July")
+
+#### Examples of magnesium deficiencies
+
+![Mid July Magnesium Deficiency 1](/images/2026/mid_july_magnesium_deficiency_1.webp "Mid July Magnesium Deficiency 1")
+
+![Mid July Magnesium Deficiency 2](/images/2026/mid_july_magnesium_deficiency_2.webp "Mid July Magnesium Deficiency 2")
+
+![Mid July Magnesium Deficiency 3](/images/2026/mid_july_magnesium_deficiency_3.webp "Mid July Magnesium Deficiency 3")
+
+### Late July
+
+I finally installed a permanent dripping hose which I connected to the groundwater pump. This should enable deeper, less superficial soaking during summer, hopefully encouraging the roots to dig deeper.
+
+<video width="100%" controls>
+  <source src="/videos/2026/irrigation_system.webm" type="video/webm">
+Your browser does not support the video tag.
+</video>
