@@ -4,7 +4,7 @@ title: Rituals and practice
 permalink: /rituals/
 ---
 
-## The 🛡Order of the 🗡️Paladins of the Open Eye
+## The 🛡Order of the 🗡️Paladins of the Open 👁Eye
 
 ### On the Nature and Origin of the 🛡Order
 
@@ -19,7 +19,7 @@ The willful repetition of life.
 
 It was from this recognition that people began to gather. Not in hope of salvation, but because standing alone had proven insufficient. In time, those who refused both despair and illusion began to recognize one another.
 
-At first, it was necessity: a shield raised against the Age of Monsters - against chimeras, gorgons, harpies, and the things that crawled from broken lands and broken minds. The early 🗡️Paladins were defenders before they were seekers. They fought not to win history, but to allow tomorrow to exist at all. Even then, whispers of the Holy Grail reached them - the thing that might render struggle meaningful. The Quest began, and did not cease. It deepened.
+At first, it was necessity: a shield raised against the Age of Monsters - against chimeras, gorgons, harpies, and the things that crawled from broken lands and broken minds. The early 🗡️Paladins were defenders before they were seekers. They fought not to win history, but to allow tomorrow to exist at all. Even then, whispers of the Holy 🏆Grail reached them - the thing that might render struggle meaningful. The Quest began, and did not cease. It deepened.
 
 The 🛡Order was never of one mind. 🗡️Paladins argued beside campfires and in ruined halls, disputing not whether the world was cruel, but how one ought to stand within it. Rank conferred no final authority; reasons were offered, challenged, and refined among equals. From this friction arose not dogma, but shared resolve.
 
@@ -29,11 +29,73 @@ Not all agreed where dignity ended and compromise began. Some withdrew from batt
 
 In battle and its aftermath, the 🗡️Paladins felt great temptations. Fear made cruelty feel efficient. Victory made excess feel earned. Plunder masqueraded as justice; indifference as survival; obedience as relief from choice. Desire begged to be silenced - not with a glass of wine, but the whole bottle. These impulses were not alien intrusions, but human ones, born of hunger, exhaustion, and a commonwealth under threat. The 🛡Order did not deny them, nor did it allow itself to become an excuse. Virtue, they learned, did not arise from purity of instinct, but from the refusal to let instinct decide.
 
-When the Age of Monsters waned, the 🛡Order did not dissolve, for the Grail remained unfound. The path was no less perilous without open war. The land was scarred. Old horrors lingered - some with teeth and talons, others with ledgers, smokestacks, and forests felled for industry and greed, their ghosts haunting the scarred land across generations.
+When the Age of Monsters waned, the 🛡Order did not dissolve, for the 🏆Grail remained unfound. The path was no less perilous without open war. The land was scarred. Old horrors lingered - some with teeth and talons, others with ledgers, smokestacks, and forests felled for industry and greed, their ghosts haunting the scarred land across generations.
 
-In their ongoing Quest, the 🗡️Paladins seek to live well and flourish: to act calmly, with restraint, and without guarantees, to shoulder responsibility without illusion, and to continue seeking though the nature of the Grail remains unresolved, even among the wisest of loremasters.
+In their ongoing Quest, the 🗡️Paladins seek to live well and flourish: to act calmly, with restraint, and without guarantees, to shoulder responsibility without illusion, and to continue seeking though the nature of the 🏆Grail remains unresolved, even among the wisest of loremasters.
 
 Thus the 🛡Order endures - not because the world is ending, but because it is not. Because there is work to be done after calamity, and because the Quest matters most precisely when no final victory is promised.
+
+#### The 🤴Crusaders of the Unveiled ✋Hand
+
+The first fracture within the 🛡Order did not come from hatred, greed, or a rejection of virtue. It came from exhaustion.
+
+For centuries, the 🗡️Paladins had carried the burden of the Quest. They had fought monsters, rebuilt cities, buried the fallen, and debated the meaning of the Holy 🏆Grail beneath the shadow of an indifferent sky. They accepted uncertainty as a companion and doubt as a safeguard against pride.
+
+Yet among them arose those who began to believe that uncertainty itself had become the greatest obstacle.
+
+They looked upon generations of suffering and asked: how many lives had been lost while the 🛡Order deliberated? How many innocents had suffered while the wise debated the limits of action? How many monsters had been allowed to endure because the Paladins feared the possibility of becoming monsters themselves?
+
+From this belief emerged the 🤴Crusaders of the Unveiled ✋Hand.
+
+They did not claim to abandon the Quest. They claimed to have understood it.
+
+They taught that the Holy 🏆Grail had never been hidden from humanity; rather, humanity had been blinded by hesitation, fear, and endless questioning. The 🏆Grail, they argued, revealed itself not to those who waited in doubt, but to those with the courage to recognize the truth already before them.
+
+Their first leaders spoke not with anger, but with sorrow. They believed the old 🛡Order had confused humility with weakness, caution with cowardice, and doubt with wisdom. Their words carried the weight of genuine sacrifice, and many who heard them found it difficult to dismiss their argument.
+
+The following declaration, preserved in the archives of the Schism, is considered the founding speech of the 🤴Crusaders of the Unveiled ✋Hand:
+
+"How long shall we wander? How many generations shall carry the burden of a question left unanswered? How many shall fall beneath the claws of monsters while we gather in halls, weigh possibilities, and debate the shape of the blade?
+
+The 🏆Grail was never absent. We were blinded by our own uncertainty. It has always stood before us, waiting not for those who question, but for those with the courage to recognize it.
+
+The Quest was never meant to be endless. The path was never meant to remain hidden forever. There comes a moment when searching becomes avoidance, when doubt becomes fear, when deliberation becomes the refuge of those unwilling to act.
+
+We shall wander no longer.
+
+We shall serve the 🏆Grail not as judges, but as instruments. For who are we to place our limited judgment above the truth we have finally found?
+
+Never again shall uncertainty claim lives that certainty could have saved. Never again shall hesitation be mistaken for wisdom.
+
+Unity shall be our shield. Purpose shall be our sword. Where others pause, we advance. Where others question, we remember.
+
+The 🏆Grail is not hidden from the worthy. It is revealed to those who possess the courage to act.
+
+Perfection is not arrogance. Perfection is devotion made complete. If virtue is known and the Good is revealed, why do we tolerate the corruption that stands against it?
+
+Why preserve the flaws that keep humanity from its salvation?
+
+The world is wounded because we have accepted its wounds for too long. The imperfect soul is not merely a victim of suffering; it is also a source of suffering. What cannot be redeemed must be corrected. What cannot be corrected must be removed.
+
+We have seen what others refuse to see. We have carried burdens others were unwilling to bear. We have descended into darkness and returned with knowledge purchased in blood.
+
+And because we understand evil, we shall not be defeated by our refusal to touch it. The physician does not fear the poison he uses to heal. The sword does not become unjust because it cuts.
+
+If darkness must be taken into our hands to preserve the light, then so be it.
+
+For the 🏆Grail does not ask us to remain pure.
+
+It asks us to be victorious."
+
+Thus began the great disagreement between the 🗡️Paladins and the 🤴Crusaders.
+
+The 🗡️Paladins continued to believe that the Quest for the 🏆Grail was still ongoing.
+
+The 🤴Crusaders believed the Quest had reached its conclusion: the 🏆Grail had been unveiled, and humanity's task was no longer to seek, but to serve.
+
+Neither side believed they had abandoned virtue.
+
+That was precisely why the schism endured.
 
 ### The Citadel and the Palatine Hill
 
@@ -129,7 +191,7 @@ They may:
 Yet the archives record a warning often repeated to novices:
 
 > No quest accepted is no act taken.  
-> And if none act, the Grail will never be found.
+> And if none act, the 🏆Grail will never be found.
 
 ### Quests and Monsters
 

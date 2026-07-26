@@ -10,7 +10,7 @@ _This tale is a work-in-progress._
 
 Sing, **🎶Calliope**, for the Heavens are vast, and they do not answer. All things move within **🌌Iuppiter**, yet no voice descends.
 
-The 🗡️Paladins rode at dawn, their boots wet with dew, their cloaks stiff with the night's frost. Word had come from the south: a fire had consumed the old potion factory, and amid its ruins, a strange artifact had supposedly been uncovered. No one who spoke knew its precise nature, and though rumors spoke of power and promise, its exact meaning was veiled even to those who sought it most. Perhaps it was the Holy Grail that the 🗡️Paladins had sought for so long.
+The 🗡️Paladins rode at dawn, their boots wet with dew, their cloaks stiff with the night's frost. Word had come from the south: a fire had consumed the old potion factory, and amid its ruins, a strange artifact had supposedly been uncovered. No one who spoke knew its precise nature, and though rumors spoke of power and promise, its exact meaning was veiled even to those who sought it most. Perhaps it was the Holy 🏆Grail that the 🗡️Paladins had sought for so long.
 
 Balanced Serena led the way, scanning the ruined lands with measured eyes. Lucian followed, the Watcher, his gaze weighing more than the ground beneath his feet, the burden of foresight bending his shoulders. Behind them came Valeria, unbroken, her silence harder than steel; and with her walked Justinian, sworn to the scales, his pace steady, his thoughts half on the road and half on the whispered warnings: the forest had grown restless, shadows shifted where they should not, and the wind carried a faint, sorrowful song.
 
