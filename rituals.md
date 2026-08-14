@@ -378,12 +378,31 @@ Spoken gently in moments of failure.
 
 > To our glorious misfortunes - may they teach better than Fate.
 
-#### Saturnalia (December 17–23)
+#### Saturnalia (December 17-23)
 
 - Roles inverted, excess permitted, order joyfully suspended.
 
 ## Joining the 🛡Order
 
-If you're interested in joining the **🛡Order of the 🗡️Paladins of the Open 👁Eye** and/or becoming a **Mythopoetic Stoic Absurdist**, then congratulations! Count yourself among the 🗡️Paladins. You may pay your annual membership fee to a charity of your choice.
+If you're interested in joining the **🛡Order of the 🗡️Paladins of the Open 👁Eye** and/or becoming a **Mythopoetic Stoic Absurdist**, then congratulations! Count yourself among the 🗡️Paladins. You may pay your annual membership fee to one or more charities of your choice.
 
 To find the Citadel where you will take your initiation vows with the 🛡Order, you need only look deeply within yourself. In due time, fellow 🗡️Paladins will reveal themselves to you and aid you in the 📜Quest.
+
+The height of the annual membership fee is dependent on how smug, virtue signalling, and morally superior one wants to feel, and how much absolution one wants to buy for their soul, but the table below can be used for inspiration:
+
+| Gross annual personal income relative to national median individual income | Membership fee          |
+| -------------------------------------------------------------------------: | ----------------------: |
+|                                                                   **0-1x** |           **0.5%-1.5%** |
+|                                                                   **1-2x** |             **1.5%-3%** |
+|                                                                   **2-4x** |               **3%-6%** |
+|                                                                   **4-8x** |              **6%-10%** |
+|                                                                    **8x+** |                **10%+** |
+
+* **Gross annual personal income**: your total individual income before income tax, social contributions, and personal deductions. This is individual, rather than household, income.
+* **National median individual income**: the income at which half of individuals earn less and half earn more, using the relevant country's latest available statistics. This is the **1x benchmark**.
+* **x (times)**: indicates how your income compares with the national median. For example, **2x means twice the national median individual income**.
+* **Membership fee**: the percentage of your entire gross annual personal income that you contribute to one or more charities of your choice. The percentages are not marginal rates: if you earn 3x the national median and choose 5%, you contribute 5% of your entire gross income.
+* **Pre-tax; pre-deductibles**: the contribution is calculated from gross income before income tax and before personal or donation-related tax deductions. Any tax benefit resulting from a donation does not reduce the amount counted as your membership fee.
+* **Contribution range**: the range is intended as a guide rather than a precise obligation. Within each band, you choose where you want to place yourself; the ranges are intended to encourage a higher fee as disposable income rises.
+
+**Example:** If the national median individual income is €40,000 and you earn €120,000, you earn 3x the median. You therefore fall into the 2-4x band and would contribute 3%-6% of your €120,000 gross income, i.e., €3,600-€7,200.
