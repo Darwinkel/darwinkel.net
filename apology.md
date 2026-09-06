@@ -50,13 +50,10 @@ By fostering emotional flexibility, inner coherence, and value-guided action, MS
 
 ### Psychology and cognitive science
 
-- Frankl, V. E. (1946). *Man's Search for Meaning*.
 - Ellis, A. (1962). *Reason and Emotion in Psychotherapy*.
 - May, R. (1969). *Love and Will*.
-- Becker, E. (1973). *The Denial of Death*.
 - May, R. (1975). *The Courage to Create*.
 - Beck, A. T. (1979). *Cognitive Therapy and the Emotional Disorders*.
-- Yalom, I. D. (1980). *Existential Psychotherapy*.
 - Hayes, S. C., Strosahl, K. D., & Wilson, K. G. (1999). *Acceptance and Commitment Therapy*.
 - Robertson, D. (2010). *How to Think Like Socrates*, *Build Your Resilience*, *The Philosophy of Cognitive-Behavioural Therapy (CBT)*, *How To Think Like A Roman Emperor*, and *Stoicism And The Art Of Happiness*.
 - Ryan, R. M., & Deci, E. L. (2017). *Self-determination theory: Basic psychological needs in motivation, development, and wellness.*
@@ -67,3 +64,4 @@ By fostering emotional flexibility, inner coherence, and value-guided action, MS
 - Campbell, J. (1949). *The Hero with a Thousand Faces*.
 - Jung, C. G. (1964). *Man and His Symbols*.
 - McAdams, D. P. (2001). *The Psychology of Life Stories*.
+- Fry, S. Great Mythology Series: _Mythos_ (2017 CE), _Heroes_ (2018 CE), _Troy_ (2020 CE), _Odyssey_ (2024 CE).

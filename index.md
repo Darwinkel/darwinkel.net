@@ -381,7 +381,9 @@ At the end, freedom stripped of illusion, the condition of mortals speaks for it
 * Camus, A. (1942 CE). _The Myth of Sisyphus_.
 * Sartre, J.-P. (1943 CE). _Being and Nothingness_.
 * Frankl, V. E. (1946 CE). _Man's Search for Meaning_.
-* Fry, S. Great Mythology Series: _Mythos_ (2017 CE), _Heroes_ (2018 CE), _Troy_ (2020 CE), _Odyssey_ (2024 CE).[^fry-note]
+* Arendt, H. (1958 CE). _The Human Condition_.
+* Becker, E. (1973 CE). _The Denial of Death_.
+* Yalom, I. D. (1980 CE). _Existential Psychotherapy_.
 
 ## Recommended media
 
@@ -487,8 +489,6 @@ At the end, freedom stripped of illusion, the condition of mortals speaks for it
 [^death-of-god]: Nietzsche's claim that the collapse of traditional religious certainty (the _death of God_) ushers in a crisis of meaning and value, often interpreted as demanding new self-created values.
 
 [^eternal-recurrence]: Nietzsche's thought experiment asking whether one could will their life to repeat eternally, as a radical test of affirmation, strength, and _amor fati_[^amor-fati]. See Friedrich Nietzsche, _The Gay Science_ (1882 CE) and _Thus Spoke Zarathustra_ (1883-1885 CE).
-
-[^fry-note]: Though not a primary source, Stephen Fry provides an accessible and cohesive retelling of Greek myth, helping modern readers engage with ancient narratives.
 
 [^utility-monster]: Reference to Robert Nozick's "Utility Monster" which challenges total utilitarianism by revealing how maximizing aggregate utility can justify severe injustice. Presented in _Anarchy, State, and Utopia_ (1974 CE). "Hedons" and "dolors" are conceptual units of pleasure and pain.
 
