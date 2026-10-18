@@ -64,6 +64,8 @@ Or, perhaps even more striking: as a knight clad in Stoic armor, charging at the
 This philosophy of life is the distilled outcome of my reflections.
 [Its psychological and pragmatic foundations are addressed separately.](/apology)
 
+![🗡️Paladin of the 🛡Order of the Open 👁Eye](/images/paladin.webp "🗡️Paladin of the 🛡Order of the Open 👁Eye"){: style="display: block; margin-left: auto; margin-right: auto;"}
+
 # Tenets
 
 These tenets exist not to bind, but to illuminate. They are maps for wandering souls, tools for shaping life amid a universe that offers neither guidance nor promise. They call on us to confront the silent void, to cultivate virtue and rebellion through choice, courage, and reflection. To internalize them is not to obey, but to arm oneself with clarity and direction: if one so chooses, to live deliberately, love authentically, and meet suffering with dignity. Here begins the invitation: to engage the world, to question oneself, and to forge a life one can recognize and affirm as one's own. To that end, these tenets articulate an existential ontology, a restrained epistemology, an intersubjective ethics, and a civic conception of virtue.
