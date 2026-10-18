@@ -134,3 +134,47 @@ figure.highlight {
 .site-nav .nav-item:focus-visible {
     color: $msa-gold;
 }
+
+/* Social media icons */
+.social-media-list a,
+.social-media-list a:visited {
+    color: $msa-gold;
+    text-decoration: none;
+    transition: color 150ms ease;
+}
+
+.social-media-list a:hover {
+    color: $msa-ivory;
+}
+
+/* Accessible keyboard focus */
+.social-media-list a:focus-visible {
+    color: $msa-ivory;
+    outline: 2px solid $msa-gold;
+    outline-offset: 4px;
+    border-radius: 2px;
+}
+
+/* Respect reduced-motion preferences */
+@media (prefers-reduced-motion: reduce) {
+    .social-media-list a {
+        transition: none;
+    }
+}
+
+/* Social media icon colours */
+.social-media-list a .grey {
+    color: $msa-gold;
+    transition: color 150ms ease;
+}
+
+.social-media-list a:hover .grey,
+.social-media-list a:focus-visible .grey {
+    color: $msa-ivory;
+}
+
+@media (prefers-reduced-motion: reduce) {
+    .social-media-list a .grey {
+        transition: none;
+    }
+}
