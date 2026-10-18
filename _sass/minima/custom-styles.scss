@@ -1,0 +1,136 @@
+/* Restrained but recognisable visual identity */
+
+/* A clear antique-gold signature on the header */
+.site-header {
+    border-top: 3px solid $msa-gold;
+    border-bottom-color: rgba($msa-gold, 0.25);
+}
+
+/* Gold identity for the site title */
+.site-title,
+.site-title:visited {
+    color: $msa-ivory;
+    text-decoration-color: $msa-gold;
+    text-decoration-thickness: 2px;
+    text-underline-offset: 4px;
+}
+
+/* Navigation: understated until interaction */
+.site-nav .page-link {
+    color: $msa-ivory;
+    transition: color 150ms ease;
+}
+
+.site-nav .page-link:hover {
+    color: $msa-gold;
+}
+
+/* Gold editorial marker, without a large coloured panel */
+blockquote {
+    border-left: 3px solid $msa-gold;
+}
+
+/* More deliberate section separation */
+hr {
+    border: 0;
+    border-top: 1px solid rgba($msa-gold, 0.45);
+}
+
+/* Gold focus indicator for keyboard navigation */
+:focus-visible {
+    outline: 2px solid $msa-gold;
+    outline-offset: 3px;
+}
+
+/* Subtle gold emphasis on the footer boundary */
+.site-footer {
+    border-top-color: rgba($msa-gold, 0.35);
+}
+
+/* Avoid transitions for visitors who request reduced motion */
+@media (prefers-reduced-motion: reduce) {
+    .site-nav .page-link {
+        transition: none;
+    }
+}
+
+/* Ivory headings distinguish structure from body text */
+.page-content h1,
+.page-content h2,
+.page-content h3,
+.post-title,
+.post-title a {
+    color: $msa-ivory;
+}
+
+/* Gold rules make major sections feel intentional */
+.page-content h2 {
+    padding-bottom: 0.35em;
+    border-bottom: 1px solid rgba(200, 160, 90, 0.45);
+}
+
+.page-content h3 {
+    text-decoration: underline;
+    text-decoration-color: rgba(200, 160, 90, 0.65);
+    text-decoration-thickness: 1px;
+    text-underline-offset: 0.25em;
+}
+
+/* A quiet gold wash behind quotations */
+blockquote {
+    background-color: rgba(200, 160, 90, 0.045);
+    padding: 0.8em 1em;
+    border-left: 3px solid $msa-gold;
+}
+
+/* The void becomes a deliberate inset surface */
+pre,
+div.highlighter-rouge,
+figure.highlight {
+    background-color: $msa-void;
+    border: 1px solid rgba(200, 160, 90, 0.22);
+    border-radius: 4px;
+}
+
+/* Keep inline code distinct from surrounding prose */
+:not(pre)>code {
+    color: $msa-ivory;
+    background-color: rgba(200, 160, 90, 0.10);
+    border: 1px solid rgba(200, 160, 90, 0.18);
+    border-radius: 3px;
+    padding: 0.1em 0.3em;
+}
+
+/* Stronger, consistent link identity */
+.page-content a,
+.post-content a {
+    text-decoration-color: rgba(200, 160, 90, 0.65);
+    text-underline-offset: 0.18em;
+}
+
+.page-content a:hover,
+.post-content a:hover {
+    text-decoration-color: $msa-ivory;
+}
+
+/* A little more structure in the post listing */
+.post-list>li {
+    border-bottom: 1px solid rgba(200, 160, 90, 0.18);
+    padding-bottom: 1em;
+    margin-bottom: 1em;
+}
+
+.post-meta {
+    color: $msa-gold;
+}
+
+/* Navigation colours */
+.site-nav .nav-item,
+.site-nav .nav-item:visited {
+    color: $msa-ivory;
+}
+
+.site-nav .nav-item:hover,
+.site-nav .nav-item:focus-visible {
+    color: $msa-gold;
+}

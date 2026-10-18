@@ -17,7 +17,7 @@ feed:
   posts_limit: 25
 
 minima:
-  skin: auto
+  skin: dark
   date_format: "%B %-d, %Y"
   show_excerpts: true
 

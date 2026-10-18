@@ -269,7 +269,7 @@ She smiles without warmth, flawless and serene. Her song promises purity: a life
 
 ## 👑Siren of the Earned Crown
 
-She praises you softly, reasonably. Her song is made of effort rewarded, nights worked late, pleasures deferred. "You earned this," she says. "And what is earned is deserved. Success becomes evidence of virtue, virtue proof of a just world. The system feels fair to you.
+She praises you softly, reasonably. Her song is made of effort rewarded, nights worked late, pleasures deferred. "You earned this," she says. "And what is earned is deserved." Success becomes evidence of virtue, virtue proof of a just world. The system feels fair to you.
 
 **🎲Fortuna** quietly exits the story. So do inheritance, health, timing, teachers, infrastructure, and the countless contingencies that never appear on a résumé. What remains is a clean narrative: you tried, you succeeded, therefore the outcome is just.
 
