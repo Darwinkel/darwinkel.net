@@ -64,7 +64,7 @@ Or, perhaps even more striking: as a knight clad in Stoic armor, charging at the
 This philosophy of life is the distilled outcome of my reflections.
 [Its psychological and pragmatic foundations are addressed separately.](/apology)
 
-![🗡️Paladin of the 🛡Order of the Open 👁Eye](/images/paladin_optimized.webp "🗡️Paladin of the 🛡Order of the Open 👁Eye"){: style="display: block; margin-left: auto; margin-right: auto;"}
+![Measure of a Mortal](/images/paladin_optimized.webp "Measure of a Mortal"){: style="display: block; margin-left: auto; margin-right: auto;"}
 
 # Tenets
 
