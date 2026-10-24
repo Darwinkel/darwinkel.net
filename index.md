@@ -10,6 +10,10 @@ layout: base
 
 ---
 
+![Measure of a Mortal](/images/paladin_optimized.webp "Measure of a Mortal"){: style="display: block; margin-left: auto; margin-right: auto;"}
+
+---
+
 We begin with a simple observation: _conscious beings are meaning-seeking, narrative-constructing creatures for whom a sense of flourishing depends on the stability of self across time, constantia[^constantia] and its recognition by others, fides[^fides][^axiom-of-msa]._
 
 If the "self" is narratively constructed and temporally extended, then its durability depends on the integrity of the agent that constructs it. Any posture that undermines this integrity undermines the very conditions for lucid rebellion against the Absurd[^absurdism], as it demands the _gravitas_[^gravitas] of one who chooses deliberately to live fully despite life's absence of meaning.
@@ -63,8 +67,6 @@ Or, perhaps even more striking: as a knight clad in Stoic armor, charging at the
 
 This philosophy of life is the distilled outcome of my reflections.
 [Its psychological and pragmatic foundations are addressed separately.](/apology)
-
-![Measure of a Mortal](/images/paladin_optimized.webp "Measure of a Mortal"){: style="display: block; margin-left: auto; margin-right: auto;"}
 
 # Tenets
 
