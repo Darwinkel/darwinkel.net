@@ -398,12 +398,12 @@ The height of the annual membership fee is dependent on how smug, virtue signall
 |                                                                   **4-8x** |              **6%-10%** |
 |                                                                    **8x+** |                **10%+** |
 
-* **Gross annual personal income**: your total individual income before income tax, social contributions, and personal deductions. This is individual, rather than household, income.
-* **National median individual income**: the income at which half of individuals earn less and half earn more, using the relevant country's latest available statistics. This is the 1x benchmark.
-* **x (times)**: indicates how your income compares with the national median. For example, 2x means twice the national median individual income.
-* **Membership fee**: the percentage of your entire gross annual personal income that you contribute to one or more charities of your choice. The percentages are not marginal rates: if you earn 3x the national median and choose 5%, you contribute 5% of your entire gross income.
-* **Pre-tax; pre-deductibles**: the contribution is calculated from gross income before income tax and before personal or donation-related tax deductions. Any tax benefit resulting from a donation does not reduce the amount counted as your membership fee.
-* **Contribution range**: the range is intended as a guide rather than a precise obligation. Within each band, you choose where you want to place yourself; the ranges are intended to encourage a higher fee as disposable income rises.
+- **Gross annual personal income**: your total individual income before income tax, social contributions, and personal deductions. This is individual, rather than household, income.
+- **National median individual income**: the income at which half of individuals earn less and half earn more, using the relevant country's latest available statistics. This is the 1x benchmark.
+- **x (times)**: indicates how your income compares with the national median. For example, 2x means twice the national median individual income.
+- **Membership fee**: the percentage of your entire gross annual personal income that you contribute to one or more charities of your choice. The percentages are not marginal rates: if you earn 3x the national median and choose 5%, you contribute 5% of your entire gross income.
+- **Pre-tax; pre-deductibles**: the contribution is calculated from gross income before income tax and before personal or donation-related tax deductions. Any tax benefit resulting from a donation does not reduce the amount counted as your membership fee.
+- **Contribution range**: the range is intended as a guide rather than a precise obligation. Within each band, you choose where you want to place yourself; the ranges are intended to encourage a higher fee as disposable income rises.
 
 **Example:** If the national median individual income is €40,000 and you earn €120,000, you earn 3x the median. You therefore fall into the 2-4x band and would contribute 3%-6% of your €120,000 gross income, i.e., €3,600-€7,200.
 
@@ -412,6 +412,7 @@ The height of the annual membership fee is dependent on how smug, virtue signall
 The 🛡Order records the total amount of membership fees paid by 🗡️Paladins.
 Please inform your local scribe when you have paid your annual membership fee so this number can be updated.
 
-| Year | Total amount of membership fees paid by 🗡️Paladins |
-| ---: | -------------------------------------------------: |
-| 2026 | **€300,00**                                        |
+| Year | Total amount of membership fees paid by 🗡️Paladins | Beneficiaries of funded 🗡️Paladin quests and missions |
+| ---: | -------------------------------------------------: | ----------------------: |
+| 2026 | **€385,00**                                        | **Trees4All**, **Rijksmuseum van Oudheden**, **Drents Museum**.
+| 2027 | **€1585,00**                                       | **Trees4All**, **DoneerEffectief**, **Rijksmuseum van Oudheden**, **Drents Museum**.
