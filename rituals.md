@@ -414,5 +414,5 @@ Please inform your local scribe when you have paid your annual membership fee so
 
 | Year | Total amount of membership fees paid by 🗡️Paladins | Beneficiaries of funded 🗡️Paladin quests and missions |
 | ---: | -------------------------------------------------: | ----------------------: |
-| 2026 | **€385,00**                                        | **Trees4All**, **Rijksmuseum van Oudheden**, **Drents Museum**.
-| 2027 | **€1585,00**                                       | **Trees4All**, **DoneerEffectief**, **Rijksmuseum van Oudheden**, **Drents Museum**.
+| 2026 | **€385,00**                                        | Trees4All, Rijksmuseum van Oudheden, Drents Museum.
+| 2027 | **€1585,00**                                       | Trees4All, DoneerEffectief, Rijksmuseum van Oudheden, Drents Museum.
